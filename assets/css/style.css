@@ -20,6 +20,7 @@ input[type=search] { width:100%; padding:.6rem .8rem; font-size:1.05rem; border:
 footer.site { border-top:1px solid var(--line); color:var(--mut); font-size:.88rem; padding:1rem; text-align:center; }
 .dl { white-space:nowrap; font-size:.9rem; }
 .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(210px, 1fr)); gap:1.2rem; margin:1rem 0 2rem; }
+.cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:1rem; margin:1rem 0 2rem; }
 .card { background:#fff; border:1px solid var(--line); border-radius:6px; padding:.8rem; text-align:center; }
 .card img { max-width:150px; max-height:175px; object-fit:contain; }
 .card-title { font-size:.92rem; margin-top:.6rem; }
