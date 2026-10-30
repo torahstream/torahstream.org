@@ -2,12 +2,12 @@
 {{ partial "hero.html" . }}
 <h2>Currently ongoing</h2>
 <table class="topics">
-<tr><th>Series</th><th class="count">Shiurim</th><th>Latest</th><th></th></tr>
+<tr><th>Series</th><th class="count">Shiurim</th><th>Latest</th><th class="sub">Podcast subscription</th></tr>
 {{ range sort (where .Site.Data.topics "ongoing" true) "last" "desc" }}
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
       <td class="count meta">{{ .count }}</td>
       <td class="meta latest">{{ .last }}</td>
-      <td class="dl"><a href="/{{ .dir }}/{{ .id }}/rss.xml">Subscribe to podcast</a></td></tr>
+      <td class="dl sub"><a class="btn small" href="/{{ .dir }}/{{ .id }}/rss.xml">Subscribe</a></td></tr>
 {{ end }}
 </table>
 {{ partial "products.html" . }}

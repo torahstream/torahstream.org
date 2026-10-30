@@ -119,3 +119,16 @@ h3 { margin:1.4rem 0 .2rem; font-size:1.05rem; }
 .navsearch input { font:inherit; font-size:.9rem; padding:.28rem .6rem .28rem 1.85rem; border-radius:999px; border:1px solid rgba(255,255,255,.45); background:rgba(255,255,255,.14); color:#fff; width:11.5rem; }
 .navsearch input::placeholder { color:rgba(255,255,255,.75); }
 .navsearch input:focus { outline:none; background:#fff; color:#173a5e; }
+
+.btn.small { padding:.22rem .65rem; font-size:.88rem; margin-right:0; }
+table.topics th.sub, table.topics td.sub { text-align:center; }
+table.topics td.sub { white-space:nowrap; }
+@media (max-width: 680px) {
+  main { padding:1rem .55rem 2.5rem; }
+  table.topics td, table.topics th { padding:.38rem .28rem; }
+  table.topics { font-size:.93rem; }
+  table.topics th { font-size:.8rem; }
+  .btn.small { padding:.18rem .5rem; font-size:.85rem; }
+  .hero img { width:150px; }
+  .navsearch input { width:8.2rem; }
+}
