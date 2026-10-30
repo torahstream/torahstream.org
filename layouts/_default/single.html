@@ -27,7 +27,8 @@
     <span class="meta">{{ .Params.count }} shiurim</span>
   </p>
   {{ $eps := index .Site.Data.episodes .Params.topic_id }}
-  <table class="eps">
+  <p><label><input type="checkbox" id="rev"> Show Newest First</label></p>
+  <table class="eps"><tbody id="eps-body">
   {{ range $eps }}
     <tr>
       <td>{{ .Title }}</td>
@@ -36,6 +37,13 @@
       <td class="dl">{{ if .audio }}<a href="{{ .audio }}">MP3</a>{{ end }}{{ if .video }} &middot; <a href="{{ .video }}">Video</a>{{ end }}</td>
     </tr>
   {{ end }}
-  </table>
+  </tbody></table>
+  <script>
+  document.getElementById('rev').addEventListener('change', function () {
+    var b = document.getElementById('eps-body');
+    var rows = Array.prototype.slice.call(b.children).reverse();
+    rows.forEach(function (r) { b.appendChild(r); });
+  });
+  </script>
 {{ end }}
 {{ end }}
