@@ -10,8 +10,10 @@
 {{ end }}
 </div>
 <h2>Torah 2 Go USBs</h2>
+{{ range $cat := slice "Chumash" "Navi" "Halacha and Hashkofa" }}
+<h3>{{ $cat }}</h3>
 <div class="grid">
-{{ range where .Site.Data.products "section" "usb" }}
+{{ range where (where $.Site.Data.products "section" "usb") "category" $cat }}
   <div class="card">
     <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title }}"></a>
     {{ if .title }}<div class="card-title">{{ .title }}</div>{{ end }}
@@ -20,3 +22,4 @@
   </div>
 {{ end }}
 </div>
+{{ end }}

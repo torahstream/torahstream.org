@@ -30,3 +30,4 @@ table.topics td.count { text-align:right; white-space:nowrap; font-variant-numer
 table.topics td.latest { white-space:nowrap; }
 table.topics th { color:var(--mut); font-size:.85rem; font-weight:600; }
 table.topics th.count { text-align:right; }
+h3 { margin:1.4rem 0 .2rem; font-size:1.05rem; }
