@@ -2,11 +2,12 @@
 {{ partial "hero.html" . }}
 <h2>Currently ongoing</h2>
 <table class="topics">
+<tr><th>Series</th><th class="count">Shiurim</th><th>Latest</th><th></th></tr>
 {{ range sort (where .Site.Data.topics "ongoing" true) "last" "desc" }}
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
-      <td class="count meta">{{ .count }} shiurim</td>
-      <td class="meta latest">latest {{ .last }}</td>
-      <td class="dl"><a href="/{{ .dir }}/{{ .id }}/rss.xml">Podcast feed</a></td></tr>
+      <td class="count meta">{{ .count }}</td>
+      <td class="meta latest">{{ .last }}</td>
+      <td class="dl"><a href="/{{ .dir }}/{{ .id }}/rss.xml">Subscribe to podcast</a></td></tr>
 {{ end }}
 </table>
 <p class="meta">All {{ len .Site.Data.topics }} series are listed under <a href="/Rabbi_Viener/">Rabbi Viener</a>.</p>

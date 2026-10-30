@@ -1,6 +1,17 @@
-<h2>Seforim &amp; Torah 2 Go USBs</h2>
+<h2>Seforim</h2>
 <div class="grid">
-{{ range .Site.Data.products }}
+{{ range where .Site.Data.products "section" "seforim" }}
+  <div class="card">
+    <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title }}"></a>
+    {{ if .title }}<div class="card-title">{{ .title }}</div>{{ end }}
+    {{ with .emails }}<div class="card-title">{{ range . }}<a href="mailto:{{ . }}">{{ . }}</a><br>{{ end }}</div>{{ end }}
+    {{ if .buyNow }}<div class="card-buy"><a class="btn" href="{{ .url }}">Buy Now</a></div>{{ end }}
+  </div>
+{{ end }}
+</div>
+<h2>Torah 2 Go USBs</h2>
+<div class="grid">
+{{ range where .Site.Data.products "section" "usb" }}
   <div class="card">
     <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title }}"></a>
     {{ if .title }}<div class="card-title">{{ .title }}</div>{{ end }}
