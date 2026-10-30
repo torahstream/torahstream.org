@@ -6,7 +6,7 @@ SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SNAP = os.environ.get('TS_WWW_SNAPSHOT', os.path.join(SITE, '..', 'repos', 'www.torahstream.org'))
 PUB = sys.argv[1] if len(sys.argv) > 1 else os.path.join(SITE, 'public')
 ok = diff = miss = 0
-for r in ('Rabbi_Viener', 'Rabbi_Lopiansky'):
+for r in ('Rabbi_Viener',):
     for dp, _d, fs in os.walk(os.path.join(SNAP, r)):
         for f in fs:
             if f.endswith(('.xml', '.json')):
@@ -22,4 +22,6 @@ for t in topics:
 eps = len(json.load(open(os.path.join(PUB, 'search.json'))))
 print(f"feeds/json identical: {ok}, diffs: {diff}, missing: {miss}")
 print(f"topic pages: {pages}/{len(topics)}; search index episodes: {eps}")
-sys.exit(1 if (diff or miss or pages != len(topics)) else 0)
+lop = os.path.exists(os.path.join(PUB, 'Rabbi_Lopiansky'))
+print('Lopiansky present (must be False):', lop)
+sys.exit(1 if (diff or miss or pages != len(topics) or lop) else 0)

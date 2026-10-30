@@ -29,7 +29,7 @@ def w(path, data, binary=False):
 topics = []
 
 # ---------- verbatim passthrough of feeds + JSON ----------
-for rabbi_dir in ('Rabbi_Viener', 'Rabbi_Lopiansky'):
+for rabbi_dir in ('Rabbi_Viener',):  # Lopiansky omitted 2026-10-29: not part of official TorahStream (Anatoly)
     src_root = os.path.join(SNAP, rabbi_dir)
     for dirpath, _dirs, files in os.walk(src_root):
         for fn in files:
@@ -62,34 +62,6 @@ for t in vt:
     w(os.path.join(SITE, 'content', 'Rabbi_Viener', tid + '.md'), fm)
 w(os.path.join(SITE, 'content', 'Rabbi_Viener', '_index.md'),
   '---\ntitle: "Rabbi Yosef Viener — Shiurim"\n---\n')
-
-# ---------- Rabbi Lopiansky (rss only in production data) ----------
-ldir = os.path.join(SNAP, 'Rabbi_Lopiansky')
-for tid in sorted(os.listdir(ldir)):
-    rss = os.path.join(ldir, tid, 'rss.xml')
-    if not os.path.isdir(os.path.join(ldir, tid)) or not os.path.exists(rss):
-        continue
-    ch = ET.parse(rss).getroot().find('channel')
-    full_title = ch.findtext('title') or tid
-    title = full_title.split('/', 1)[1] if '/' in full_title else full_title
-    eps = []
-    for it in ch.findall('item'):
-        enc = it.find('enclosure')
-        order = it.findtext(ITUNES + 'order')
-        eps.append({'Title': it.findtext('title') or '',
-                    'audio': enc.get('url') if enc is not None else '',
-                    'Track': order or ''})
-    eps.sort(key=lambda e: int(e['Track']) if e['Track'].isdigit() else 0)
-    w(os.path.join(SITE, 'data', 'episodes_lopiansky', tid + '.json'),
-      json.dumps(eps))
-    topics.append({'rabbi': 'lopiansky', 'dir': 'Rabbi_Lopiansky', 'id': tid,
-                   'title': title, 'count': len(eps), 'size': 0,
-                   'has_video': False})
-    fm = ('---\ntitle: %s\ntype: "topic"\nrabbi: "lopiansky"\ntopic_id: "%s"\n'
-          'count: %d\nhas_video: false\n---\n' % (json.dumps(title), tid, len(eps)))
-    w(os.path.join(SITE, 'content', 'Rabbi_Lopiansky', tid + '.md'), fm)
-w(os.path.join(SITE, 'content', 'Rabbi_Lopiansky', '_index.md'),
-  '---\ntitle: "Rabbi Lopiansky — Shiurim"\n---\n')
 
 topics.sort(key=lambda t: (t['rabbi'], t['title']))
 w(os.path.join(SITE, 'data', 'topics.json'), json.dumps(topics, indent=1))

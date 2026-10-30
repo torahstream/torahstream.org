@@ -7,7 +7,9 @@
   <script>
   let idx = null;
   const q = document.getElementById('q'), res = document.getElementById('results'), st = document.getElementById('status');
-  fetch('/search.json').then(r => r.json()).then(d => { idx = d; st.textContent = 'Search ' + d.length + ' shiurim.'; });
+  fetch('/search.json').then(r => r.json()).then(d => { idx = d; st.textContent = 'Search ' + d.length + ' shiurim.';
+    const pre = new URLSearchParams(location.search).get('q');
+    if (pre) { q.value = pre; q.dispatchEvent(new Event('input')); } });
   q.addEventListener('input', () => {
     if (!idx) return;
     const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
@@ -24,13 +26,13 @@
     {{ if .Params.has_video }}<a class="btn alt" href="vodcast.xml">Video podcast feed</a>{{ end }}
     <span class="meta">{{ .Params.count }} shiurim</span>
   </p>
-  {{ $eps := index .Site.Data.episodes_lopiansky .Params.topic_id }}
-  {{ if eq .Params.rabbi "viener" }}{{ $eps = index .Site.Data.episodes .Params.topic_id }}{{ end }}
+  {{ $eps := index .Site.Data.episodes .Params.topic_id }}
   <table class="eps">
   {{ range $eps }}
     <tr>
       <td>{{ .Title }}</td>
-      <td>{{ if .audio }}<audio controls preload="none" src="{{ .audio }}"></audio>{{ end }}</td>
+      <td>{{ if .audio }}<audio controls preload="none" src="{{ .audio }}"></audio>{{ end }}
+          {{ if .video }}<details><summary>Watch video</summary><video controls preload="none" width="480" src="{{ .video }}"></video></details>{{ end }}</td>
       <td class="dl">{{ if .audio }}<a href="{{ .audio }}">MP3</a>{{ end }}{{ if .video }} &middot; <a href="{{ .video }}">Video</a>{{ end }}</td>
     </tr>
   {{ end }}

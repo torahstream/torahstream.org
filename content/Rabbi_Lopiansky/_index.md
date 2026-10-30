@@ -1,3 +1,0 @@
----
-title: "Rabbi Lopiansky — Shiurim"
----

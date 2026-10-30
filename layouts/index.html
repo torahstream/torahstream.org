@@ -9,7 +9,7 @@
   </p>
 </div>
 <h2>Series</h2>
-<p class="meta">{{ len .Site.Data.topics }} series &middot; {{ $n := 0 }}{{ range .Site.Data.topics }}{{ $n = add $n .count }}{{ end }}{{ $n }} shiurim. Full list under <a href="/Rabbi_Viener/">Rabbi Viener</a> and <a href="/Rabbi_Lopiansky/">Rabbi Lopiansky</a>.</p>
+<p class="meta">{{ len .Site.Data.topics }} series &middot; {{ $n := 0 }}{{ range .Site.Data.topics }}{{ $n = add $n .count }}{{ end }}{{ $n }} shiurim. Full list under <a href="/Rabbi_Viener/">Rabbi Viener</a>.</p>
 <table class="topics">
 {{ range first 12 (sort .Site.Data.topics "title") }}
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
