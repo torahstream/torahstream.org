@@ -26,3 +26,6 @@ footer.site { border-top:1px solid var(--line); color:var(--mut); font-size:.88r
 .card img { max-width:150px; max-height:175px; object-fit:contain; }
 .card-title { font-size:.92rem; margin-top:.6rem; }
 .card-buy { margin-top:.7rem; }
+
+table.topics td.count { text-align:right; white-space:nowrap; font-variant-numeric:tabular-nums; }
+table.topics td.latest { white-space:nowrap; }

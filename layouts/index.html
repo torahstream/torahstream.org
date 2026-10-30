@@ -4,7 +4,8 @@
 <table class="topics">
 {{ range sort (where .Site.Data.topics "ongoing" true) "last" "desc" }}
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
-      <td class="meta">{{ .count }} shiurim &middot; latest {{ .last }}</td>
+      <td class="count meta">{{ .count }} shiurim</td>
+      <td class="meta latest">latest {{ .last }}</td>
       <td class="dl"><a href="/{{ .dir }}/{{ .id }}/rss.xml">Podcast feed</a></td></tr>
 {{ end }}
 </table>
