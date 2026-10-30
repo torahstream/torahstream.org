@@ -30,7 +30,7 @@
 (function () {
   var form = document.getElementById('navsearch'), input = document.getElementById('navsearch-input'),
       panel = document.getElementById('search-panel'), toggle = document.getElementById('search-toggle'),
-      header = document.querySelector('header.site'), idx = null, loading = false;
+      header = document.querySelector('header.site'), idx = null, loading = false, items = [], active = -1;
   function esc(s) { return s.replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function load() { if (idx || loading) return; loading = true; fetch('/search.json').then(function (r) { return r.json(); }).then(function (d) { idx = d; render(); }); }
   function render() {
@@ -44,7 +44,30 @@
       return '<a class="hit" href="' + e.page + '"><span class="t">' + esc(e.title) + '</span><span class="s">' + esc(e.topic) + '</span></a>';
     }).join('') + '<a class="all" href="/search/?q=' + encodeURIComponent(q) + '">All ' + all.length + ' result' + (all.length === 1 ? '' : 's') + ' \u2192</a>';
     panel.hidden = false;
+    items = Array.prototype.slice.call(panel.querySelectorAll('a'));
+    active = -1;
   }
+  function setActive(i) {
+    active = i;
+    items.forEach(function (a, j) { a.classList.toggle('active', j === i); });
+    if (i >= 0 && items[i]) items[i].scrollIntoView({ block: 'nearest' });
+  }
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      if (panel.hidden) { load(); render(); }
+      if (!items.length) return;
+      ev.preventDefault();
+      var d = ev.key === 'ArrowDown' ? 1 : -1;
+      setActive(Math.max(-1, Math.min(items.length - 1, active + d)));
+    } else if (ev.key === 'Enter' && active >= 0 && items[active]) {
+      ev.preventDefault();
+      location.href = items[active].href;
+    }
+  });
+  panel.addEventListener('mouseover', function (ev) {
+    var a = ev.target.closest ? ev.target.closest('a') : null;
+    if (a) setActive(items.indexOf(a));
+  });
   input.addEventListener('input', function () { load(); render(); });
   input.addEventListener('focus', function () { load(); render(); });
   toggle.addEventListener('click', function () {

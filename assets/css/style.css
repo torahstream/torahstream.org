@@ -154,3 +154,4 @@ table.topics td.sub { white-space:nowrap; }
   header.site.search-open .search-toggle { display:none; }
   header.site.search-open .search-panel { left:0; right:0; width:auto; }
 }
+.search-panel a.active { background:#e9e1cb; }
