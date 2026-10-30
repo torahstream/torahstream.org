@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Navi_Monsey_5784"
 count: 45
 has_video: true
+ongoing: false
 ---

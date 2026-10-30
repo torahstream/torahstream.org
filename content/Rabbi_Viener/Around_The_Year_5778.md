@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Around_The_Year_5778"
 count: 11
 has_video: true
+ongoing: false
 ---

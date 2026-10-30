@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Parents_-_Responsibilites_and_Obligations"
 count: 2
 has_video: false
+ongoing: false
 ---

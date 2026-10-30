@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Kibbud_5777"
 count: 24
 has_video: true
+ongoing: false
 ---

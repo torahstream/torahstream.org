@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Shovavim_Monsey_5772"
 count: 6
 has_video: true
+ongoing: false
 ---

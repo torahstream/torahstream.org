@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Hilchos_Pesach_5772"
 count: 8
 has_video: true
+ongoing: false
 ---

@@ -60,10 +60,7 @@ for t in vt:
     topics.append({'rabbi': 'viener', 'dir': 'Rabbi_Viener', 'id': tid,
                    'title': t['title'], 'count': t['count'], 'size': t['size'],
                    'has_video': has_video, 'last': max(dates) if dates else ''})
-    fm = ('---\ntitle: %s\ntype: "topic"\nrabbi: "viener"\ntopic_id: "%s"\n'
-          'count: %d\nhas_video: %s\n---\n' %
-          (json.dumps(t['title']), tid, t['count'], str(has_video).lower()))
-    w(os.path.join(SITE, 'content', 'Rabbi_Viener', tid + '.md'), fm)
+    # content files are written after the ongoing flags are computed (below)
 w(os.path.join(SITE, 'content', 'Rabbi_Viener', '_index.md'),
   '---\ntitle: "Rabbi Yosef Viener — Shiurim"\n---\n')
 
@@ -79,6 +76,14 @@ _all = [t['last'] for t in topics if t.get('last')]
 _newest = _pd(max(_all)) if _all else None
 for t in topics:
     t['ongoing'] = bool(t.get('last')) and _newest is not None and _pd(t['last']) >= _newest - timedelta(days=45)
+# Content pages: ongoing series default to newest-first episode order on
+# their page (template reads the flag); historic series stay oldest-first.
+for t in topics:
+    fm = ('---\ntitle: %s\ntype: "topic"\nrabbi: "viener"\ntopic_id: "%s"\n'
+          'count: %d\nhas_video: %s\nongoing: %s\n---\n' %
+          (json.dumps(t['title']), t['id'], t['count'],
+           str(t['has_video']).lower(), str(t['ongoing']).lower()))
+    w(os.path.join(SITE, 'content', t['dir'], t['id'] + '.md'), fm)
 w(os.path.join(SITE, 'data', 'topics.json'), json.dumps(topics, indent=1))
 w(os.path.join(SITE, 'content', '_index.md'), '---\ntitle: "TorahStream"\n---\n')
 w(os.path.join(SITE, 'content', 'search.md'),

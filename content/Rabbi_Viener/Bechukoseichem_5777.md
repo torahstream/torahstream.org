@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Bechukoseichem_5777"
 count: 72
 has_video: true
+ongoing: false
 ---

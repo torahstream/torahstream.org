@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "On_Chumash"
 count: 214
 has_video: false
+ongoing: false
 ---

@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Shidduchim"
 count: 1
 has_video: false
+ongoing: false
 ---

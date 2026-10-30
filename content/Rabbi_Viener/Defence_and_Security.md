@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Defence_and_Security"
 count: 2
 has_video: false
+ongoing: false
 ---

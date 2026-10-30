@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Hilchos_Shabbos_5774"
 count: 80
 has_video: true
+ongoing: false
 ---

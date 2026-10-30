@@ -1,13 +1,78 @@
 [
- {"title": "", "image": "https://cdn.shopify.com/s/files/1/0093/3625/8657/products/138-8_6be6977d-80d2-4360-b721-bac44a64643a_500x.jpg?v=1635954806", "url": "https://www.artscroll.com/Books/9781422611388.html", "buyNow": true},
- {"title": "Available in many seforim stores. (Also at ZBerman) If you cannot find it near you, you can reach out to:", "emails": ["seforim@torahstream.org", "chukoseyhem@torahstream.org"], "image": "/images/sefer-chukoseihem.png", "url": "https://judaicaplaza.com/products/6197066", "buyNow": false},
- {"title": "Torah 2 Go: R' Yosef Viener Nisyonos, Bitachon, and Tefilah Series (USB)", "image": "https://judaicaplaza.com/cdn/shop/products/6197067_600x.jpg?v=1689778722", "url": "https://judaicaplaza.com/products/6197067?_pos=3&_sid=60577d0f7&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener Inyunei Mishpacha Shiurim (USB)", "image": "https://judaicaplaza.com/cdn/shop/products/6197066_500x.jpg?v=1689778719", "url": "https://judaicaplaza.com/products/6197066", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Parshah (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197112_1_c1fa1481-2f1f-4b1d-9e91-f609035b0bdc_400x.jpg?v=1725465008", "url": "https://judaicaplaza.com/products/6197112?_pos=1&_sid=4f8fe5479&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Tzedakah (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197114_1_3d7f0b2f-03fb-4bb2-892d-b0ff16e5b497_400x.jpg?v=1725465014", "url": "https://judaicaplaza.com/products/6197114?_pos=2&_sid=4f8fe5479&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Sefer Melachim (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197116_1_44d2946a-909f-47de-ad77-5c3224ae44b8_300x.jpg?v=1725465020", "url": "https://judaicaplaza.com/products/6197116?_pos=3&_sid=4f8fe5479&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Sefer Bereishis (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197072_1_300x.jpg?v=1694451066", "url": "https://judaicaplaza.com/products/6197072?_pos=4&_sid=4f8fe5479&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Lifnei Iver (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197117_1_d79c4ba0-6e8f-43cd-89ff-8b6472737735_400x.jpg?v=1725465023", "url": "https://judaicaplaza.com/products/6197117?_pos=5&_sid=5&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Chukoseihem Lo Seileichu (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197113_1_bf1f74c1-9d1c-4ae7-a78b-52efaf341b23_400x.jpg?v=1725465011", "url": "https://judaicaplaza.com/products/6197113?_pos=6&_sid=8b6472737735&_ss=r", "buyNow": true},
- {"title": "Torah 2 Go: R' Yosef Viener - Navi Sefer Shoftim (USB)", "image": "https://judaicaplaza.com/cdn/shop/files/6197115_1_a9d46081-5161-4b19-9687-c3af3156d0fb_400x.jpg?v=1725465016", "url": "https://judaicaplaza.com/products/6197115?_pos=7&_sid=4f8fe5479&_ss=r", "buyNow": true}
+ {
+  "title": "",
+  "image": "https://cdn.shopify.com/s/files/1/0093/3625/8657/products/138-8_6be6977d-80d2-4360-b721-bac44a64643a_500x.jpg?v=1635954806",
+  "url": "https://www.artscroll.com/Books/9781422611388.html",
+  "buyNow": true
+ },
+ {
+  "title": "Available in many seforim stores. (Also at ZBerman) If you cannot find it near you, you can reach out to:",
+  "emails": [
+   "seforim@torahstream.org",
+   "chukoseyhem@torahstream.org"
+  ],
+  "image": "/images/sefer-chukoseihem.png",
+  "url": "https://judaicaplaza.com/products/6197066",
+  "buyNow": false
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener Nisyonos, Bitachon, and Tefilah Series (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/products/6197067_600x.jpg?v=1689778722",
+  "url": "https://judaicaplaza.com/products/6197067?_pos=3&_sid=60577d0f7&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener Inyunei Mishpacha Shiurim (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/products/6197066_500x.jpg?v=1689778719",
+  "url": "https://judaicaplaza.com/products/6197066",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Parshah (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197112_1_c1fa1481-2f1f-4b1d-9e91-f609035b0bdc_400x.jpg?v=1725465008",
+  "url": "https://judaicaplaza.com/products/6197112?_pos=1&_sid=4f8fe5479&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Tzedakah (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197114_1_3d7f0b2f-03fb-4bb2-892d-b0ff16e5b497_400x.jpg?v=1725465014",
+  "url": "https://judaicaplaza.com/products/6197114?_pos=2&_sid=4f8fe5479&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Sefer Melachim (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197116_1_44d2946a-909f-47de-ad77-5c3224ae44b8_300x.jpg?v=1725465020",
+  "url": "https://judaicaplaza.com/products/6197116?_pos=3&_sid=4f8fe5479&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Sefer Bereishis (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197072_1_300x.jpg?v=1694451066",
+  "url": "https://judaicaplaza.com/products/6197072?_pos=4&_sid=4f8fe5479&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Lifnei Iver (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197117_1_d79c4ba0-6e8f-43cd-89ff-8b6472737735_400x.jpg?v=1725465023",
+  "url": "https://judaicaplaza.com/products/6197117?_pos=5&_sid=5&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Chukoseihem Lo Seileichu (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197113_1_bf1f74c1-9d1c-4ae7-a78b-52efaf341b23_400x.jpg?v=1725465011",
+  "url": "https://judaicaplaza.com/products/6197113?_pos=6&_sid=8b6472737735&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Navi Sefer Shoftim (USB)",
+  "image": "https://judaicaplaza.com/cdn/shop/files/6197115_1_a9d46081-5161-4b19-9687-c3af3156d0fb_400x.jpg?v=1725465016",
+  "url": "https://judaicaplaza.com/products/6197115?_pos=7&_sid=4f8fe5479&_ss=r",
+  "buyNow": true
+ },
+ {
+  "title": "Torah 2 Go: R' Yosef Viener - Sefer Shmuel 1-2 (USB)",
+  "image": "https://cdn.shopify.com/s/files/1/0093/3625/8657/files/6197224.png?v=1791297110&width=600",
+  "url": "https://judaicaplaza.com/products/6197224",
+  "buyNow": true
+ }
 ]

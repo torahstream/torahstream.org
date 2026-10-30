@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "On_Tefillah"
 count: 30
 has_video: false
+ongoing: false
 ---

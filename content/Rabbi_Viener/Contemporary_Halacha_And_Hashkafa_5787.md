@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Contemporary_Halacha_And_Hashkafa_5787"
 count: 14
 has_video: true
+ongoing: true
 ---

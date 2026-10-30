@@ -27,7 +27,7 @@
     <span class="meta">{{ .Params.count }} shiurim</span>
   </p>
   {{ $eps := index .Site.Data.episodes .Params.topic_id }}
-  <p><label><input type="checkbox" id="rev"> Show Newest First</label></p>
+  <p><label><input type="checkbox" id="rev"{{ if .Params.ongoing }} checked{{ end }}> Show Newest First</label></p>
   <table class="eps"><tbody id="eps-body">
   {{ range $eps }}
     <tr>
@@ -39,11 +39,13 @@
   {{ end }}
   </tbody></table>
   <script>
-  document.getElementById('rev').addEventListener('change', function () {
+  function revRows() {
     var b = document.getElementById('eps-body');
     var rows = Array.prototype.slice.call(b.children).reverse();
     rows.forEach(function (r) { b.appendChild(r); });
-  });
+  }
+  document.getElementById('rev').addEventListener('change', revRows);
   </script>
+  {{ if .Params.ongoing }}<script>revRows();</script>{{ end }}
 {{ end }}
 {{ end }}

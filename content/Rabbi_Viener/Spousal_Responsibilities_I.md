@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Spousal_Responsibilities_I"
 count: 2
 has_video: false
+ongoing: false
 ---

@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Shovavim_Passaic_5779"
 count: 2
 has_video: true
+ongoing: false
 ---

@@ -5,4 +5,5 @@ rabbi: "viener"
 topic_id: "Parsha_Passaic_5774"
 count: 14
 has_video: true
+ongoing: false
 ---
