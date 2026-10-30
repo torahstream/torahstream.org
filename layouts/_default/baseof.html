@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}TorahStream</title>
 <link rel="icon" href="/favicon.ico">
-<link rel="stylesheet" href="/css/style.css">
+{{ $css := resources.Get "css/style.css" | resources.Fingerprint "sha256" }}<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 </head>
 <body>
 <header class="site"><nav>
