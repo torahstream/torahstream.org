@@ -21,6 +21,6 @@ footer.site { border-top:1px solid var(--line); color:var(--mut); font-size:.88r
 .dl { white-space:nowrap; font-size:.9rem; }
 .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(210px, 1fr)); gap:1.2rem; margin:1rem 0 2rem; }
 .card { background:#fff; border:1px solid var(--line); border-radius:6px; padding:.8rem; text-align:center; }
-.card img { max-width:100%; max-height:190px; object-fit:contain; }
+.card img { max-width:150px; max-height:175px; object-fit:contain; }
 .card-title { font-size:.92rem; margin-top:.6rem; }
 .card-buy { margin-top:.7rem; }

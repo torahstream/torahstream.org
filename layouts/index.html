@@ -1,13 +1,13 @@
 {{ define "main" }}
 {{ partial "hero.html" . }}
-<h2>Series</h2>
-<p class="meta">{{ len .Site.Data.topics }} series &middot; {{ $n := 0 }}{{ range .Site.Data.topics }}{{ $n = add $n .count }}{{ end }}{{ $n }} shiurim. Full list under <a href="/Rabbi_Viener/">Rabbi Viener</a>.</p>
+<h2>Currently ongoing</h2>
 <table class="topics">
-{{ range first 12 (sort .Site.Data.topics "title") }}
+{{ range sort (where .Site.Data.topics "ongoing" true) "last" "desc" }}
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
-      <td class="meta">{{ .count }} shiurim</td>
+      <td class="meta">{{ .count }} shiurim &middot; latest {{ .last }}</td>
       <td class="dl"><a href="/{{ .dir }}/{{ .id }}/rss.xml">Podcast feed</a></td></tr>
 {{ end }}
 </table>
+<p class="meta">All {{ len .Site.Data.topics }} series are listed under <a href="/Rabbi_Viener/">Rabbi Viener</a>.</p>
 {{ partial "products.html" . }}
 {{ end }}

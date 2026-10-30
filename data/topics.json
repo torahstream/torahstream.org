@@ -6,7 +6,9 @@
   "title": "Ambassadors of Torah",
   "count": 2,
   "size": 59496704,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -15,7 +17,9 @@
   "title": "Announcements 5780",
   "count": 1,
   "size": 5171328,
-  "has_video": false
+  "has_video": false,
+  "last": "2020-03-23",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -24,7 +28,9 @@
   "title": "Around The Year 5772",
   "count": 10,
   "size": 255559834,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-07-29",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -33,7 +39,9 @@
   "title": "Around The Year 5773",
   "count": 7,
   "size": 117736600,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-05-27",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -42,7 +50,9 @@
   "title": "Around The Year 5774",
   "count": 12,
   "size": 171259791,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-08-05",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -51,7 +61,9 @@
   "title": "Around The Year 5775",
   "count": 13,
   "size": 231363764,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-07-26",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -60,7 +72,9 @@
   "title": "Around The Year 5776",
   "count": 7,
   "size": 102143232,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-08-14",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -69,7 +83,9 @@
   "title": "Around The Year 5777",
   "count": 3,
   "size": 58904960,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-03-04",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -78,7 +94,9 @@
   "title": "Around The Year 5778",
   "count": 11,
   "size": 191325529,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-09-05",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -87,7 +105,9 @@
   "title": "Around The Year 5779",
   "count": 9,
   "size": 260741449,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-09-22",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -96,7 +116,9 @@
   "title": "Around The Year 5780",
   "count": 23,
   "size": 441560378,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-09-15",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -105,7 +127,9 @@
   "title": "Around The Year 5781",
   "count": 21,
   "size": 443758720,
-  "has_video": true
+  "has_video": true,
+  "last": "2021-08-29",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -114,7 +138,9 @@
   "title": "Around The Year 5782",
   "count": 28,
   "size": 524366922,
-  "has_video": true
+  "has_video": true,
+  "last": "2022-09-18",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -123,7 +149,9 @@
   "title": "Around The Year 5783",
   "count": 15,
   "size": 365514737,
-  "has_video": true
+  "has_video": true,
+  "last": "2023-09-10",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -132,7 +160,9 @@
   "title": "Around The Year 5784",
   "count": 15,
   "size": 340173830,
-  "has_video": true
+  "has_video": true,
+  "last": "2024-09-29",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -141,7 +171,9 @@
   "title": "Around The Year 5785",
   "count": 15,
   "size": 339408000,
-  "has_video": true
+  "has_video": true,
+  "last": "2025-09-14",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -150,7 +182,9 @@
   "title": "Around The Year 5786",
   "count": 12,
   "size": 311987013,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-09-06",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -159,7 +193,9 @@
   "title": "Around The Year 5787",
   "count": 1,
   "size": 20537472,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-10-01",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -168,7 +204,9 @@
   "title": "Bitachon Passaic 5781",
   "count": 4,
   "size": 66318848,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-12-26",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -177,7 +215,9 @@
   "title": "Chinuch Issues 5774",
   "count": 1,
   "size": 42152064,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-01-14",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -186,7 +226,9 @@
   "title": "Chinuch Passaic 5772",
   "count": 9,
   "size": 217191134,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-01-21",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -195,7 +237,9 @@
   "title": "Chukoseihem",
   "count": 162,
   "size": 2705767010,
-  "has_video": false
+  "has_video": false,
+  "last": "2023-01-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -204,7 +248,9 @@
   "title": "Chumash: Contemporary Topics in Halacha and Hashkafa",
   "count": 214,
   "size": 3807220873,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -213,7 +259,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5780",
   "count": 111,
   "size": 1732295188,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-09-16",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -222,7 +270,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5781",
   "count": 114,
   "size": 1811017880,
-  "has_video": true
+  "has_video": true,
+  "last": "2021-09-01",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -231,7 +281,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5782",
   "count": 114,
   "size": 1909565026,
-  "has_video": true
+  "has_video": true,
+  "last": "2022-09-21",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -240,7 +292,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5783",
   "count": 97,
   "size": 1617476608,
-  "has_video": true
+  "has_video": true,
+  "last": "2023-09-13",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -249,7 +303,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5784",
   "count": 111,
   "size": 1923967756,
-  "has_video": true
+  "has_video": true,
+  "last": "2024-10-01",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -258,7 +314,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5785",
   "count": 102,
   "size": 1910678033,
-  "has_video": true
+  "has_video": true,
+  "last": "2025-09-17",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -267,7 +325,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5786",
   "count": 105,
   "size": 1976266468,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-09-09",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -276,7 +336,9 @@
   "title": "Contemporary Halacha and Hashkofa, 5787",
   "count": 14,
   "size": 266369946,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-10-28",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -285,7 +347,9 @@
   "title": "Contemporary Halacha and Hashkofa: magic, fortune telling, good omens, and bad luck, lo silbosh and alternative medicine, 5779",
   "count": 111,
   "size": 1617564201,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-09-25",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -294,7 +358,9 @@
   "title": "Contemporary Kashrus Topics 5775",
   "count": 97,
   "size": 1138083712,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-07-01",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -303,7 +369,9 @@
   "title": "Contemporary Kashrus Topics 5776",
   "count": 48,
   "size": 577435520,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-01-19",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -312,7 +380,9 @@
   "title": "Copying Society: Parameters of Bechukoseihem Lo Seileichu, 5777",
   "count": 72,
   "size": 915266136,
-  "has_video": true
+  "has_video": true,
+  "last": "2024-01-01",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -321,7 +391,9 @@
   "title": "Defense and security: What do we depend on?",
   "count": 2,
   "size": 50528512,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -330,7 +402,9 @@
   "title": "From Golus to Geulah: An Insight Into Our Present Situation of Exile And The Days Of Moshiach",
   "count": 3,
   "size": 71612800,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -339,7 +413,9 @@
   "title": "Halachik OBGYN Issues. (For Married Couples Only)",
   "count": 4,
   "size": 68937748,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -348,7 +424,9 @@
   "title": "Hilchos Pesach 5772",
   "count": 8,
   "size": 98412174,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-03-28",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -357,7 +435,9 @@
   "title": "Hilchos Shabbos 5773",
   "count": 83,
   "size": 1066265499,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-06-26",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -366,7 +446,9 @@
   "title": "Hilchos Shabbos 5774",
   "count": 80,
   "size": 980985088,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-06-30",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -375,7 +457,9 @@
   "title": "Hilchos Tzedaka 5776",
   "count": 62,
   "size": 743513856,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-09-21",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -384,7 +468,9 @@
   "title": "How to Separate While Bridging The Gap: Halachos and Hashkafos for Married Couples",
   "count": 4,
   "size": 80601600,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -393,7 +479,9 @@
   "title": "Internet Use: Dangers and Decisions",
   "count": 1,
   "size": 19179648,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -402,7 +490,9 @@
   "title": "Kesubos 5771",
   "count": 42,
   "size": 512922927,
-  "has_video": true
+  "has_video": true,
+  "last": "2011-06-29",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -411,7 +501,9 @@
   "title": "Kesubos 5772",
   "count": 84,
   "size": 1017443484,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-06-20",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -420,7 +512,9 @@
   "title": "Kibbud Av V'Eim: timely questions, timeless applications, 5777",
   "count": 24,
   "size": 296617902,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-06-28",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -429,7 +523,9 @@
   "title": "Kibbud Av V'Eim: timely questions, timeless applications, 5778",
   "count": 99,
   "size": 1224479896,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-06-27",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -438,7 +534,9 @@
   "title": "Making Sense of the Final Exile",
   "count": 2,
   "size": 51996928,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -447,7 +545,9 @@
   "title": "Melachim Aleph",
   "count": 38,
   "size": 369104433,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -456,7 +556,9 @@
   "title": "Monetary Issues in Marriage",
   "count": 2,
   "size": 43112704,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -465,7 +567,9 @@
   "title": "Navi Monsey 5771",
   "count": 12,
   "size": 152467739,
-  "has_video": true
+  "has_video": true,
+  "last": "2011-06-30",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -474,7 +578,9 @@
   "title": "Navi Monsey 5772",
   "count": 28,
   "size": 343580019,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-06-21",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -483,7 +589,9 @@
   "title": "Navi Monsey 5773",
   "count": 25,
   "size": 328939833,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-06-27",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -492,7 +600,9 @@
   "title": "Navi Monsey 5774",
   "count": 33,
   "size": 607181947,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-08-03",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -501,7 +611,9 @@
   "title": "Navi Monsey 5775",
   "count": 28,
   "size": 516550958,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-06-28",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -510,7 +622,9 @@
   "title": "Navi Monsey 5776",
   "count": 33,
   "size": 639464327,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-09-25",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -519,7 +633,9 @@
   "title": "Navi Monsey 5777",
   "count": 29,
   "size": 567729188,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-07-23",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -528,7 +644,9 @@
   "title": "Navi Monsey 5778",
   "count": 40,
   "size": 758509681,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-09-02",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -537,7 +655,9 @@
   "title": "Navi Monsey 5779",
   "count": 37,
   "size": 705992190,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-09-15",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -546,7 +666,9 @@
   "title": "Navi Passaic 5772",
   "count": 6,
   "size": 149932717,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-03-10",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -555,7 +677,9 @@
   "title": "Navi Passaic 5773",
   "count": 14,
   "size": 370400818,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-03-02",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -564,7 +688,9 @@
   "title": "Navi Passaic 5774",
   "count": 15,
   "size": 197508980,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-03-01",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -573,7 +699,9 @@
   "title": "Navi Passaic 5775",
   "count": 17,
   "size": 236984083,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-03-07",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -582,7 +710,9 @@
   "title": "Navi Passaic 5776",
   "count": 16,
   "size": 271515520,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-03-12",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -591,7 +721,9 @@
   "title": "Navi Passaic 5777",
   "count": 14,
   "size": 204943705,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-03-04",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -600,7 +732,9 @@
   "title": "Navi Passaic 5778",
   "count": 17,
   "size": 216899472,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-03-03",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -609,7 +743,9 @@
   "title": "Navi Passaic 5779",
   "count": 15,
   "size": 209686536,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-03-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -618,7 +754,9 @@
   "title": "Navi Passaic 5780",
   "count": 14,
   "size": 164558208,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-02-15",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -627,7 +765,9 @@
   "title": "Navi Passaic 5781",
   "count": 4,
   "size": 66318848,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-12-26",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -636,7 +776,9 @@
   "title": "Navi Passaic 5783",
   "count": 18,
   "size": 267823795,
-  "has_video": true
+  "has_video": true,
+  "last": "2023-03-11",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -645,7 +787,9 @@
   "title": "Navi Passaic 5784",
   "count": 18,
   "size": 260127616,
-  "has_video": true
+  "has_video": true,
+  "last": "2024-03-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -654,7 +798,9 @@
   "title": "Navi Passaic 5785",
   "count": 16,
   "size": 248153856,
-  "has_video": true
+  "has_video": true,
+  "last": "2025-03-08",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -663,7 +809,9 @@
   "title": "Navi, Sefer Shoftim, Monsey 5780",
   "count": 38,
   "size": 767525657,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-09-06",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -672,7 +820,9 @@
   "title": "Navi, Sefer Shoftim, Monsey 5781",
   "count": 33,
   "size": 664800260,
-  "has_video": true
+  "has_video": true,
+  "last": "2021-09-05",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -681,7 +831,9 @@
   "title": "Navi, Sefer Shoftim, Monsey 5782",
   "count": 38,
   "size": 769464075,
-  "has_video": true
+  "has_video": true,
+  "last": "2022-09-11",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -690,7 +842,9 @@
   "title": "Navi, Sefer Shoftim, Monsey 5783",
   "count": 37,
   "size": 743914099,
-  "has_video": true
+  "has_video": true,
+  "last": "2023-09-10",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -699,7 +853,9 @@
   "title": "Navi, Sefer Shoftim/Yehoshua, Monsey 5784",
   "count": 45,
   "size": 916929314,
-  "has_video": true
+  "has_video": true,
+  "last": "2024-09-29",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -708,7 +864,9 @@
   "title": "Navi, Sefer Shoftim/Yehoshua, Monsey 5785",
   "count": 39,
   "size": 853123524,
-  "has_video": true
+  "has_video": true,
+  "last": "2025-09-21",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -717,7 +875,9 @@
   "title": "Navi, Sefer Yehoshua, Monsey 5786",
   "count": 32,
   "size": 702901145,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-08-30",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -726,7 +886,9 @@
   "title": "Navi, Sefer Yehoshua, Monsey 5787",
   "count": 3,
   "size": 60157952,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-10-25",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -735,7 +897,9 @@
   "title": "Navi: Ageless Wisdom - Timely Application",
   "count": 31,
   "size": 705699712,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -744,7 +908,9 @@
   "title": "Nisyonos",
   "count": 2,
   "size": 40261888,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -753,7 +919,9 @@
   "title": "Parents - Responsibilities and Obligations. Halachos and Hashkafos of Honoring Parents",
   "count": 2,
   "size": 50655488,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -762,7 +930,9 @@
   "title": "Parsha: Selected Insights, 5774 (Passaic)",
   "count": 14,
   "size": 164521941,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-03-01",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -771,7 +941,9 @@
   "title": "Parsha: Selected Insights, 5775 (Passaic)",
   "count": 17,
   "size": 218913306,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-03-07",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -780,7 +952,9 @@
   "title": "Parsha: Selected Insights, 5776 (Passaic)",
   "count": 14,
   "size": 221618560,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-03-12",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -789,7 +963,9 @@
   "title": "Parsha: Selected Insights, 5777 (Passaic)",
   "count": 13,
   "size": 182202906,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-02-25",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -798,7 +974,9 @@
   "title": "Parsha: Selected Insights, 5778 (Passaic)",
   "count": 17,
   "size": 287426239,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-03-03",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -807,7 +985,9 @@
   "title": "Parsha: Selected Insights, 5779 (Passaic)",
   "count": 15,
   "size": 249326000,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-03-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -816,7 +996,9 @@
   "title": "Parsha: Selected Insights, 5780 (Passaic)",
   "count": 16,
   "size": 272296887,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-02-29",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -825,7 +1007,9 @@
   "title": "Parsha: Selected Insights, 5781 (Passaic)",
   "count": 12,
   "size": 261100746,
-  "has_video": true
+  "has_video": true,
+  "last": "2021-02-06",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -834,7 +1018,9 @@
   "title": "Parsha: Selected Insights, 5782 (Passaic)",
   "count": 17,
   "size": 323098624,
-  "has_video": true
+  "has_video": true,
+  "last": "2022-03-12",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -843,7 +1029,9 @@
   "title": "Parsha: Selected Insights, 5783 (Passaic)",
   "count": 18,
   "size": 319901952,
-  "has_video": true
+  "has_video": true,
+  "last": "2023-03-11",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -852,7 +1040,9 @@
   "title": "Parsha: Selected Insights, 5784 (Passaic)",
   "count": 18,
   "size": 367210624,
-  "has_video": true
+  "has_video": true,
+  "last": "2024-03-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -861,7 +1051,9 @@
   "title": "Parsha: Selected Insights, 5785 (Passaic)",
   "count": 18,
   "size": 335755520,
-  "has_video": true
+  "has_video": true,
+  "last": "2025-03-08",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -870,7 +1062,9 @@
   "title": "Parsha: Selected Insights, 5786 (Passaic)",
   "count": 34,
   "size": 597902720,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-02-28",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -879,7 +1073,9 @@
   "title": "Purim",
   "count": 1,
   "size": 19961984,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -888,7 +1084,9 @@
   "title": "Q and A For Bochurim",
   "count": 30,
   "size": 836059754,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-10-06",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -897,7 +1095,9 @@
   "title": "Sanhedrin 5771",
   "count": 20,
   "size": 404349302,
-  "has_video": true
+  "has_video": true,
+  "last": "2011-07-24",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -906,7 +1106,9 @@
   "title": "Sanhedrin 5772",
   "count": 29,
   "size": 563088433,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-09-12",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -915,7 +1117,9 @@
   "title": "Sanhedrin 5773",
   "count": 27,
   "size": 518628207,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-07-14",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -924,7 +1128,9 @@
   "title": "Sanhedrin 5774",
   "count": 3,
   "size": 58765440,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-10-06",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -933,7 +1139,9 @@
   "title": "Selected Parshiyos",
   "count": 12,
   "size": 227696128,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -942,7 +1150,9 @@
   "title": "Selected Topics",
   "count": 1,
   "size": 24860800,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -951,7 +1161,9 @@
   "title": "Shidduchim: What to Ask, What to Say and What to Look For",
   "count": 1,
   "size": 25309312,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -960,7 +1172,9 @@
   "title": "Shovavim Passaic, 5779 (married couples only)",
   "count": 2,
   "size": 62838922,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-02-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -969,7 +1183,9 @@
   "title": "Shovavim, 5772 (for married couples only)",
   "count": 6,
   "size": 128085154,
-  "has_video": true
+  "has_video": true,
+  "last": "2012-02-19",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -978,7 +1194,9 @@
   "title": "Shovavim, 5773 (for married couples only)",
   "count": 5,
   "size": 105545264,
-  "has_video": true
+  "has_video": true,
+  "last": "2013-02-17",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -987,7 +1205,9 @@
   "title": "Shovavim, 5774 (for married couples only)",
   "count": 7,
   "size": 102391514,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-01-19",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -996,7 +1216,9 @@
   "title": "Shovavim, 5775 (for married couples only)",
   "count": 5,
   "size": 90963968,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-02-15",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1005,7 +1227,9 @@
   "title": "Shovavim, 5776 (for married couples only)",
   "count": 3,
   "size": 59092047,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-02-07",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1014,7 +1238,9 @@
   "title": "Shovavim, 5777 (Spousal Responsibilities)",
   "count": 5,
   "size": 95701780,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-02-26",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1023,7 +1249,9 @@
   "title": "Shovavim, 5778 (Spousal Responsibilities)",
   "count": 3,
   "size": 56776536,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-01-28",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1032,7 +1260,9 @@
   "title": "Shovavim, 5779 (Spousal Responsibilities)",
   "count": 3,
   "size": 61978244,
-  "has_video": true
+  "has_video": true,
+  "last": "2019-02-03",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1041,7 +1271,9 @@
   "title": "Shovavim, 5780 (Spousal Responsibilities)",
   "count": 2,
   "size": 40061184,
-  "has_video": true
+  "has_video": true,
+  "last": "2020-02-16",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1050,7 +1282,9 @@
   "title": "Shovavim, 5781 (Inyanei Kedusha)",
   "count": 4,
   "size": 79556992,
-  "has_video": true
+  "has_video": true,
+  "last": "2021-02-07",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1059,7 +1293,9 @@
   "title": "Shovavim, 5782",
   "count": 5,
   "size": 99739520,
-  "has_video": true
+  "has_video": true,
+  "last": "2022-02-06",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1068,7 +1304,9 @@
   "title": "Shovavim, 5786",
   "count": 7,
   "size": 150284954,
-  "has_video": true
+  "has_video": true,
+  "last": "2026-03-01",
+  "ongoing": true
  },
  {
   "rabbi": "viener",
@@ -1077,7 +1315,9 @@
   "title": "Special Contemporary Topics 5774",
   "count": 6,
   "size": 74691328,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-02-11",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1086,7 +1326,9 @@
   "title": "Special Contemporary Topics 5775",
   "count": 2,
   "size": 35433578,
-  "has_video": true
+  "has_video": true,
+  "last": "2015-02-22",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1095,7 +1337,9 @@
   "title": "Special Contemporary Topics 5776",
   "count": 4,
   "size": 113313079,
-  "has_video": true
+  "has_video": true,
+  "last": "2016-07-26",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1104,7 +1348,9 @@
   "title": "Special Contemporary Topics 5777",
   "count": 5,
   "size": 133102208,
-  "has_video": true
+  "has_video": true,
+  "last": "2017-05-21",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1113,7 +1359,9 @@
   "title": "Special Contemporary Topics 5778",
   "count": 4,
   "size": 112639306,
-  "has_video": true
+  "has_video": true,
+  "last": "2018-07-09",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1122,7 +1370,9 @@
   "title": "Spousal Responsibilities: Insights, Halachos and Hashkafos Pertaining to Jewish Marriage and Home, (Series 1)",
   "count": 2,
   "size": 63942912,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1131,7 +1381,9 @@
   "title": "Spousal Responsibilities: Insights, Halachos and Hashkafos Pertaining to Jewish Marriage and Home, (Series 2)",
   "count": 2,
   "size": 42344704,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1140,7 +1392,9 @@
   "title": "Spousal Responsibilities: Monetary Issues in Marriage (Series 3), 5774",
   "count": 1,
   "size": 30580864,
-  "has_video": true
+  "has_video": true,
+  "last": "2014-01-12",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1149,7 +1403,9 @@
   "title": "Teenagers",
   "count": 2,
   "size": 36835584,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1158,7 +1414,9 @@
   "title": "Tefillah: Asking for Guidance and Begging for Help. Halachos and Hashkafos of Davening with Beyur HaTefillah",
   "count": 30,
   "size": 545369856,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1167,7 +1425,9 @@
   "title": "Themes of National and Personal Redemption",
   "count": 1,
   "size": 20390016,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  },
  {
   "rabbi": "viener",
@@ -1176,6 +1436,8 @@
   "title": "Torah Leadership and Decision Making",
   "count": 2,
   "size": 33734912,
-  "has_video": false
+  "has_video": false,
+  "last": "",
+  "ongoing": false
  }
 ]
