@@ -14,12 +14,46 @@
     <a href="/Rabbi_Viener/">Shiurim</a>
     <a href="/about/">About</a>
   </span>
-  <form class="navsearch" action="/search/" method="get" role="search">
-    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><line x1="15.3" y1="15.3" x2="21" y2="21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
-    <input type="search" name="q" placeholder="Search shiurim…" aria-label="Search shiurim">
+  <form class="navsearch" id="navsearch" action="/search/" method="get" role="search">
+    <button type="button" class="search-toggle" id="search-toggle" aria-label="Open search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><line x1="15.3" y1="15.3" x2="21" y2="21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg></button>
+    <span class="search-box">
+      <span class="icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><line x1="15.3" y1="15.3" x2="21" y2="21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg></span>
+      <input type="search" id="navsearch-input" name="q" placeholder="Search shiurim…" aria-label="Search shiurim" autocomplete="off">
+    </span>
+    <div class="search-panel" id="search-panel" hidden></div>
   </form>
 </nav></header>
 <main>{{ block "main" . }}{{ end }}</main>
 <footer class="site">Questions or comments? Please, contact the <a href="mailto:webmaster.torahstream at gmail dot com" title="Click to email the webmaster, make sure to edit the e-mail address prior to sending.">webmaster</a> or <a href="mailto:yv at torahstream dot org" title="Click to email Rabbi Viener, make sure to edit the e-mail address prior to sending.">Rabbi Viener</a>.</footer>
+
+<script>
+(function () {
+  var form = document.getElementById('navsearch'), input = document.getElementById('navsearch-input'),
+      panel = document.getElementById('search-panel'), toggle = document.getElementById('search-toggle'),
+      header = document.querySelector('header.site'), idx = null, loading = false;
+  function esc(s) { return s.replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function load() { if (idx || loading) return; loading = true; fetch('/search.json').then(function (r) { return r.json(); }).then(function (d) { idx = d; render(); }); }
+  function render() {
+    var q = input.value.trim();
+    if (!q) { panel.hidden = true; return; }
+    if (!idx) { panel.innerHTML = '<div class="none">Loading\u2026</div>'; panel.hidden = false; return; }
+    var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+    var all = idx.filter(function (e) { var h = (e.topic + ' ' + e.title).toLowerCase(); return terms.every(function (t) { return h.includes(t); }); });
+    if (!all.length) { panel.innerHTML = '<div class="none">No matches for \u201C' + esc(q) + '\u201D</div>'; panel.hidden = false; return; }
+    panel.innerHTML = all.slice(0, 8).map(function (e) {
+      return '<a class="hit" href="' + e.page + '"><span class="t">' + esc(e.title) + '</span><span class="s">' + esc(e.topic) + '</span></a>';
+    }).join('') + '<a class="all" href="/search/?q=' + encodeURIComponent(q) + '">All ' + all.length + ' result' + (all.length === 1 ? '' : 's') + ' \u2192</a>';
+    panel.hidden = false;
+  }
+  input.addEventListener('input', function () { load(); render(); });
+  input.addEventListener('focus', function () { load(); render(); });
+  toggle.addEventListener('click', function () {
+    var open = header.classList.toggle('search-open');
+    if (open) { input.focus(); } else { panel.hidden = true; }
+  });
+  document.addEventListener('click', function (ev) { if (!form.contains(ev.target)) panel.hidden = true; });
+  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') { panel.hidden = true; header.classList.remove('search-open'); } });
+})();
+</script>
 </body>
 </html>
