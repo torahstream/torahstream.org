@@ -12,9 +12,12 @@
   <a class="brand" href="/">TorahStream</a>
   <span class="navlinks">
     <a href="/Rabbi_Viener/">Shiurim</a>
-    <form class="navsearch" action="/search/" method="get" role="search"><input type="search" name="q" placeholder="Search shiurim…" aria-label="Search shiurim"></form>
     <a href="/about/">About</a>
   </span>
+  <form class="navsearch" action="/search/" method="get" role="search">
+    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><line x1="15.3" y1="15.3" x2="21" y2="21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <input type="search" name="q" placeholder="Search shiurim…" aria-label="Search shiurim">
+  </form>
 </nav></header>
 <main>{{ block "main" . }}{{ end }}</main>
 <footer class="site">Questions or comments? Please, contact the <a href="mailto:webmaster.torahstream at gmail dot com" title="Click to email the webmaster, make sure to edit the e-mail address prior to sending.">webmaster</a> or <a href="mailto:yv at torahstream dot org" title="Click to email Rabbi Viener, make sure to edit the e-mail address prior to sending.">Rabbi Viener</a>.</footer>

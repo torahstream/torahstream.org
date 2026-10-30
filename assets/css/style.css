@@ -113,7 +113,9 @@ table.topics td.latest { white-space:nowrap; }
 table.topics th { color:var(--mut); font-size:.85rem; font-weight:600; }
 table.topics th.count { text-align:right; }
 h3 { margin:1.4rem 0 .2rem; font-size:1.05rem; }
-.navsearch { margin:0; }
-.navsearch input { font:inherit; font-size:.9rem; padding:.28rem .6rem; border-radius:999px; border:1px solid rgba(255,255,255,.45); background:rgba(255,255,255,.14); color:#fff; width:11.5rem; }
+.navsearch { margin:0 0 0 auto; position:relative; color:rgba(255,255,255,.85); display:flex; align-items:center; }
+.navsearch .icon { position:absolute; left:.55rem; width:14px; height:14px; pointer-events:none; }
+.navsearch:focus-within { color:#173a5e; }
+.navsearch input { font:inherit; font-size:.9rem; padding:.28rem .6rem .28rem 1.85rem; border-radius:999px; border:1px solid rgba(255,255,255,.45); background:rgba(255,255,255,.14); color:#fff; width:11.5rem; }
 .navsearch input::placeholder { color:rgba(255,255,255,.75); }
 .navsearch input:focus { outline:none; background:#fff; color:#173a5e; }
