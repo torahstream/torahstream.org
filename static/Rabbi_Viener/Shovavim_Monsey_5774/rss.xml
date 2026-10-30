@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/rss.xml" type="application/rss+xml" rel="self"/>
+    <title>Shovavim, 5774 (for married couples only)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5774</link>
+    <description>Shovavim, 5774 (for married couples only)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2013-12-31</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2013-12-31.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2013-12-31.mp3" length="11155968"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2013-12-31</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>2014-01-01</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-01.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-01.mp3" type="audio/mpeg" length="11962818"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2014-01-01</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>2014-01-05</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-05.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-05.mp3" length="17599239"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2014-01-05</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>2014-01-06</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-06.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="12458341" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-06.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2014-01-06</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>2014-01-07</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-07.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="10567285" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-07.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2014-01-07</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>2014-01-12</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-12.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-12.mp3" type="audio/mpeg" length="20057852"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2014-01-12</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>2014-01-19</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-19.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5774/2014-01-19.mp3" type="audio/mpeg" length="18590011"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5774/2014-01-19</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:38 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

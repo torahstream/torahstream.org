@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/vodcast.xml"/>
+    <title>Special Contemporary Topics 5778</title>
+    <link>https://www.torahstream.org/#/topic/Special_Contemporary_Topics_5778</link>
+    <description>Special Contemporary Topics 5778</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2017-10-10</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-10-10.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="85383153" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-10-10.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2017-10-10</guid>
+      <pubDate>Tue, 10 Oct 2017 21:18:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>2017-12-25</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-12-25.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="110211992" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-12-25.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2017-12-25</guid>
+      <pubDate>Mon, 25 Dec 2017 21:07:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>2018-05-28</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-05-28.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="130216588" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-05-28.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2018-05-28</guid>
+      <pubDate>Thu, 07 Jun 2018 21:22:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>2018-07-09</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-07-09.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-07-09.m4v" length="153429413"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2018-07-09</guid>
+      <pubDate>Wed, 11 Jul 2018 21:55:04 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/vodcast.xml"/>
+    <title>Shovavim, 5777 (Spousal Responsibilities)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5777</link>
+    <description>Shovavim, 5777 (Spousal Responsibilities)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2017-01-29</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-01-29.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" length="87296215" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-01-29.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-01-29</guid>
+      <pubDate>Sun, 29 Jan 2017 13:28:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>2017-02-05</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-05.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="84608580" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-05.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-05</guid>
+      <pubDate>Sun, 05 Feb 2017 21:19:39 -0500</pubDate>
+    </item>
+    <item>
+      <title>2017-02-12</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-12.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" length="84742713" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-12.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-12</guid>
+      <pubDate>Tue, 21 Feb 2017 21:18:55 -0500</pubDate>
+    </item>
+    <item>
+      <title>2017-02-19</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-19.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" length="79978108" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-19.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-19</guid>
+      <pubDate>Mon, 20 Feb 2017 21:13:49 -0500</pubDate>
+    </item>
+    <item>
+      <title>2017-02-26</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-26.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-26.m4v" type="video/x-m4v" length="67836194"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-26</guid>
+      <pubDate>Mon, 27 Feb 2017 22:09:59 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

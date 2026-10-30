@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Monetary_Issues_in_Marriage/rss.xml" rel="self"/>
+    <title>Monetary Issues in Marriage</title>
+    <link>https://www.torahstream.org/#/topic/Monetary_Issues_in_Marriage</link>
+    <description>Monetary Issues in Marriage</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Monetary_Issues_in_Marriage/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>Monetary Issues in Marriage 01</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Monetary_Issues_in_Marriage/Monetary_Issues_in_Marriage_01.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="17657984" url="https://media-cf.torahstream.org/Rabbi_Viener/Monetary_Issues_in_Marriage/Monetary_Issues_in_Marriage_01.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Monetary Issues in Marriage/Monetary Issues in Marriage 01</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Monetary Issues in Marriage 02</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Monetary_Issues_in_Marriage/Monetary_Issues_in_Marriage_02.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Monetary_Issues_in_Marriage/Monetary_Issues_in_Marriage_02.mp3" length="25454720"/>
+      <guid isPermaLink="false">Rabbi Viener/Monetary Issues in Marriage/Monetary Issues in Marriage 02</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{ if eq .Type "search" }}
+  <h1>{{ .Title }}</h1>
+  <input type="search" id="q" placeholder="Search titles and series…" autocomplete="off">
+  <p class="meta" id="status">Type to search across all shiurim.</p>
+  <table class="eps"><tbody id="results"></tbody></table>
+  <script>
+  let idx = null;
+  const q = document.getElementById('q'), res = document.getElementById('results'), st = document.getElementById('status');
+  fetch('/search.json').then(r => r.json()).then(d => { idx = d; st.textContent = 'Search ' + d.length + ' shiurim.'; });
+  q.addEventListener('input', () => {
+    if (!idx) return;
+    const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!terms.length) { res.innerHTML=''; st.textContent=''; return; }
+    const hits = idx.filter(e => { const h = (e.topic + ' ' + e.title).toLowerCase(); return terms.every(t => h.includes(t)); }).slice(0, 100);
+    st.textContent = hits.length + ' result' + (hits.length === 1 ? '' : 's');
+    res.innerHTML = hits.map(e => '<tr><td><a href="' + e.page + '">' + e.topic + '</a></td><td>' + e.title + '</td><td class="dl"><a href="' + e.audio + '">Play / download</a></td></tr>').join('');
+  });
+  </script>
+{{ else }}
+  <h1>{{ .Title }}</h1>
+  <p>
+    <a class="btn" href="rss.xml">Audio podcast feed</a>
+    {{ if .Params.has_video }}<a class="btn alt" href="vodcast.xml">Video podcast feed</a>{{ end }}
+    <span class="meta">{{ .Params.count }} shiurim</span>
+  </p>
+  {{ $eps := index .Site.Data.episodes_lopiansky .Params.topic_id }}
+  {{ if eq .Params.rabbi "viener" }}{{ $eps = index .Site.Data.episodes .Params.topic_id }}{{ end }}
+  <table class="eps">
+  {{ range $eps }}
+    <tr>
+      <td>{{ .Title }}</td>
+      <td>{{ if .audio }}<audio controls preload="none" src="{{ .audio }}"></audio>{{ end }}</td>
+      <td class="dl">{{ if .audio }}<a href="{{ .audio }}">MP3</a>{{ end }}{{ if .video }} &middot; <a href="{{ .video }}">Video</a>{{ end }}</td>
+    </tr>
+  {{ end }}
+  </table>
+{{ end }}
+{{ end }}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5777/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Around The Year 5777</title>
+    <link>https://www.torahstream.org/#/topic/Around_The_Year_5777</link>
+    <description>Around The Year 5777</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2016-09-25 The Road to Return: Looking For The Goal</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/2016-09-25.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="8595584" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/2016-09-25.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5777/2016-09-25</guid>
+      <pubDate>Sun, 25 Sep 2016 00:54:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>2017-01-08  - Asarah BeTeves; Holding on: personal and national reaction to challenge</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/2017-01-08.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/2017-01-08.mp3" type="audio/mpeg" length="26808448"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5777/2017-01-08</guid>
+      <pubDate>Wed, 11 Jan 2017 21:56:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>2017-03-04 Purim and Year Around Reflections: How to hold your own when it is politically incorrect?</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/2017-03-04.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="23500928" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5777/2017-03-04.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5777/2017-03-04</guid>
+      <pubDate>Sun, 19 Mar 2017 08:36:04 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

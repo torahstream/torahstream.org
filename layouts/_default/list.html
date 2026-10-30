@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<table class="topics">
+<tr><th>Series</th><th>Shiurim</th><th></th><th></th></tr>
+{{ range .Pages.ByTitle }}
+  <tr><td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      <td class="meta">{{ .Params.count }}</td>
+      <td class="dl"><a href="rss.xml">Audio podcast</a></td>
+      <td class="dl">{{ if .Params.has_video }}<a href="vodcast.xml">Video podcast</a>{{ end }}</td></tr>
+{{ end }}
+</table>
+{{ end }}

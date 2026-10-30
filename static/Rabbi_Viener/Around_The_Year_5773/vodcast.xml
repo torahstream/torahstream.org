@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5773/vodcast.xml"/>
+    <title>Around The Year 5773</title>
+    <link>https://www.torahstream.org/#/topic/Around_The_Year_5773</link>
+    <description>Around The Year 5773</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2012-09-09</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-09.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="40714458" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-09.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-09-09</guid>
+      <pubDate>Sun, 09 Sep 2012 01:02:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>2012-09-20</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-20.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="56599717" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-20.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-09-20</guid>
+      <pubDate>Thu, 20 Sep 2012 22:14:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>2012-09-23</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-23.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-23.m4v" length="56268226"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-09-23</guid>
+      <pubDate>Sun, 23 Sep 2012 09:28:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>2013-02-20</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-02-20.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-02-20.m4v" length="63346081"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2013-02-20</guid>
+      <pubDate>Wed, 20 Feb 2013 22:02:02 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/rss.xml"/>
+    <title>Special Contemporary Topics 5776</title>
+    <link>https://www.torahstream.org/#/topic/Special_Contemporary_Topics_5776</link>
+    <description>Special Contemporary Topics 5776</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2015-11-12 Who is in charge: In depth look at Spousal and Parent - Child Relationships in Halacha</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2015-11-12.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2015-11-12.mp3" type="audio/mpeg" length="28950656"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5776/2015-11-12</guid>
+      <pubDate>Mon, 07 Dec 2015 21:20:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>2015-11-26 A Closer Look at Measuring Success</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2015-11-26.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2015-11-26.mp3" length="30157570" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5776/2015-11-26</guid>
+      <pubDate>Mon, 07 Dec 2015 21:15:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>2016-05-29 Halachik imperatives in relationships: obligations towards friends, family and strangers</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2016-05-29.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="22161536" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2016-05-29.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5776/2016-05-29</guid>
+      <pubDate>Mon, 06 Jun 2016 22:33:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>2016-07-26 The Art of Giving: Hilchos Tzedaka and Related Family Issues</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2016-07-26.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="32043317" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5776/2016-07-26.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5776/2016-07-26</guid>
+      <pubDate>Mon, 15 Aug 2016 21:13:50 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

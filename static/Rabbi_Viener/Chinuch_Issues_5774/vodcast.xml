@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Chinuch_Issues_5774/vodcast.xml" rel="self" type="application/rss+xml"/>
+    <title>Chinuch Issues 5774</title>
+    <link>https://www.torahstream.org/#/topic/Chinuch_Issues_5774</link>
+    <description>Chinuch Issues 5774</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Issues_5774/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2014-01-14</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Issues_5774/2014-01-14.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Issues_5774/2014-01-14.m4v" length="176199360" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Chinuch Issues 5774/2014-01-14</guid>
+      <pubDate>Sun, 23 Feb 2014 10:47:35 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

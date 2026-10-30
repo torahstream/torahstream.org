@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}TorahStream</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header class="site"><nav>
+  <a class="brand" href="/">TorahStream</a>
+  <span class="navlinks">
+    <a href="/Rabbi_Viener/">Rabbi Viener</a>
+    <a href="/Rabbi_Lopiansky/">Rabbi Lopiansky</a>
+    <a href="/search/">Search</a>
+  </span>
+</nav></header>
+<main>{{ block "main" . }}{{ end }}</main>
+<footer class="site">TorahStream.org — shiurim of Rabbi Yosef Viener</footer>
+</body>
+</html>

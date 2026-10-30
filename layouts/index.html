@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="hero">
+  <img src="/images/rabbi_viener.jpg" alt="Rabbi Yosef Viener">
+  <h1>Welcome to TorahStream</h1>
+  <p>Rabbi Yosef Viener, author of <a href="http://www.artscroll.com/Books/cqhh.html">Contemporary Questions in Halachah and Hashkafah</a>, has inspired and enlightened listeners worldwide with his shiurim on Halachah and Hashkafah — crystallizing the Torah's timeless wisdom and applying it to our daily lives. TorahStream.org is proud to bring you these fascinating lectures so you too can benefit from his Torah knowledge and practical life guidance at the time and place of your convenience.</p>
+  <p>
+    <a class="btn" href="/Rabbi_Viener/">Go to Shiurim</a>
+    <a class="btn alt" href="/search/">Search all shiurim</a>
+  </p>
+</div>
+<h2>Series</h2>
+<p class="meta">{{ len .Site.Data.topics }} series &middot; {{ $n := 0 }}{{ range .Site.Data.topics }}{{ $n = add $n .count }}{{ end }}{{ $n }} shiurim. Full list under <a href="/Rabbi_Viener/">Rabbi Viener</a> and <a href="/Rabbi_Lopiansky/">Rabbi Lopiansky</a>.</p>
+<table class="topics">
+{{ range first 12 (sort .Site.Data.topics "title") }}
+  <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
+      <td class="meta">{{ .count }} shiurim</td>
+      <td class="dl"><a href="/{{ .dir }}/{{ .id }}/rss.xml">Podcast feed</a></td></tr>
+{{ end }}
+</table>
+{{ end }}

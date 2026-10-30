@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Sanhedrin_5774/rss.xml"/>
+    <title>Sanhedrin 5774</title>
+    <link>https://www.torahstream.org/#/topic/Sanhedrin_5774</link>
+    <description>Sanhedrin 5774</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2013-09-15</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-09-15.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-09-15.mp3" length="21381120" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5774/2013-09-15</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:33 -0400</pubDate>
+    </item>
+    <item>
+      <title>2013-10-06</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-10-06.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="19113984" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-10-06.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5774/2013-10-06</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>20130825 Sanhedrin</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/20130825.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="18270336" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/20130825.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5774/20130825</guid>
+      <pubDate>Thu, 19 Jun 2014 09:53:35 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

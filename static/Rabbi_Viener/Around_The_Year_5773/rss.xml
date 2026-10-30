@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5773/rss.xml"/>
+    <title>Around The Year 5773</title>
+    <link>https://www.torahstream.org/#/topic/Around_The_Year_5773</link>
+    <description>Around The Year 5773</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2012-09-09 Pre-Selichos</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-09.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="9763961" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-09.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-09-09</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>2012-09-20 Hilchos Teshuva</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-20.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-20.mp3" length="13590528"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-09-20</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:26 -0400</pubDate>
+    </item>
+    <item>
+      <title>2012-09-23 Hilchos Teshuva</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-23.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-09-23.mp3" length="13457408" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-09-23</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>2012-11-22 Hakhel: Who Goes First? How Far Should We Go For Someone Else?</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-11-22.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2012-11-22.mp3" length="27785344"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2012-11-22</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:27 -0400</pubDate>
+    </item>
+    <item>
+      <title>2013-02-20 Hilchos Purim</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-02-20.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-02-20.mp3" length="15210624" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2013-02-20</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>2013-05-13 Hilchos Talmud Torah</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-05-13.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="10205312" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-05-13.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2013-05-13</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>2013-05-27 Hakhel - The Stunning Success Of Our Community</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-05-27.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5773/2013-05-27.mp3" length="27723423" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5773/2013-05-27</guid>
+      <pubDate>Thu, 19 Jun 2014 09:46:29 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/rss.xml" rel="self"/>
+    <title>Shovavim, 5779 (Spousal Responsibilities)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5779</link>
+    <description>Shovavim, 5779 (Spousal Responsibilities)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2019-01-20 - Marriage: dropping your baggage</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/2019-01-20.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="21929105" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/2019-01-20.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5779/2019-01-20</guid>
+      <pubDate>Sun, 20 Jan 2019 09:39:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>2019-01-27 - Understanding where your spouse is really coming from</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/2019-01-27.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="20124984" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/2019-01-27.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5779/2019-01-27</guid>
+      <pubDate>Sun, 27 Jan 2019 09:37:05 -0500</pubDate>
+    </item>
+    <item>
+      <title>2019-02-03 - Why do I have to say I'm sorry? A clear Torah view on understanding the inner workings of your better half</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/2019-02-03.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="19924155" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5779/2019-02-03.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5779/2019-02-03</guid>
+      <pubDate>Sun, 03 Feb 2019 09:36:48 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

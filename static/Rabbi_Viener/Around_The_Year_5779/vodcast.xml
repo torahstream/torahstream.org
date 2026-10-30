@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5779/vodcast.xml" rel="self" type="application/rss+xml"/>
+    <title>Around The Year 5779</title>
+    <link>https://www.torahstream.org/#/topic/Around_The_Year_5779</link>
+    <description>Around The Year 5779</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2018-09-29</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2018-09-29.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2018-09-29.m4v" length="87006151"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5779/2018-09-29</guid>
+      <pubDate>Sat, 29 Sep 2018 21:51:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>2019-05-27</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-05-27.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" length="119522639" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-05-27.m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5779/2019-05-27</guid>
+      <pubDate>Thu, 06 Jun 2019 02:18:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>2019-07-03</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-07-03.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="146704635" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-07-03.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5779/2019-07-03</guid>
+      <pubDate>Thu, 01 Aug 2019 01:10:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>2019-07-23</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-07-23.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="153792986" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-07-23.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5779/2019-07-23</guid>
+      <pubDate>Wed, 24 Jul 2019 20:27:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>2019-07-31</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-07-31.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-07-31.m4v" length="152084622" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5779/2019-07-31</guid>
+      <pubDate>Fri, 02 Aug 2019 09:35:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>2019-09-22</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-09-22.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5779/2019-09-22.m4v" length="34134188" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5779/2019-09-22</guid>
+      <pubDate>Sun, 22 Sep 2019 00:51:25 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

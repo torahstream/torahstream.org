@@ -1,0 +1,14 @@
+baseURL = "https://www2.torahstream.org/"
+title = "TorahStream"
+languageCode = "en-us"
+disablePathToLower = true
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "404"]
+[outputs]
+  home = ["HTML", "SearchIndex"]
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "search"
+  isPlainText = true
+  notAlternative = true
+[params]
+  mediaHost = "https://media-cf.torahstream.org"

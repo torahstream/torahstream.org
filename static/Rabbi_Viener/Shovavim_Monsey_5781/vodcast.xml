@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/vodcast.xml" rel="self" type="application/rss+xml"/>
+    <title>Shovavim, 5781 (Inyanei Kedusha)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5781</link>
+    <description>Shovavim, 5781 (Inyanei Kedusha)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2021-01-17</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-17.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="81723273" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-17.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-01-17</guid>
+      <pubDate>Sun, 17 Jan 2021 09:43:42 -0500</pubDate>
+    </item>
+    <item>
+      <title>2021-01-24</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-24.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="84193253" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-24.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-01-24</guid>
+      <pubDate>Sun, 24 Jan 2021 09:41:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>2021-01-31</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-31.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="88850006" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-31.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-01-31</guid>
+      <pubDate>Wed, 03 Feb 2021 21:39:24 -0500</pubDate>
+    </item>
+    <item>
+      <title>2021-02-07</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-02-07.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-02-07.m4v" length="85852608" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-02-07</guid>
+      <pubDate>Sun, 07 Feb 2021 09:43:49 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

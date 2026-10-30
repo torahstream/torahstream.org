@@ -1,0 +1,100 @@
+#!/usr/bin/env python3
+"""Ingest the production www snapshot into this Hugo site.
+
+Source of truth: the snapshot of torahstream/www.torahstream.org at
+../repos/www.torahstream.org (override with TS_WWW_SNAPSHOT).
+
+Writes:
+  static/Rabbi_Viener/**, static/Rabbi_Lopiansky/**  - feeds and JSON, VERBATIM
+  static/favicon.ico, static/images/rabbi_viener.jpg
+  data/topics.json            - combined topic list for templates
+  data/episodes/<id>.json     - Viener episodes (verbatim arrays)
+  data/episodes_lopiansky/<id>.json - parsed from rss.xml items
+  content/Rabbi_Viener/<id>.md, content/Rabbi_Lopiansky/<id>.md (+ section _index.md)
+
+Idempotent: safe to re-run when the snapshot refreshes.
+"""
+import json, os, shutil, sys
+import xml.etree.ElementTree as ET
+
+SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SNAP = os.environ.get('TS_WWW_SNAPSHOT',
+         os.path.join(SITE, '..', 'repos', 'www.torahstream.org'))
+ITUNES = '{http://www.itunes.com/dtds/podcast-1.0.dtd}'
+
+def w(path, data, binary=False):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'wb' if binary else 'w') as f: f.write(data)
+
+topics = []
+
+# ---------- verbatim passthrough of feeds + JSON ----------
+for rabbi_dir in ('Rabbi_Viener', 'Rabbi_Lopiansky'):
+    src_root = os.path.join(SNAP, rabbi_dir)
+    for dirpath, _dirs, files in os.walk(src_root):
+        for fn in files:
+            if fn.endswith(('.xml', '.json')):
+                src = os.path.join(dirpath, fn)
+                rel = os.path.relpath(src, SNAP)
+                dest = os.path.join(SITE, 'static', rel)
+                os.makedirs(os.path.dirname(dest), exist_ok=True)
+                shutil.copyfile(src, dest)
+shutil.copyfile(os.path.join(SNAP, 'favicon.ico'),
+                os.path.join(SITE, 'static', 'favicon.ico'))
+os.makedirs(os.path.join(SITE, 'static', 'images'), exist_ok=True)
+shutil.copyfile(os.path.join(SNAP, 'assets', 'rabbi_viener.jpg'),
+                os.path.join(SITE, 'static', 'images', 'rabbi_viener.jpg'))
+
+# ---------- Rabbi Viener ----------
+vdir = os.path.join(SNAP, 'Rabbi_Viener')
+vt = json.load(open(os.path.join(vdir, 'topics.json')))
+for t in vt:
+    tid = t['id']
+    eps = json.load(open(os.path.join(vdir, tid, 'episodes.json')))
+    w(os.path.join(SITE, 'data', 'episodes', tid + '.json'), json.dumps(eps))
+    has_video = os.path.exists(os.path.join(vdir, tid, 'vodcast.xml'))
+    topics.append({'rabbi': 'viener', 'dir': 'Rabbi_Viener', 'id': tid,
+                   'title': t['title'], 'count': t['count'], 'size': t['size'],
+                   'has_video': has_video})
+    fm = ('---\ntitle: %s\ntype: "topic"\nrabbi: "viener"\ntopic_id: "%s"\n'
+          'count: %d\nhas_video: %s\n---\n' %
+          (json.dumps(t['title']), tid, t['count'], str(has_video).lower()))
+    w(os.path.join(SITE, 'content', 'Rabbi_Viener', tid + '.md'), fm)
+w(os.path.join(SITE, 'content', 'Rabbi_Viener', '_index.md'),
+  '---\ntitle: "Rabbi Yosef Viener — Shiurim"\n---\n')
+
+# ---------- Rabbi Lopiansky (rss only in production data) ----------
+ldir = os.path.join(SNAP, 'Rabbi_Lopiansky')
+for tid in sorted(os.listdir(ldir)):
+    rss = os.path.join(ldir, tid, 'rss.xml')
+    if not os.path.isdir(os.path.join(ldir, tid)) or not os.path.exists(rss):
+        continue
+    ch = ET.parse(rss).getroot().find('channel')
+    full_title = ch.findtext('title') or tid
+    title = full_title.split('/', 1)[1] if '/' in full_title else full_title
+    eps = []
+    for it in ch.findall('item'):
+        enc = it.find('enclosure')
+        order = it.findtext(ITUNES + 'order')
+        eps.append({'Title': it.findtext('title') or '',
+                    'audio': enc.get('url') if enc is not None else '',
+                    'Track': order or ''})
+    eps.sort(key=lambda e: int(e['Track']) if e['Track'].isdigit() else 0)
+    w(os.path.join(SITE, 'data', 'episodes_lopiansky', tid + '.json'),
+      json.dumps(eps))
+    topics.append({'rabbi': 'lopiansky', 'dir': 'Rabbi_Lopiansky', 'id': tid,
+                   'title': title, 'count': len(eps), 'size': 0,
+                   'has_video': False})
+    fm = ('---\ntitle: %s\ntype: "topic"\nrabbi: "lopiansky"\ntopic_id: "%s"\n'
+          'count: %d\nhas_video: false\n---\n' % (json.dumps(title), tid, len(eps)))
+    w(os.path.join(SITE, 'content', 'Rabbi_Lopiansky', tid + '.md'), fm)
+w(os.path.join(SITE, 'content', 'Rabbi_Lopiansky', '_index.md'),
+  '---\ntitle: "Rabbi Lopiansky — Shiurim"\n---\n')
+
+topics.sort(key=lambda t: (t['rabbi'], t['title']))
+w(os.path.join(SITE, 'data', 'topics.json'), json.dumps(topics, indent=1))
+w(os.path.join(SITE, 'content', '_index.md'), '---\ntitle: "TorahStream"\n---\n')
+w(os.path.join(SITE, 'content', 'search.md'),
+  '---\ntitle: "Search shiurim"\ntype: "search"\n---\n')
+total_eps = sum(t['count'] for t in topics)
+print(f"ingested {len(topics)} topics, {total_eps} episodes")

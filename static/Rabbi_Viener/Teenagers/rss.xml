@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Teenagers/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Teenagers</title>
+    <link>https://www.torahstream.org/#/topic/Teenagers</link>
+    <description>Teenagers</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Teenagers/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>Teenagers 1</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Teenagers/Teenagers_1.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Teenagers/Teenagers_1.mp3" length="18870400" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Teenagers/Teenagers 1</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Teenagers 2</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Teenagers/Teenagers_2.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="17965184" url="https://media-cf.torahstream.org/Rabbi_Viener/Teenagers/Teenagers_2.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Teenagers/Teenagers 2</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

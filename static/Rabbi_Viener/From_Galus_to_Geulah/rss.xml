@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>From Golus to Geulah: An Insight Into Our Present Situation of Exile And The Days Of Moshiach</title>
+    <link>https://www.torahstream.org/#/topic/From_Galus_to_Geulah</link>
+    <description>From Golus to Geulah: An Insight Into Our Present Situation of Exile And The Days Of Moshiach</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>From Galus to Geulah 1</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/From_Galus_to_Geulah_1.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/From_Galus_to_Geulah_1.mp3" length="32356480" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/From Galus to Geulah/From Galus to Geulah 1</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>From Galus to Geulah 2</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/From_Galus_to_Geulah_2.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="19873920" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/From_Galus_to_Geulah_2.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/From Galus to Geulah/From Galus to Geulah 2</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:16 -0500</pubDate>
+    </item>
+    <item>
+      <title>From Galus to Geulah 3</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/From_Galus_to_Geulah_3.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="19382400" url="https://media-cf.torahstream.org/Rabbi_Viener/From_Galus_to_Geulah/From_Galus_to_Geulah_3.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/From Galus to Geulah/From Galus to Geulah 3</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:16 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

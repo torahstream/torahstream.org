@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/vodcast.xml"/>
+    <title>Shovavim, 5776 (for married couples only)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5776</link>
+    <description>Shovavim, 5776 (for married couples only)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2016-01-17</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-17.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="84584302" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-17.m4v" type="video/x-m4v"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5776/2016-01-17</guid>
+      <pubDate>Sun, 17 Jan 2016 09:55:52 -0500</pubDate>
+    </item>
+    <item>
+      <title>2016-01-24</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-24.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-24.m4v" length="82027818"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5776/2016-01-24</guid>
+      <pubDate>Sun, 24 Jan 2016 09:44:19 -0500</pubDate>
+    </item>
+    <item>
+      <title>2016-02-07</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-02-07.m4v</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-02-07.m4v" length="82777540"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5776/2016-02-07</guid>
+      <pubDate>Sun, 07 Feb 2016 09:54:15 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

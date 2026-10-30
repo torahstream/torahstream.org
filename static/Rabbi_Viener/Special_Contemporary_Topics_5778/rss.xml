@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/rss.xml" type="application/rss+xml"/>
+    <title>Special Contemporary Topics 5778</title>
+    <link>https://www.torahstream.org/#/topic/Special_Contemporary_Topics_5778</link>
+    <description>Special Contemporary Topics 5778</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2017-10-10 Hoshanah Rabbah Hisorerus: Taking revenge</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-10-10.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-10-10.mp3" type="audio/mpeg" length="20138954"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2017-10-10</guid>
+      <pubDate>Tue, 10 Oct 2017 21:18:59 -0400</pubDate>
+    </item>
+    <item>
+      <title>2017-12-25 - Intergenerational responsibilities: halacha &amp; hashkafa</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-12-25.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="25675904" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2017-12-25.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2017-12-25</guid>
+      <pubDate>Mon, 25 Dec 2017 21:07:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>2018-05-28 - Hakhel: Eize hu ben chorin, eize hu gibor: opportunity in the Land of the Free and the Home of the Brave</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-05-28.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="30472320" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-05-28.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2018-05-28</guid>
+      <pubDate>Thu, 07 Jun 2018 21:22:51 -0400</pubDate>
+    </item>
+    <item>
+      <title>2018-07-09 - Family dynamics: monetary issues and other responsibilities</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-07-09.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="36352128" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5778/2018-07-09.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5778/2018-07-09</guid>
+      <pubDate>Wed, 11 Jul 2018 21:55:04 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

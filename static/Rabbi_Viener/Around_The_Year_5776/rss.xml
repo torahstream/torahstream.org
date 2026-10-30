@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5776/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Around The Year 5776</title>
+    <link>https://www.torahstream.org/#/topic/Around_The_Year_5776</link>
+    <description>Around The Year 5776</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2015-09-06 Pre-Selichos</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-06.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="9742848" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-06.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2015-09-06</guid>
+      <pubDate>Sun, 06 Sep 2015 01:00:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>2015-09-07 Teshuva Drasha</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-07.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="14971904" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-07.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2015-09-07</guid>
+      <pubDate>Mon, 07 Sep 2015 21:55:41 -0400</pubDate>
+    </item>
+    <item>
+      <title>2015-10-03 Sukkos and Hoshana Rabbah</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-10-03.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-10-03.mp3" length="9954816"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2015-10-03</guid>
+      <pubDate>Sat, 03 Oct 2015 22:39:28 -0400</pubDate>
+    </item>
+    <item>
+      <title>2015-12-08 Chanukah Thoughts</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-12-08.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-12-08.mp3" length="14586368"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2015-12-08</guid>
+      <pubDate>Mon, 14 Dec 2015 21:05:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>2015-12-10 Chanukah - Message for Bochurim</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-12-10.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-12-10.mp3" length="19041792"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2015-12-10</guid>
+      <pubDate>Mon, 14 Dec 2015 21:06:08 -0500</pubDate>
+    </item>
+    <item>
+      <title>2016-05-30 Harnessing Our Time</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-05-30.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" length="25731200" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-05-30.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2016-05-30</guid>
+      <pubDate>Thu, 22 Sep 2016 21:02:53 -0400</pubDate>
+    </item>
+    <item>
+      <title>2016-08-14 Galus and Geulah: Causes and Remedies</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-08-14.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-08-14.mp3" length="8114304"/>
+      <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2016-08-14</guid>
+      <pubDate>Sat, 13 Aug 2016 22:38:44 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

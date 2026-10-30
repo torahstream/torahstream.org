@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Parents_-_Responsibilites_and_Obligations/rss.xml" type="application/rss+xml"/>
+    <title>Parents - Responsibilities and Obligations. Halachos and Hashkafos of Honoring Parents</title>
+    <link>https://www.torahstream.org/#/topic/Parents_-_Responsibilites_and_Obligations</link>
+    <description>Parents - Responsibilities and Obligations. Halachos and Hashkafos of Honoring Parents</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Parents_-_Responsibilites_and_Obligations/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>Parents - Responsibilities and Obligations 1</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Parents_-_Responsibilites_and_Obligations/Parents_-_Responsibilities_and_Obligations_1.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="24569984" url="https://media-cf.torahstream.org/Rabbi_Viener/Parents_-_Responsibilites_and_Obligations/Parents_-_Responsibilities_and_Obligations_1.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Parents - Responsibilites and Obligations/Parents - Responsibilities and Obligations 1</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
+    </item>
+    <item>
+      <title>Parents - Responsibilities and Obligations 2</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Parents_-_Responsibilites_and_Obligations/Parents_-_Responsibilities_and_Obligations_2.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parents_-_Responsibilites_and_Obligations/Parents_-_Responsibilities_and_Obligations_2.mp3" type="audio/mpeg" length="26085504"/>
+      <guid isPermaLink="false">Rabbi Viener/Parents - Responsibilites and Obligations/Parents - Responsibilities and Obligations 2</guid>
+      <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

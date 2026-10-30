@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5780/rss.xml" rel="self"/>
+    <title>Shovavim, 5780 (Spousal Responsibilities)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5780</link>
+    <description>Shovavim, 5780 (Spousal Responsibilities)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5780/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2020-02-09 - Common emotional volatility: unlimited opportunity with spousal challenge and growth</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5780/2020-02-09.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5780/2020-02-09.mp3" length="21403776"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5780/2020-02-09</guid>
+      <pubDate>Wed, 12 Feb 2020 13:50:03 -0500</pubDate>
+    </item>
+    <item>
+      <title>2020-02-16 - Growing your family: The privilege and responsibility; spousal issues and upgrading midos</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5780/2020-02-16.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="18657408" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5780/2020-02-16.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5780/2020-02-16</guid>
+      <pubDate>Sun, 16 Feb 2020 20:20:37 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/rss.xml" rel="self"/>
+    <title>Shovavim, 5775 (for married couples only)</title>
+    <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5775</link>
+    <description>Shovavim, 5775 (for married couples only)</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2015-01-18 Shovavim</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-01-18.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-01-18.mp3" length="15348224"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5775/2015-01-18</guid>
+      <pubDate>Sun, 18 Jan 2015 16:39:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>2015-01-25</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-01-25.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure length="19601920" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-01-25.mp3"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5775/2015-01-25</guid>
+      <pubDate>Sun, 25 Jan 2015 09:41:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>2015-02-01</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-02-01.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-02-01.mp3" type="audio/mpeg" length="18237440"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5775/2015-02-01</guid>
+      <pubDate>Sun, 01 Feb 2015 09:32:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>2015-02-08</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-02-08.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-02-08.mp3" length="18003456"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5775/2015-02-08</guid>
+      <pubDate>Sun, 08 Feb 2015 21:39:10 -0500</pubDate>
+    </item>
+    <item>
+      <title>2015-02-15</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-02-15.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5775/2015-02-15.mp3" length="19772928"/>
+      <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5775/2015-02-15</guid>
+      <pubDate>Sun, 15 Feb 2015 09:36:52 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

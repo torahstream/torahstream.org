@@ -1,0 +1,8 @@
+---
+title: "Around The Year 5787"
+type: "topic"
+rabbi: "viener"
+topic_id: "Around_The_Year_5787"
+count: 1
+has_video: true
+---
