@@ -1,21 +1,16 @@
 {{ define "main" }}
 {{ if eq .Type "search" }}
-  <h1>{{ .Title }}</h1>
-  <input type="search" id="q" placeholder="Search titles and series…" autocomplete="off">
-  <p class="meta" id="status">Type to search across all shiurim.</p>
+  <h1>Search results</h1>
+  <p class="meta" id="status">Searching…</p>
   <table class="eps"><tbody id="results"></tbody></table>
   <script>
-  let idx = null;
-  const q = document.getElementById('q'), res = document.getElementById('results'), st = document.getElementById('status');
-  fetch('/search.json').then(r => r.json()).then(d => { idx = d; st.textContent = 'Search ' + d.length + ' shiurim.';
-    const pre = new URLSearchParams(location.search).get('q');
-    if (pre) { q.value = pre; q.dispatchEvent(new Event('input')); } });
-  q.addEventListener('input', () => {
-    if (!idx) return;
-    const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
-    if (!terms.length) { res.innerHTML=''; st.textContent=''; return; }
+  const res = document.getElementById('results'), st = document.getElementById('status');
+  const query = new URLSearchParams(location.search).get('q') || '';
+  fetch('/search.json').then(r => r.json()).then(idx => {
+    if (!query.trim()) { st.textContent = 'Use the search box in the menu bar to search ' + idx.length + ' shiurim.'; return; }
+    const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
     const hits = idx.filter(e => { const h = (e.topic + ' ' + e.title).toLowerCase(); return terms.every(t => h.includes(t)); }).slice(0, 100);
-    st.textContent = hits.length + ' result' + (hits.length === 1 ? '' : 's');
+    st.textContent = hits.length + ' result' + (hits.length === 1 ? '' : 's') + ' for \u201C' + query + '\u201D';
     res.innerHTML = hits.map(e => '<tr><td><a href="' + e.page + '">' + e.topic + '</a></td><td>' + e.title + '</td><td class="dl"><a href="' + e.audio + '">Play / download</a></td></tr>').join('');
   });
   </script>
