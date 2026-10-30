@@ -5,7 +5,8 @@ header.site { background:#173a5e; color:#fff; padding:.7rem 1rem; }
 header.site nav { max-width:1020px; margin:0 auto; display:flex; gap:1.2rem; align-items:baseline; flex-wrap:wrap; }
 header.site a { color:#fff; text-decoration:none; }
 header.site .brand { font-size:1.35rem; font-weight:bold; letter-spacing:.02em; }
-header.site .navlinks a { opacity:.85; font-size:.95rem; }
+header.site .navlinks { display:flex; gap:1.75rem; margin-left:.6rem; }
+header.site .navlinks a { opacity:.85; font-size:.95rem; padding:.15rem 0; }
 main { max-width:1020px; margin:0 auto; padding:1.2rem 1rem 3rem; }
 h1 { font-size:1.7rem; margin:.3em 0 .5em; } h2 { font-size:1.25rem; margin-top:1.6em; }
 a { color:var(--acc); }
