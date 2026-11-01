@@ -1,0 +1,36 @@
+# OPTIONAL instant trigger for the Hugo site build.
+#
+# Install this file in the torahstream/www.torahstream.org repo as
+#   .github/workflows/dispatch.yml
+# (from the mini's checkout of that repo, or via the GitHub web UI).
+#
+# On every push there, it fires a repository_dispatch at
+# torahstream/torahstream.org, whose Pages workflow then checks out this
+# exact commit, ingests it, rebuilds and redeploys the site - so a
+# gensite push becomes a live site update within a couple of minutes.
+#
+# Requires one secret in the www repo:
+#   SITE_DISPATCH_TOKEN - a fine-grained PAT owned by the torahstream
+#   account, scoped to ONLY the torahstream/torahstream.org repo, with
+#   Actions: Read and write. (If the dispatch call ever 403s on
+#   permissions, the site still updates via its 20-minute poll; nothing
+#   breaks, it is just slower.)
+#
+# Without this file the site still stays current: the Hugo workflow polls
+# the www repo every 20 minutes and rebuilds when its HEAD has moved.
+
+name: Notify Hugo site of new data
+
+on:
+  push:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.SITE_DISPATCH_TOKEN }}
+          repository: torahstream/torahstream.org
+          event-type: www-updated
+          client-payload: '{"sha": "${{ github.sha }}"}'

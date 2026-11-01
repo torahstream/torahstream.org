@@ -1,12 +1,38 @@
 name: Build and deploy Hugo site to GitHub Pages
 
+# The site is a pure function of two inputs:
+#   1. this repo (templates, scripts, config), and
+#   2. the generated feeds/JSON in torahstream/www.torahstream.org,
+#      checked out fresh at build time (never committed here).
+#
+# Triggers:
+#   - push to main            -> template/config change: rebuild + redeploy
+#   - repository_dispatch     -> the www repo says "new data" (instant path;
+#                                set up per automation/README.md)
+#   - schedule (every 20 min) -> poll: rebuild only if the www repo moved
+#   - workflow_dispatch       -> manual, optionally pinned to a www commit
+#
+# The www checkout needs the WWW_DEPLOY_KEY secret (a read-only deploy key
+# on the www repo). Until that secret exists the workflow degrades
+# gracefully: push/manual runs build from the data committed in this repo,
+# and scheduled polls skip. See automation/README.md.
+
 on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      www_sha:
+        description: "www repo commit to build from (blank = latest)"
+        required: false
+        type: string
+  repository_dispatch:
+    types: [www-updated]
+  schedule:
+    - cron: "*/20 * * * *"
 
 permissions:
-  contents: read
+  contents: write # the deployed-data stamp commit (GITHUB_TOKEN pushes do not retrigger workflows)
   pages: write
   id-token: write
 
@@ -22,16 +48,130 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Check for www access
+        id: prep
+        env:
+          WWW_KEY: ${{ secrets.WWW_DEPLOY_KEY }}
+        run: |
+          if [ -n "$WWW_KEY" ]; then
+            echo "has_key=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_key=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::WWW_DEPLOY_KEY is not set - building from committed data; scheduled polls will skip."
+          fi
+
+      - name: Resolve target www commit
+        id: target
+        run: |
+          SHA=""
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            SHA="${{ github.event.client_payload.sha }}"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            SHA="${{ inputs.www_sha }}"
+          fi
+          echo "sha=$SHA" >> "$GITHUB_OUTPUT"
+
+      - name: Check out www data repo
+        if: steps.prep.outputs.has_key == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: torahstream/www.torahstream.org
+          ssh-key: ${{ secrets.WWW_DEPLOY_KEY }}
+          path: www-snapshot
+
+      - name: Pin www commit and decide whether to build
+        id: decide
+        run: |
+          SKIP=false
+          if [ "${{ steps.prep.outputs.has_key }}" != "true" ]; then
+            # No data access: only explicit runs build (from committed data).
+            if [ "${{ github.event_name }}" = "schedule" ]; then SKIP=true; fi
+            echo "www_sha=" >> "$GITHUB_OUTPUT"
+          else
+            WANT="${{ steps.target.outputs.sha }}"
+            HAVE=$(git -C www-snapshot rev-parse HEAD)
+            if [ -n "$WANT" ] && [ "$WANT" != "$HAVE" ]; then
+              git -C www-snapshot fetch --depth 1 origin "$WANT"
+              git -C www-snapshot checkout -q "$WANT"
+              HAVE=$(git -C www-snapshot rev-parse HEAD)
+            fi
+            echo "www_sha=$HAVE" >> "$GITHUB_OUTPUT"
+            STAMP=""
+            if [ -f .build-state/www-sha ]; then STAMP=$(tr -d '[:space:]' < .build-state/www-sha); fi
+            if [ "${{ github.event_name }}" = "schedule" ] && [ "$HAVE" = "$STAMP" ]; then
+              SKIP=true
+              echo "www data unchanged at $HAVE - nothing to do."
+            fi
+          fi
+          echo "skip=$SKIP" >> "$GITHUB_OUTPUT"
+
+      - name: Ingest www data
+        if: steps.decide.outputs.skip != 'true' && steps.prep.outputs.has_key == 'true'
+        env:
+          TS_WWW_SNAPSHOT: ${{ github.workspace }}/www-snapshot
+        run: python3 scripts/ingest.py
+
+      - name: Stamp build info into the site
+        if: steps.decide.outputs.skip != 'true' && steps.prep.outputs.has_key == 'true'
+        run: |
+          printf '{"www_sha": "%s", "built_at": "%s", "run": "%s"}\n' \
+            "${{ steps.decide.outputs.www_sha }}" "$(date -u +%FT%TZ)" "${{ github.run_id }}" \
+            > static/build-info.json
+          cat static/build-info.json
+
       - name: Install Hugo (extended, pinned to the local build version)
+        if: steps.decide.outputs.skip != 'true'
         run: |
           wget -q https://github.com/gohugoio/hugo/releases/download/v0.167.0/hugo_extended_0.167.0_Linux-64bit.tar.gz
           tar xzf hugo_extended_0.167.0_Linux-64bit.tar.gz hugo
           ./hugo version
+
       - name: Build
+        if: steps.decide.outputs.skip != 'true'
         run: ./hugo --cleanDestinationDir
+
+      - name: Verify feed/JSON parity against the www checkout
+        if: steps.decide.outputs.skip != 'true' && steps.prep.outputs.has_key == 'true'
+        env:
+          TS_WWW_SNAPSHOT: ${{ github.workspace }}/www-snapshot
+        run: python3 scripts/verify_parity.py public
+
       - uses: actions/configure-pages@v5
+        if: steps.decide.outputs.skip != 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.decide.outputs.skip != 'true'
         with:
           path: public
       - id: deployment
+        if: steps.decide.outputs.skip != 'true'
         uses: actions/deploy-pages@v4
+
+      - name: Verify the live site serves this www data
+        if: steps.decide.outputs.skip != 'true' && steps.prep.outputs.has_key == 'true'
+        run: |
+          HOST=$(tr -d '[:space:]' < static/CNAME)
+          WANT="${{ steps.decide.outputs.www_sha }}"
+          for i in $(seq 1 10); do
+            GOT=$(curl -fs "https://$HOST/build-info.json" | sed -n 's/.*"www_sha": "\([0-9a-f]*\)".*/\1/p' || true)
+            if [ "$GOT" = "$WANT" ]; then echo "Live site confirmed at www $WANT"; exit 0; fi
+            echo "attempt $i: live site at '${GOT:-unreachable}', want $WANT - waiting 30s"
+            sleep 30
+          done
+          echo "::error::Live site did not converge to www $WANT"
+          exit 1
+
+      - name: Record the deployed www commit
+        if: steps.decide.outputs.skip != 'true' && steps.prep.outputs.has_key == 'true'
+        run: |
+          mkdir -p .build-state
+          echo "${{ steps.decide.outputs.www_sha }}" > .build-state/www-sha
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .build-state/www-sha
+          if git commit -m "Record deployed www data at ${{ steps.decide.outputs.www_sha }}"; then
+            git pull --rebase origin main || true
+            git push || echo "::warning::stamp push failed; the next scheduled run will rebuild once."
+          else
+            echo "Stamp unchanged."
+          fi
