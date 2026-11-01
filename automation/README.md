@@ -53,6 +53,9 @@ Without it, a publish goes live within ~20 minutes via the poll. For
 near-instant updates, also do the pair described in
 `automation/www-dispatch.yml`: a `SITE_DISPATCH_TOKEN` secret in the www
 repo, and that file committed there as `.github/workflows/dispatch.yml`.
+The token is a fine-grained PAT scoped to this repo only with
+**Contents: Read and write** — the dispatches endpoint checks Contents,
+not Actions (an Actions-only token 403s; verified live 2026-11-01).
 
 ## Cutover note
 

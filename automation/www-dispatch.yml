@@ -12,9 +12,12 @@
 # Requires one secret in the www repo:
 #   SITE_DISPATCH_TOKEN - a fine-grained PAT owned by the torahstream
 #   account, scoped to ONLY the torahstream/torahstream.org repo, with
-#   Actions: Read and write. (If the dispatch call ever 403s on
-#   permissions, the site still updates via its 20-minute poll; nothing
-#   breaks, it is just slower.)
+#   Contents: Read and write (Metadata: Read comes automatically).
+#   NOTE: the dispatches endpoint wants Contents, NOT Actions - an
+#   Actions-only token fails in seconds with "Resource not accessible
+#   by personal access token" (learned live 2026-11-01, first real
+#   publish). If the dispatch call ever 403s on permissions, the site
+#   still updates via its 20-minute poll; nothing breaks, just slower.
 #
 # Without this file the site still stays current: the Hugo workflow polls
 # the www repo every 20 minutes and rebuilds when its HEAD has moved.
