@@ -132,6 +132,16 @@ table.topics td.sub { white-space:nowrap; }
   .btn.small { padding:.18rem .5rem; font-size:.85rem; }
   .hero img { width:150px; }
   .navsearch input { width:8.2rem; }
+  /* Episode rows reflow: on a narrow screen the 230px player and
+     the nowrap download cell used to crush long titles into a
+     skinny left column. Stack instead — title full width as the
+     headline, player full width below it, links under that. */
+  table.eps tr { display:block; }
+  table.eps td { display:block; width:auto; border-bottom:none; padding:.18rem .5rem; }
+  table.eps td:first-child { padding-top:.55rem; font-size:1.02rem; line-height:1.35; }
+  table.eps td:last-child { border-bottom:1px solid var(--line); padding-bottom:.55rem; }
+  table.eps audio { width:100%; }
+  table.eps video { max-width:100%; height:auto; }
 }
 
 .navsearch { position:relative; margin-left:auto; }
