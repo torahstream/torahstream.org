@@ -12,3 +12,6 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap", "404"]
   notAlternative = true
 [params]
   mediaHost = "https://media-cf.torahstream.org"
+  # GA4 measurement ID (G-...); empty = no tracker emitted. Replaces the
+  # retired Universal Analytics property UA-33191551-1 used by the old sites.
+  ga4Id = "G-RLS7515PWK"

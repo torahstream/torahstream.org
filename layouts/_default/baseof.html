@@ -6,7 +6,15 @@
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}TorahStream</title>
 <link rel="icon" href="/favicon.ico">
 {{ $css := resources.Get "css/style.css" | resources.Fingerprint "sha256" }}<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
-</head>
+{{ with .Site.Params.ga4Id }}<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ . }}');
+</script>
+{{ end }}</head>
 <body>
 <header class="site"><nav>
   <a class="brand" href="/">TorahStream</a>
