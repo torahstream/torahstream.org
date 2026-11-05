@@ -6,4 +6,8 @@ topic_id: "Q_and_A_For_Bochurim"
 count: 30
 has_video: true
 ongoing: true
+category: "family"
+family: "Q_and_A_For_Bochurim"
+year: ""
+listing_title: ""
 ---

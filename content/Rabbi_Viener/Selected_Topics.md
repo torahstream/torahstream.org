@@ -6,4 +6,8 @@ topic_id: "Selected_Topics"
 count: 1
 has_video: false
 ongoing: false
+category: "other"
+family: "Selected_Topics"
+year: ""
+listing_title: ""
 ---

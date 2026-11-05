@@ -6,4 +6,8 @@ topic_id: "Kibbud_5778"
 count: 99
 has_video: true
 ongoing: false
+category: "contemporary"
+family: "Kibbud"
+year: "5778"
+listing_title: ""
 ---

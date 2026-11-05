@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/On_Internet_Use/rss.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/On_Internet_Use/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Internet Use: Dangers and Decisions</title>
     <link>https://www.torahstream.org/#/topic/On_Internet_Use</link>
     <description>Internet Use: Dangers and Decisions</description>
@@ -19,7 +19,7 @@
       <title>On Internet Use</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Internet_Use/On_Internet_Use.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Internet_Use/On_Internet_Use.mp3" type="audio/mpeg" length="19179648"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Internet_Use/On_Internet_Use.mp3" length="19179648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Internet Use/On Internet Use</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:23 -0500</pubDate>
     </item>

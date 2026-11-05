@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5782</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5782</link>
     <description>Shovavim, 5782</description>
@@ -19,7 +19,7 @@
       <title>2022-01-09 - Preferred Marriageable Age: Sensitivities, Trends, and Challenges</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-09.mp3" length="20463616"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-09.mp3" length="20463616" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5782/2022-01-09</guid>
       <pubDate>Sun, 09 Jan 2022 17:07:10 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2022-02-06 - Bashert Now and Techiyas Hamesim; Parents and your Shidduch</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-02-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19806336" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-02-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-02-06.mp3" length="19806336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5782/2022-02-06</guid>
       <pubDate>Sun, 06 Feb 2022 09:46:00 -0500</pubDate>
     </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5777 (Spousal Responsibilities)</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5777</link>
     <description>Shovavim, 5777 (Spousal Responsibilities)</description>
@@ -35,7 +35,7 @@
       <title>2017-02-12 - When insult is added to injury - what to do when things can't get worse</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-12.mp3" length="20027182"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-12.mp3" length="20027182" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-12</guid>
       <pubDate>Tue, 21 Feb 2017 21:18:54 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2017-02-19 - When insult is added to injury - what to do when things can't get worse</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18910395" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-19.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-19.mp3" length="18910395" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-19</guid>
       <pubDate>Mon, 20 Feb 2017 21:13:48 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2017-02-26 - Know thy enemy and keep your friends</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-26.mp3" length="16090633"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5777/2017-02-26.mp3" length="16090633" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5777/2017-02-26</guid>
       <pubDate>Mon, 27 Feb 2017 22:09:57 -0500</pubDate>
     </item>

@@ -1,12 +1,48 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<table class="topics">
-<tr><th>Series</th><th>Shiurim</th><th></th><th></th></tr>
-{{ range .Pages.ByTitle }}
-  <tr><td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-      <td class="meta">{{ .Params.count }}</td>
-      <td class="dl"><a href="rss.xml">Audio podcast</a></td>
-      <td class="dl">{{ if .Params.has_video }}<a href="vodcast.xml">Video podcast</a>{{ end }}</td></tr>
+<p class="meta">Series are grouped by topic — tap a category, then a series, to expand it.</p>
+{{ $cats := .Site.Data.categories }}
+{{ range $cat := $cats.categories }}
+  {{ $pages := where $.Pages "Params.category" $cat.id }}
+  {{ if $pages }}
+  {{ $total := 0 }}{{ range $pages }}{{ $total = add $total .Params.count }}{{ end }}
+  <details class="cat" id="cat-{{ $cat.id }}">
+    <summary><span class="cat-name">{{ $cat.name }}{{ with $cat.note }} <span class="cat-note">({{ . }})</span>{{ end }}</span><span class="meta">{{ len $pages }} series · {{ $total }} shiurim</span></summary>
+    {{ range $pages.GroupByParam "family" }}
+      {{ if gt (len .Pages) 1 }}
+        {{ $ftotal := 0 }}{{ range .Pages }}{{ $ftotal = add $ftotal .Params.count }}{{ end }}
+        {{ $yrs := sort .Pages "Params.year" "desc" }}
+        <details class="fam" id="fam-{{ .Key }}">
+          <summary><span class="fam-name">{{ index $cats.family_names .Key | default (humanize .Key) }}</span><span class="meta">{{ (index $yrs 0).Params.year }}–{{ (index $yrs (sub (len $yrs) 1)).Params.year }} · {{ $ftotal }} shiurim</span></summary>
+          {{ range $yrs }}
+          <div class="yr">
+            <a class="yr-link" href="{{ .RelPermalink }}">{{ .Params.year }}{{ if .Params.ongoing }} <span class="ongoing">ongoing</span>{{ end }}</a>
+            <span class="meta">{{ .Params.count }} shiurim</span>
+            <span class="dl"><a href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
+          </div>
+          {{ end }}
+        </details>
+      {{ else }}
+        {{ range .Pages }}
+        <div class="yr single">
+          <a class="yr-link" href="{{ .RelPermalink }}">{{ .Params.listing_title | default .Title }}</a>
+          <span class="meta">{{ .Params.count }} shiurim</span>
+          <span class="dl"><a href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
+        </div>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </details>
+  {{ end }}
 {{ end }}
-</table>
+<script>
+(function () {
+  if (!location.hash) return;
+  var el = document.querySelector(location.hash);
+  while (el) {
+    if (el.tagName === "DETAILS") el.open = true;
+    el = el.parentElement;
+  }
+})();
+</script>
 {{ end }}

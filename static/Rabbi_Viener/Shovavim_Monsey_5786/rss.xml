@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5786</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5786</link>
     <description>Shovavim, 5786</description>
@@ -19,7 +19,7 @@
       <title>2026-01-11 - Shidduchim, family planning, tzenius scenarios, and other pivotal issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21201274" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-11.mp3" length="21201274" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-01-11</guid>
       <pubDate>Sun, 11 Jan 2026 09:50:35 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2026-01-18 - Shidduch and Marriage Decisions: A bracha that helps you realize it is the right one</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-18.mp3" type="audio/mpeg" length="18395003"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-18.mp3" length="18395003" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-01-18</guid>
       <pubDate>Sun, 18 Jan 2026 09:49:12 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2026-01-25 - Emotional Risk: Forging Relationships and Growing Them</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21111803" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-25.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-25.mp3" length="21111803" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-01-25</guid>
       <pubDate>Sun, 25 Jan 2026 09:49:22 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2026-02-08 - Man's best friend?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-08.mp3" type="audio/mpeg" length="22961147"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-08.mp3" length="22961147" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-02-08</guid>
       <pubDate>Sun, 08 Feb 2026 09:47:13 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2026-02-15 - Secret service tips</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22790650" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-15.mp3" length="22790650" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-02-15</guid>
       <pubDate>Sun, 15 Feb 2026 09:50:43 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2026-02-22 - Women in the army; Dangerous waters</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22558138" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-22.mp3" length="22558138" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-02-22</guid>
       <pubDate>Sun, 22 Feb 2026 09:49:09 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2026-03-01 - Protectors of your home: NIMBY applications</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-03-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-03-01.mp3" type="audio/mpeg" length="21266939"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-03-01.mp3" length="21266939" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-03-01</guid>
       <pubDate>Sun, 01 Mar 2026 09:51:37 -0500</pubDate>
     </item>

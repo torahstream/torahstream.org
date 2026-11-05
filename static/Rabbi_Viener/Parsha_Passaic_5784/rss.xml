@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Parsha: Selected Insights, 5784 (Passaic)</title>
     <link>https://www.torahstream.org/#/topic/Parsha_Passaic_5784</link>
     <description>Parsha: Selected Insights, 5784 (Passaic)</description>
@@ -19,7 +19,7 @@
       <title>2023-11-04 - Parshas Vayera: Is there anything for free? A closer look at opportunity and sacrifice</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="24406144" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-04.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-04.mp3" length="24406144" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2023-11-04</guid>
       <pubDate>Sun, 05 Nov 2023 07:47:59 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2023-11-11 - Parshas Chayei Sarah. Clouds on the horizon: How to read things correctly</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16435328" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-11.mp3" length="16435328" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2023-11-11</guid>
       <pubDate>Sun, 12 Nov 2023 08:38:19 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2023-11-18 - Parshas Toldos. Be careful what you ask for</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-18.mp3" type="audio/mpeg" length="19017856"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-18.mp3" length="19017856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2023-11-18</guid>
       <pubDate>Sun, 19 Nov 2023 08:47:51 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2023-11-25 - Parshas Vayeitzei. Push yourself - do not complain about others</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19622016" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-11-25.mp3" length="19622016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2023-11-25</guid>
       <pubDate>Sun, 26 Nov 2023 08:38:02 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2023-12-16 - Parshas Mikeitz: Decisions, Introspection, and Self-Doubt</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-12-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14774400" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-12-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-12-16.mp3" length="14774400" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2023-12-16</guid>
       <pubDate>Sun, 17 Dec 2023 08:36:18 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2023-12-30 - Parshas Vayichi. Home style democracy: when to include the children</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-12-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-12-30.mp3" type="audio/mpeg" length="21500032"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2023-12-30.mp3" length="21500032" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2023-12-30</guid>
       <pubDate>Sun, 31 Dec 2023 08:40:10 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2024-01-06 - Parshas Shemos. Harvard, have-nots, and hedge funds: unwavering Hashkafa for life</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-06.mp3" type="audio/mpeg" length="16078976"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-06.mp3" length="16078976" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-01-06</guid>
       <pubDate>Sun, 07 Jan 2024 08:40:38 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2024-01-13 - Parshas Vaeira: Don't confuse me with the facts - Biased decisions based on preconceived notions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="23398528" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-13.mp3" length="23398528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-01-13</guid>
       <pubDate>Sun, 14 Jan 2024 08:37:38 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2024-01-20 - Parshas Bo: Lenders without borrowers?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22593664" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-20.mp3" length="22593664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-01-20</guid>
       <pubDate>Sun, 21 Jan 2024 08:38:33 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2024-01-27 - Parshas Beshalach: Taking care of someone else's children in difficult circumstances</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-27.mp3" type="audio/mpeg" length="20650112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-01-27.mp3" length="20650112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-01-27</guid>
       <pubDate>Wed, 31 Jan 2024 07:48:45 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2024-02-10 - Parshas Mishpotim: Rebellions, Insurrections, Rule of Law, and us</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-10.mp3" type="audio/mpeg" length="25639040"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-10.mp3" length="25639040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-02-10</guid>
       <pubDate>Sun, 11 Feb 2024 08:43:27 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2024-02-17 - Parshas Terumah: Friends, Enemies, and Ultimate Justice</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19425408" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-17.mp3" length="19425408" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-02-17</guid>
       <pubDate>Sun, 18 Feb 2024 09:58:15 -0500</pubDate>
     </item>
@@ -139,15 +139,15 @@
       <title>2024-02-24 - Parshas Tetzaveh: Hiding the National Treasure</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="22003840" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-02-24.mp3" length="22003840" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-02-24</guid>
       <pubDate>Mon, 04 Mar 2024 22:11:29 -0500</pubDate>
     </item>
     <item>
-      <title>2024-03-02 - Ki Sisa: Should All Applicants be Accepted?</title>
+      <title>2024-03-02 - Ki Sisa: Should All Applicants be Accepted? </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-03-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="23642240" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-03-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-03-02.mp3" length="23642240" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-03-02</guid>
       <pubDate>Mon, 04 Mar 2024 22:14:10 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2024-03-09 - Parshas Vayakhel: Keeping Secrets; Mesiras Nefesh as an Antidote</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-03-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-03-09.mp3" type="audio/mpeg" length="18159744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5784/2024-03-09.mp3" length="18159744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5784/2024-03-09</guid>
       <pubDate>Sun, 10 Mar 2024 09:50:46 -0400</pubDate>
     </item>

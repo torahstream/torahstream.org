@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Parsha: Selected Insights, 5786 (Passaic)</title>
     <link>https://www.torahstream.org/#/topic/Parsha_Passaic_5786</link>
     <description>Parsha: Selected Insights, 5786 (Passaic)</description>
@@ -19,7 +19,7 @@
       <title>2025-11-01 - Parshas Lech Lecha. Compromise and Common Ground: Monumental Decisions Examined</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-01.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22853760" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-01.1.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-01.1.mp3" length="22853760" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-01.1</guid>
       <pubDate>Sun, 02 Nov 2025 09:40:09 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2025-11-01 - Parshas Vayera. Self Sacrifice and Added Pressure</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-01.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-01.2.mp3" type="audio/mpeg" length="10705024"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-01.2.mp3" length="10705024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-01.2</guid>
       <pubDate>Sun, 02 Nov 2025 09:53:22 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2025-11-08 - Parshas Vayera. Of donkeys, men, and clouds on the horizon</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-08.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-08.1.mp3" length="12642432"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-08.1.mp3" length="12642432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-08.1</guid>
       <pubDate>Sun, 09 Nov 2025 09:51:39 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2025-11-08 - Parshas Chayei Sarah. Wake, woke, and the allure of gashmiyus</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-08.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-08.2.mp3" type="audio/mpeg" length="21807232"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-08.2.mp3" length="21807232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-08.2</guid>
       <pubDate>Sun, 09 Nov 2025 09:56:54 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2025-11-15 - Parshas Chayei Sarah. Emotional Recovery, Balance, and Follow Through</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-15.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-15.1.mp3" length="19681280"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-15.1.mp3" length="19681280" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-15.1</guid>
       <pubDate>Sun, 16 Nov 2025 09:42:58 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2025-11-15 - Parshas Toldos. Living With Regret: 'I Should Have - I Could Have' Syndrome</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-15.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-15.2.mp3" length="14645376"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-15.2.mp3" length="14645376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-15.2</guid>
       <pubDate>Tue, 18 Nov 2025 20:48:58 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2025-11-22 - Parshas Toldos. Get a Life: Revenge, Extreme Living, and Misguided Priorities</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-22.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-22.1.mp3" type="audio/mpeg" length="16294016"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-22.1.mp3" length="16294016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-22.1</guid>
       <pubDate>Sun, 23 Nov 2025 08:37:56 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2025-11-22 - Parshas Vayeitzei. Feelings and Wanting to Feel: Taking Things to Heart</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-22.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-22.2.mp3" type="audio/mpeg" length="13920384"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-22.2.mp3" length="13920384" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-22.2</guid>
       <pubDate>Sun, 23 Nov 2025 08:41:35 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2025-11-29 - Parshas Veyetzei/Vayishlach. Asking for wealth</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-29.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="24230016" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-29.1.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-29.1.mp3" length="24230016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-29.1</guid>
       <pubDate>Sun, 30 Nov 2025 10:52:52 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2025-11-29 - Parshas Veyetzei/Vayishlach. Are they taking advantage of me?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-29.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-29.2.mp3" length="12986496"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-11-29.2.mp3" length="12986496" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-11-29.2</guid>
       <pubDate>Sun, 30 Nov 2025 08:38:52 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2025-12-06 - Parshas Vayishlach. 6-7 ??!</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-06.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-06.1.mp3" length="16830464"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-06.1.mp3" length="16830464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-12-06.1</guid>
       <pubDate>Sun, 07 Dec 2025 09:47:08 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2025-12-06 - Parshas Vayeishev. Self-doubts, decisions, and letting go</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-06.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-06.2.mp3" type="audio/mpeg" length="15274112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-06.2.mp3" length="15274112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-12-06.2</guid>
       <pubDate>Sun, 07 Dec 2025 09:51:59 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2025-12-13 - Parshas Vayeishev/Chanukah. Is It In The Stars? Hasty Decisions Under the Influence</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-13.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-13.1.mp3" type="audio/mpeg" length="15122560"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-13.1.mp3" length="15122560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-12-13.1</guid>
       <pubDate>Sun, 14 Dec 2025 09:43:15 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2025-12-13 - Parshas Vayeishev/Chanukah. Minimizing Success and Maximizing the Problem</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-13.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-13.2.mp3" type="audio/mpeg" length="14796928"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-13.2.mp3" length="14796928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-12-13.2</guid>
       <pubDate>Sun, 14 Dec 2025 09:45:18 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2025-12-27 - Parshas Vayigash. Deep Family Ties; Lessons From Spilled Milk</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-27.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-27.1.mp3" type="audio/mpeg" length="15317120"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-27.1.mp3" length="15317120" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-12-27.1</guid>
       <pubDate>Sun, 28 Dec 2025 08:41:29 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2025-12-27 - Parshas Vayechi. Making Friends, Understanding Destiny, and Looking Back at Roadblocks</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-27.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-27.2.mp3" length="20439168"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2025-12-27.2.mp3" length="20439168" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2025-12-27.2</guid>
       <pubDate>Sun, 28 Dec 2025 08:45:40 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2026-01-03 - Parshas Vayechi. No, you cannot always express your feelings</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-03.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16629888" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-03.1.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-03.1.mp3" length="16629888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-03.1</guid>
       <pubDate>Sun, 04 Jan 2026 08:42:11 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2026-01-03 - Parshas Shemos. Embracing your fate</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-03.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19885568" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-03.2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-03.2.mp3" length="19885568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-03.2</guid>
       <pubDate>Sun, 04 Jan 2026 08:45:37 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2026-01-10 - Parshas Shemos. Feeling Stuck? Why you should act now - even if more might be accomplished by waiting</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-10.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="23873664" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-10.1.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-10.1.mp3" length="23873664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-10.1</guid>
       <pubDate>Sun, 11 Jan 2026 08:45:10 -0500</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2026-01-10 - Parshas Vaera. Need Direction? It is often not the shortest route</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-10.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11405440" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-10.2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-10.2.mp3" length="11405440" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-10.2</guid>
       <pubDate>Sun, 11 Jan 2026 08:49:29 -0500</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2026-01-17 - Parshas Bo. Protecting Yourself: When Can You Just Follow Orders?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-17.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18401408" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-17.1.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-17.1.mp3" length="18401408" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-17.1</guid>
       <pubDate>Sun, 18 Jan 2026 08:47:02 -0500</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>2026-01-17 - Parshas Bo. When Will it End? - Making Room For the Bracha</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-17.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-17.2.mp3" type="audio/mpeg" length="17094784"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-17.2.mp3" length="17094784" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-17.2</guid>
       <pubDate>Sun, 18 Jan 2026 08:50:28 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2026-01-24 - Parshas Bo/Beshalach. Are you stuck? Is that always bad?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-24.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-24.1.mp3" length="25198720"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-24.1.mp3" length="25198720" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-24.1</guid>
       <pubDate>Sun, 25 Jan 2026 08:45:16 -0500</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2026-01-24 - Parshas Beshalach. Bad return policy: Retreat to familiar territory</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-24.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-24.2.mp3" type="audio/mpeg" length="10117248"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-24.2.mp3" length="10117248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-24.2</guid>
       <pubDate>Sun, 25 Jan 2026 08:50:04 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2026-01-31 - Parshas Beshalach. You can do no wrong: crippling illusions and convenient relationships</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-31.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-31.1.mp3" length="25235584"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-31.1.mp3" length="25235584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-31.1</guid>
       <pubDate>Tue, 03 Feb 2026 22:06:09 -0500</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2026-01-31 - Parshas Beshalach. Emotional decision making</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-31.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-31.2.mp3" length="12691584"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-01-31.2.mp3" length="12691584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-01-31.2</guid>
       <pubDate>Tue, 03 Feb 2026 22:13:05 -0500</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2026-02-07 - Parshas Yisro. Emotion and intellect: Balance is possible when one is in charge</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-07.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="26757248" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-07.1.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-07.1.mp3" length="26757248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-07.1</guid>
       <pubDate>Sun, 08 Feb 2026 09:46:23 -0500</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2026-02-07 - Parshas Mishpotim. Happiness formula: The 9 commandments?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-07.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-07.2.mp3" length="10868864"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-07.2.mp3" length="10868864" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-07.2</guid>
       <pubDate>Sun, 08 Feb 2026 09:54:10 -0500</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>2026-02-14 - Parshas Yisro/Mishpotim. Missing the greatest event in history</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-14.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-14.1.mp3" length="20729984"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-14.1.mp3" length="20729984" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-14.1</guid>
       <pubDate>Sun, 15 Feb 2026 09:46:38 -0500</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2026-02-14 - Parshas Yisro/Mishpotim. Wealth distribution: equality, honor, and balance</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-14.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13371520" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-14.2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-14.2.mp3" length="13371520" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-14.2</guid>
       <pubDate>Sun, 15 Feb 2026 09:50:52 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2026-02-21 - Purim: Are you procrastinating, or is it really not yet time?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-21.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-21.1.mp3" length="20801664"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-21.1.mp3" length="20801664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-21.1</guid>
       <pubDate>Sun, 22 Feb 2026 08:44:06 -0500</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2026-02-21 - Parshas Zachor: Mission accomplished, but not finished?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-21.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-21.2.mp3" type="audio/mpeg" length="18835584"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-21.2.mp3" length="18835584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-21.2</guid>
       <pubDate>Sun, 22 Feb 2026 10:14:19 -0500</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2026-02-28 - Parshas Zachor. Your enemies and friends: Real understanding and management</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-28.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-28.1.mp3" length="18436224"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-28.1.mp3" length="18436224" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-28.1</guid>
       <pubDate>Sun, 01 Mar 2026 09:48:32 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2026-02-28 - Parshas Zachor. Very real: Out of control AI agents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-28.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20021376" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-28.2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5786/2026-02-28.2.mp3" length="20021376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5786/2026-02-28.2</guid>
       <pubDate>Sun, 01 Mar 2026 09:52:13 -0500</pubDate>
     </item>

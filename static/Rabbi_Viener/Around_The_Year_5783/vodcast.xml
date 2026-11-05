@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5783/vodcast.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5783/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5783</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5783</link>
     <description>Around The Year 5783</description>
@@ -19,7 +19,7 @@
       <title>2022-10-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2022-10-15.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="137353676" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2022-10-15.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2022-10-15.m4v" length="137353676" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2022-10-15</guid>
       <pubDate>Wed, 19 Oct 2022 07:37:27 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2022-11-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2022-11-24.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="139198863" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2022-11-24.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2022-11-24.m4v" length="139198863" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2022-11-24</guid>
       <pubDate>Sun, 27 Nov 2022 13:52:47 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2023-01-02.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-01-02.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-01-02.2.m4v" type="video/x-m4v" length="78601147"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-01-02.2.m4v" length="78601147" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-01-02.2</guid>
       <pubDate>Thu, 05 Jan 2023 07:53:30 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2023-02-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-02-19.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="115671677" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-02-19.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-02-19.m4v" length="115671677" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-02-19</guid>
       <pubDate>Mon, 17 Jul 2023 07:57:53 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2023-03-27.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-03-27.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="62239224" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-03-27.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-03-27.2.m4v" length="62239224" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-03-27.2</guid>
       <pubDate>Tue, 28 Mar 2023 07:28:16 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2023-05-24.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-05-24.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-05-24.2.m4v" type="video/x-m4v" length="61575920"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-05-24.2.m4v" length="61575920" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-05-24.2</guid>
       <pubDate>Thu, 25 May 2023 07:36:51 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2023-07-27.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-07-27.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-07-27.2.m4v" type="video/x-m4v" length="88690928"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-07-27.2.m4v" length="88690928" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-07-27.2</guid>
       <pubDate>Sun, 06 Aug 2023 08:47:11 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2023-07-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-07-27.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-07-27.m4v" type="video/x-m4v" length="155614543"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-07-27.m4v" length="155614543" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-07-27</guid>
       <pubDate>Thu, 27 Jul 2023 20:35:25 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2023-09-04.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-09-04.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-09-04.2.m4v" type="video/x-m4v" length="103176075"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-09-04.2.m4v" length="103176075" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-09-04.2</guid>
       <pubDate>Mon, 04 Sep 2023 22:16:21 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2023-09-10.selichos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-09-10.selichos.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-09-10.selichos.m4v" type="video/x-m4v" length="42477164"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5783/2023-09-10.selichos.m4v" length="42477164" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5783/2023-09-10.selichos</guid>
       <pubDate>Sun, 10 Sep 2023 01:41:53 -0400</pubDate>
     </item>

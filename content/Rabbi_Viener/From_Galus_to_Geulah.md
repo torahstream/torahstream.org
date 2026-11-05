@@ -6,4 +6,8 @@ topic_id: "From_Galus_to_Geulah"
 count: 3
 has_video: false
 ongoing: false
+category: "bitachon"
+family: "From_Galus_to_Geulah"
+year: ""
+listing_title: ""
 ---

@@ -1,0 +1,55 @@
+{
+ "categories": [
+  {
+   "id": "shovavim",
+   "name": "Shovavim",
+   "note": "for married couples only"
+  },
+  {
+   "id": "family",
+   "name": "Family/Marriage/Shidduchim/Teens"
+  },
+  {
+   "id": "contemporary",
+   "name": "Contemporary H & H"
+  },
+  {
+   "id": "navi",
+   "name": "Navi"
+  },
+  {
+   "id": "around-the-year",
+   "name": "Around the Year"
+  },
+  {
+   "id": "chumash-parsha",
+   "name": "Chumash/Parsha"
+  },
+  {
+   "id": "talmud-sugyos",
+   "name": "Talmud Sugyos"
+  },
+  {
+   "id": "bitachon",
+   "name": "Bitachon/Hashkofa"
+  },
+  {
+   "id": "other",
+   "name": "Other / Misc"
+  }
+ ],
+ "family_names": {
+  "Around_The_Year": "Around The Year",
+  "Contemporary_Halacha_And_Hashkafa": "Contemporary Halacha and Hashkofa",
+  "Contemporary_Kashrus_Topics": "Contemporary Kashrus Topics",
+  "Hilchos_Shabbos": "Hilchos Shabbos",
+  "Kesubos": "Kesubos",
+  "Kibbud": "Kibbud Av V'Eim",
+  "Navi_Monsey": "Navi Monsey",
+  "Navi_Passaic": "Navi Passaic",
+  "Parsha_Passaic": "Parsha Passaic",
+  "Sanhedrin": "Sanhedrin",
+  "Shovavim_Monsey": "Shovavim Monsey",
+  "Special_Contemporary_Topics": "Special Contemporary Topics"
+ }
+}

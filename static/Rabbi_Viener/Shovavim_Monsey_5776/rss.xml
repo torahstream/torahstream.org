@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5776 (for married couples only)</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5776</link>
     <description>Shovavim, 5776 (for married couples only)</description>
@@ -27,7 +27,7 @@
       <title>2016-01-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19415031" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-24.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5776/2016-01-24.mp3" length="19415031" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5776/2016-01-24</guid>
       <pubDate>Sun, 24 Jan 2016 09:38:29 -0500</pubDate>
     </item>

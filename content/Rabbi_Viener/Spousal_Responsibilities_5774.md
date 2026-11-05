@@ -6,4 +6,8 @@ topic_id: "Spousal_Responsibilities_5774"
 count: 1
 has_video: true
 ongoing: false
+category: "shovavim"
+family: "Spousal_Responsibilities"
+year: "5774"
+listing_title: ""
 ---

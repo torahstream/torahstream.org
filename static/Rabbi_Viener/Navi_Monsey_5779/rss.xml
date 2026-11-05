@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Monsey 5779</title>
     <link>https://www.torahstream.org/#/topic/Navi_Monsey_5779</link>
     <description>Navi Monsey 5779</description>
@@ -19,7 +19,7 @@
       <title>2018-09-16 - Damage control</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-09-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-09-16.mp3" type="audio/mpeg" length="13307443"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-09-16.mp3" length="13307443" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-09-16</guid>
       <pubDate>Sun, 16 Sep 2018 09:21:59 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2018-10-07 - Misconceptions of a failed experiment?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19138809" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-07.mp3" length="19138809" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-10-07</guid>
       <pubDate>Sun, 07 Oct 2018 09:36:04 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2018-10-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-14.mp3" type="audio/mpeg" length="19354058"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-14.mp3" length="19354058" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-10-14</guid>
       <pubDate>Sun, 14 Oct 2018 09:37:15 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2018-10-21 - The missing yetzer harah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-21.mp3" length="19000464"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-21.mp3" length="19000464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-10-21</guid>
       <pubDate>Sun, 21 Oct 2018 09:34:36 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2018-10-28 - Acts of frustration and destruction</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-28.mp3" length="18904333"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-10-28.mp3" length="18904333" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-10-28</guid>
       <pubDate>Sun, 28 Oct 2018 09:33:54 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2018-11-04 - Can damage be undone?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18952320" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-04.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-04.mp3" length="18952320" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-11-04</guid>
       <pubDate>Sun, 04 Nov 2018 10:20:42 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2018-11-11 - Searching for the truth in murky surroundings</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-11.mp3" type="audio/mpeg" length="19120628"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-11.mp3" length="19120628" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-11-11</guid>
       <pubDate>Sun, 11 Nov 2018 09:34:05 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2018-11-18 - The hidden Luchos: Why? Where?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13835534" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-18.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-18.mp3" length="13835534" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-11-18</guid>
       <pubDate>Sun, 18 Nov 2018 09:21:45 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2018-11-25 - When do you become of age?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20532703" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-25.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-11-25.mp3" length="20532703" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-11-25</guid>
       <pubDate>Sun, 25 Nov 2018 09:35:33 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2018-12-02 - Wikileaks and decisions from the top</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-02.mp3" type="audio/mpeg" length="19178725"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-02.mp3" length="19178725" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-12-02</guid>
       <pubDate>Sun, 02 Dec 2018 09:34:40 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2018-12-16 - Why were the luchos hidden? Lessons of the Mann</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-16.mp3" type="audio/mpeg" length="18377079"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-16.mp3" length="18377079" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-12-16</guid>
       <pubDate>Sun, 16 Dec 2018 09:36:45 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2018-12-23 - Listening to the right authority</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19107463" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-23.mp3" length="19107463" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-12-23</guid>
       <pubDate>Sun, 23 Dec 2018 09:35:12 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2018-12-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-30.mp3" type="audio/mpeg" length="18299392"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2018-12-30.mp3" length="18299392" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2018-12-30</guid>
       <pubDate>Sun, 30 Dec 2018 10:23:40 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2019-01-06 - Why didn't you come earlier?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-01-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19051874" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-01-06.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-01-06.mp3" length="19051874" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-01-06</guid>
       <pubDate>Sun, 06 Jan 2019 09:36:32 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2019-02-10 - Not giving up - even after the gezeira</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-10.mp3" type="audio/mpeg" length="18583969"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-10.mp3" length="18583969" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-02-10</guid>
       <pubDate>Sun, 10 Feb 2019 09:36:04 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2019-02-17 - Penalties and punishments: drawing in while setting parameters</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19190428" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-17.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-17.mp3" length="19190428" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-02-17</guid>
       <pubDate>Sun, 17 Feb 2019 09:36:09 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2019-02-24 - Search and destroy mission</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19777664" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-24.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-02-24.mp3" length="19777664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-02-24</guid>
       <pubDate>Sun, 24 Feb 2019 10:25:32 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2019-03-03 - Incredible dividends from yesterday's battle</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-03.mp3" type="audio/mpeg" length="18572893"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-03.mp3" length="18572893" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-03-03</guid>
       <pubDate>Sun, 03 Mar 2019 09:34:50 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2019-03-10 - One ruler: one people</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-10.mp3" type="audio/mpeg" length="17070539"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-10.mp3" length="17070539" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-03-10</guid>
       <pubDate>Sun, 10 Mar 2019 09:36:52 -0400</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2019-03-17 - Kiruv: imperatives and dangers</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-17.mp3" length="20158839"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-17.mp3" length="20158839" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-03-17</guid>
       <pubDate>Sun, 17 Mar 2019 09:39:57 -0400</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2019-03-24 - Well-meaning decision making</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-24.mp3" type="audio/mpeg" length="20107430"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-24.mp3" length="20107430" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-03-24</guid>
       <pubDate>Sun, 24 Mar 2019 09:38:33 -0400</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>2019-03-31 - What to do when you feel 100% right?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19043307" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-31.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-03-31.mp3" length="19043307" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-03-31</guid>
       <pubDate>Sun, 31 Mar 2019 09:36:55 -0400</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2019-04-07 - Searching for clarity - finding the truth</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-04-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-04-07.mp3" type="audio/mpeg" length="20161139"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-04-07.mp3" length="20161139" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-04-07</guid>
       <pubDate>Sun, 07 Apr 2019 09:38:59 -0400</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2019-05-05 - Decision making: searching deep inside yourself for the Emes</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14013586" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-05.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-05.mp3" length="14013586" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-05-05</guid>
       <pubDate>Sun, 05 May 2019 09:35:50 -0400</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2019-05-12 - Fixing past mistakes while dealing with current decisions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19541514" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-12.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-12.mp3" length="19541514" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-05-12</guid>
       <pubDate>Sun, 12 May 2019 09:36:17 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2019-05-19 - How trusting should we be?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-19.mp3" type="audio/mpeg" length="18873824"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-19.mp3" length="18873824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-05-19</guid>
       <pubDate>Sun, 19 May 2019 09:38:45 -0400</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2019-05-26 - Rabbits, rodeos, and reinforcing bad middos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-26.mp3" length="18540920"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-05-26.mp3" length="18540920" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-05-26</guid>
       <pubDate>Sun, 26 May 2019 09:36:48 -0400</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2019-06-02 - Rebellion, surrender, and false pride</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19988940" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-02.mp3" length="19988940" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-06-02</guid>
       <pubDate>Sun, 02 Jun 2019 09:37:34 -0400</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>2019-06-16 - Handing back the keys</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19193354" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-16.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-16.mp3" length="19193354" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-06-16</guid>
       <pubDate>Sun, 16 Jun 2019 09:35:46 -0400</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2019-06-23 - A closing window of bechira</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19434517" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-23.mp3" length="19434517" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-06-23</guid>
       <pubDate>Sun, 23 Jun 2019 09:36:17 -0400</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2019-06-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-30.mp3" length="20786824"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-06-30.mp3" length="20786824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-06-30</guid>
       <pubDate>Sun, 30 Jun 2019 09:38:35 -0400</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2019-07-07 - The truth hurts</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-07.mp3" length="21663872"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-07.mp3" length="21663872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-07-07</guid>
       <pubDate>Sun, 07 Jul 2019 09:23:58 -0400</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2019-07-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-14.mp3" length="19925619"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-14.mp3" length="19925619" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-07-14</guid>
       <pubDate>Sun, 14 Jul 2019 09:37:49 -0400</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2019-07-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-28.mp3" length="21756906"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-07-28.mp3" length="21756906" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-07-28</guid>
       <pubDate>Sun, 28 Jul 2019 09:41:17 -0400</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2019-08-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-08-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21761294" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-08-04.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-08-04.mp3" length="21761294" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-08-04</guid>
       <pubDate>Sun, 04 Aug 2019 09:39:37 -0400</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2019-09-08 - Freedom or death?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-09-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20479205" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-09-08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-09-08.mp3" length="20479205" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-09-08</guid>
       <pubDate>Sun, 08 Sep 2019 09:37:03 -0400</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2019-09-15 - Finale of sefer Melachim: Lasting hope and ability to change</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-09-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21204782" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-09-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5779/2019-09-15.mp3" length="21204782" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5779/2019-09-15</guid>
       <pubDate>Sun, 15 Sep 2019 09:39:42 -0400</pubDate>
     </item>

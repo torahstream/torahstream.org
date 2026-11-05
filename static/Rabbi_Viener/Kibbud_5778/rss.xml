@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Kibbud_5778/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Kibbud_5778/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Kibbud Av V'Eim: timely questions, timeless applications, 5778</title>
     <link>https://www.torahstream.org/#/topic/Kibbud_5778</link>
     <description>Kibbud Av V'Eim: timely questions, timeless applications, 5778</description>
@@ -19,7 +19,7 @@
       <title>2017-09-04 - The Amish vs Colonial Village</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-04.mp3" length="13138379"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-04.mp3" length="13138379" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-09-04</guid>
       <pubDate>Mon, 04 Sep 2017 22:03:23 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2017-09-05 - When your parents want you to stay home for Shabbos; Mechutonim and Ex-Mechutonim who don't get along: how to organize the simcha?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11534637" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-05.mp3" length="11534637" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-09-05</guid>
       <pubDate>Tue, 05 Sep 2017 21:46:49 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2017-09-11 - What can we ask our children to do?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11965585" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-11.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-11.mp3" length="11965585" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-09-11</guid>
       <pubDate>Mon, 11 Sep 2017 21:46:13 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2017-09-13 - Parenting: when should we look the other way?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-13.mp3" length="12901605"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-13.mp3" length="12901605" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-09-13</guid>
       <pubDate>Wed, 13 Sep 2017 21:45:50 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2017-09-27 - Keeping chumros in your parents' house</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13267110" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-27.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-09-27.mp3" length="13267110" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-09-27</guid>
       <pubDate>Wed, 27 Sep 2017 21:47:20 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2017-10-23 - When parents aren't perfect: the obligations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-23.mp3" length="11849391"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-23.mp3" length="11849391" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-10-23</guid>
       <pubDate>Mon, 23 Oct 2017 21:48:54 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2017-10-25 - Honor, abuse and objectivity</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12441190" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-25.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-25.mp3" length="12441190" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-10-25</guid>
       <pubDate>Wed, 25 Oct 2017 21:49:17 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2017-10-30 - Continuing the family battle: is it ever ok?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12413009" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-30.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-30.mp3" length="12413009" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-10-30</guid>
       <pubDate>Mon, 30 Oct 2017 21:57:43 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2017-10-31 - Monuments for parents, tattoos and pinata</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12326074" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-31.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-10-31.mp3" length="12326074" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-10-31</guid>
       <pubDate>Tue, 31 Oct 2017 21:47:01 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2017-11-01 - In-laws</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-01.mp3" length="12013696"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-01.mp3" length="12013696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-01</guid>
       <pubDate>Wed, 01 Nov 2017 21:43:04 -0400</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2017-11-06 - Permanent makeup; children/grandchildren</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11757859" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-06.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-06.mp3" length="11757859" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-06</guid>
       <pubDate>Mon, 06 Nov 2017 21:46:37 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2017-11-07 - Davening and the World Series; Zaidy and Bubby part 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12533888" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-07.mp3" length="12533888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-07</guid>
       <pubDate>Tue, 07 Nov 2017 21:47:26 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2017-11-08 - Grandparents: maternal/paternal</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12668174" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-08.mp3" length="12668174" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-08</guid>
       <pubDate>Wed, 08 Nov 2017 21:48:44 -0500</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2017-11-13 - Consequences of being away from home; History without propaganda</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13002301" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-13.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-13.mp3" length="13002301" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-13</guid>
       <pubDate>Mon, 13 Nov 2017 21:48:43 -0500</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2017-11-14 - Protecting children; Jewish pride</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12963968" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-14.mp3" length="12963968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-14</guid>
       <pubDate>Tue, 14 Nov 2017 21:47:58 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2017-11-20 - Sibling rivalry</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11566434" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-20.mp3" length="11566434" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-20</guid>
       <pubDate>Mon, 20 Nov 2017 21:47:13 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2017-11-22 - Step-parents; Twins</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12177536" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-22.mp3" length="12177536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-22</guid>
       <pubDate>Wed, 22 Nov 2017 22:42:20 -0500</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2017-11-27 - Stealing to prevent aveiros; Jewish pride - at what cost? part 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-27.mp3" length="12183519"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-27.mp3" length="12183519" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-27</guid>
       <pubDate>Mon, 27 Nov 2017 21:48:17 -0500</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2017-11-28 - Jewish pride, partisans and Hiroshima</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12402320" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-28.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-11-28.mp3" length="12402320" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-11-28</guid>
       <pubDate>Tue, 28 Nov 2017 21:47:42 -0500</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>2017-12-04 - Toys for tots; Respecting the privacy of parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-04.mp3" length="11811955"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-04.mp3" length="11811955" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-04</guid>
       <pubDate>Mon, 04 Dec 2017 21:47:03 -0500</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2017-12-05 - Paintball, football, hockey, basketball and volleyball with your father</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-05.mp3" length="11353277"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-05.mp3" length="11353277" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-05</guid>
       <pubDate>Tue, 05 Dec 2017 21:48:13 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2017-12-06 - Is it a mitzvah to treat parents?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12823866" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-06.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-06.mp3" length="12823866" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-06</guid>
       <pubDate>Wed, 06 Dec 2017 21:47:50 -0500</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2017-12-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12457282" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-11.mp3" length="12457282" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-11</guid>
       <pubDate>Mon, 11 Dec 2017 21:47:02 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2017-12-20 - A shot in the arm</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12551741" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-20.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-20.mp3" length="12551741" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-20</guid>
       <pubDate>Wed, 20 Dec 2017 21:47:52 -0500</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2017-12-25 - I know what you know and also what you don't yet know</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13252031" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-25.mp3" length="13252031" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-25</guid>
       <pubDate>Mon, 25 Dec 2017 21:50:34 -0500</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2017-12-26 - Mummies and kibbud</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12003169" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-26.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-26.mp3" length="12003169" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-26</guid>
       <pubDate>Tue, 26 Dec 2017 21:47:39 -0500</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2017-12-27 - A shot in the arm, part 2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-27.mp3" length="12820071"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2017-12-27.mp3" length="12820071" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2017-12-27</guid>
       <pubDate>Wed, 27 Dec 2017 21:47:21 -0500</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2018-01-01 - Am I asking my parents for too much help?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-01.mp3" length="11846017"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-01.mp3" length="11846017" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-01</guid>
       <pubDate>Mon, 01 Jan 2018 21:48:09 -0500</pubDate>
     </item>
@@ -323,7 +323,7 @@
       <title>2018-01-02 - California's new law and Kibbud Av V'Eim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12414473" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-02.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-02.mp3" length="12414473" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-02</guid>
       <pubDate>Tue, 02 Jan 2018 21:46:40 -0500</pubDate>
     </item>
@@ -331,7 +331,7 @@
       <title>2018-01-03 - Reaction to criticism from parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13454356" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-03.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-03.mp3" length="13454356" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-03</guid>
       <pubDate>Wed, 03 Jan 2018 21:49:14 -0500</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2018-01-08 - Swallowing pride for kibbud: guarded reactions for volatile situations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12462330" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-08.mp3" length="12462330" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-08</guid>
       <pubDate>Mon, 08 Jan 2018 21:49:17 -0500</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2018-01-09 - Humility, Siyata Di'Shmaya and nuclear button</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12365990" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-09.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-09.mp3" length="12365990" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-09</guid>
       <pubDate>Tue, 09 Jan 2018 21:47:56 -0500</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2018-01-15 - Calculated risks for kibbud</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13402498" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-15.mp3" length="13402498" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-15</guid>
       <pubDate>Mon, 15 Jan 2018 21:47:30 -0500</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2018-01-16 - Money or morals</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-16.mp3" length="12626348"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-16.mp3" length="12626348" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-16</guid>
       <pubDate>Tue, 16 Jan 2018 21:47:37 -0500</pubDate>
     </item>
@@ -379,7 +379,7 @@
       <title>2018-01-17 - Why are people living longer; Showing off your kibbud.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11842079" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-17.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-17.mp3" length="11842079" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-17</guid>
       <pubDate>Wed, 17 Jan 2018 21:46:58 -0500</pubDate>
     </item>
@@ -387,7 +387,7 @@
       <title>2018-01-22 - Waking up your father for minyan, Kriyas Shema and business opportunities</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-22.mp3" length="12643066"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-22.mp3" length="12643066" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-22</guid>
       <pubDate>Mon, 22 Jan 2018 21:47:26 -0500</pubDate>
     </item>
@@ -403,7 +403,7 @@
       <title>2018-01-24 - Lost business opportunity in Kibbud and Chol HaMoed</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13071088" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-24.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-24.mp3" length="13071088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-24</guid>
       <pubDate>Wed, 24 Jan 2018 21:47:58 -0500</pubDate>
     </item>
@@ -411,7 +411,7 @@
       <title>2018-01-29 - Support of parents: methods and parameters</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12069448" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-29.mp3" length="12069448" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-29</guid>
       <pubDate>Mon, 29 Jan 2018 21:46:32 -0500</pubDate>
     </item>
@@ -419,7 +419,7 @@
       <title>2018-01-30 - Smiling for the camera: when your reaction to adversity is on video</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13125808" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-30.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-30.mp3" length="13125808" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-30</guid>
       <pubDate>Tue, 30 Jan 2018 21:48:35 -0500</pubDate>
     </item>
@@ -427,7 +427,7 @@
       <title>2018-01-31 - Rejection, adoption and the Chok of Kibbud</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12852045" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-31.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-01-31.mp3" length="12852045" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-01-31</guid>
       <pubDate>Wed, 31 Jan 2018 21:48:13 -0500</pubDate>
     </item>
@@ -451,7 +451,7 @@
       <title>2018-02-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11568910" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-07.mp3" length="11568910" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-02-07</guid>
       <pubDate>Wed, 07 Feb 2018 21:50:10 -0500</pubDate>
     </item>
@@ -459,7 +459,7 @@
       <title>2018-02-12 - Intrusive behavior, anger issues and boundaries</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-12.mp3" length="12675248"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-12.mp3" length="12675248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-02-12</guid>
       <pubDate>Mon, 12 Feb 2018 21:48:06 -0500</pubDate>
     </item>
@@ -467,7 +467,7 @@
       <title>2018-02-13 - Your older brother who is really younger</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12200478" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-13.mp3" length="12200478" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-02-13</guid>
       <pubDate>Tue, 13 Feb 2018 21:47:01 -0500</pubDate>
     </item>
@@ -475,7 +475,7 @@
       <title>2018-02-14 - Monetary issues: causing indirect aggravation</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11874438" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-14.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-14.mp3" length="11874438" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-02-14</guid>
       <pubDate>Wed, 14 Feb 2018 21:48:21 -0500</pubDate>
     </item>
@@ -491,7 +491,7 @@
       <title>2018-02-20 - Creating tension between parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-20.mp3" length="10654624"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-02-20.mp3" length="10654624" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-02-20</guid>
       <pubDate>Tue, 20 Feb 2018 21:47:04 -0500</pubDate>
     </item>
@@ -507,7 +507,7 @@
       <title>2018-03-05 - Permission to leave the proximity of your parents?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12032878" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-05.mp3" length="12032878" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-03-05</guid>
       <pubDate>Mon, 05 Mar 2018 21:47:00 -0500</pubDate>
     </item>
@@ -515,7 +515,7 @@
       <title>2018-03-06 - Taking 'heat' for parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12185610" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-06.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-06.mp3" length="12185610" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-03-06</guid>
       <pubDate>Tue, 06 Mar 2018 21:48:30 -0500</pubDate>
     </item>
@@ -531,7 +531,7 @@
       <title>2018-03-12 - Protecting parents from harm</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12571418" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-12.mp3" length="12571418" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-03-12</guid>
       <pubDate>Mon, 12 Mar 2018 21:49:46 -0400</pubDate>
     </item>
@@ -539,7 +539,7 @@
       <title>2018-03-13 - Selling/buying mitzvos and aveiros</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13563653" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-13.mp3" length="13563653" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-03-13</guid>
       <pubDate>Tue, 13 Mar 2018 21:49:19 -0400</pubDate>
     </item>
@@ -547,7 +547,7 @@
       <title>2018-03-14 - Selling nightmares; A Din Torah in Shomayim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14376970" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-03-14.mp3" length="14376970" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-03-14</guid>
       <pubDate>Wed, 14 Mar 2018 21:51:00 -0400</pubDate>
     </item>
@@ -563,7 +563,7 @@
       <title>2018-04-17 - Feuding parents: what to do when you are stuck in the crossfire?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12894082" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-17.mp3" length="12894082" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-04-17</guid>
       <pubDate>Tue, 17 Apr 2018 21:47:34 -0400</pubDate>
     </item>
@@ -579,7 +579,7 @@
       <title>2018-04-23 - Emotional trauma: how much stress is obligatory?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12997109" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-23.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-23.mp3" length="12997109" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-04-23</guid>
       <pubDate>Mon, 23 Apr 2018 21:48:22 -0400</pubDate>
     </item>
@@ -587,7 +587,7 @@
       <title>2018-04-24 - Step parent and step child issues; Sky-rocketing healthcare costs</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13000871" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-24.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-24.mp3" length="13000871" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-04-24</guid>
       <pubDate>Tue, 24 Apr 2018 21:48:12 -0400</pubDate>
     </item>
@@ -595,7 +595,7 @@
       <title>2018-04-25 - Support from children: which ones? how much?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-25.mp3" length="12951311"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-04-25.mp3" length="12951311" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-04-25</guid>
       <pubDate>Wed, 25 Apr 2018 21:49:08 -0400</pubDate>
     </item>
@@ -611,7 +611,7 @@
       <title>2018-05-01 - Assumed gifts for relatives; Doggie bags</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-01.mp3" length="12292430"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-01.mp3" length="12292430" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-01</guid>
       <pubDate>Tue, 01 May 2018 21:48:05 -0400</pubDate>
     </item>
@@ -619,7 +619,7 @@
       <title>2018-05-02 - Motives of the government; Spending money on Mitzvos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-02.mp3" length="12196477"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-02.mp3" length="12196477" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-02</guid>
       <pubDate>Wed, 02 May 2018 21:46:43 -0400</pubDate>
     </item>
@@ -635,7 +635,7 @@
       <title>2018-05-08 - A verdict without the litigants; Swearing in Beis Din</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12520218" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-08.mp3" length="12520218" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-08</guid>
       <pubDate>Tue, 08 May 2018 21:49:39 -0400</pubDate>
     </item>
@@ -643,7 +643,7 @@
       <title>2018-05-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-09.mp3" length="13392499"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-09.mp3" length="13392499" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-09</guid>
       <pubDate>Wed, 09 May 2018 21:49:30 -0400</pubDate>
     </item>
@@ -651,7 +651,7 @@
       <title>2018-05-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11197586" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-14.mp3" length="11197586" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-14</guid>
       <pubDate>Mon, 14 May 2018 21:47:29 -0400</pubDate>
     </item>
@@ -667,7 +667,7 @@
       <title>2018-05-16 - Is discomfort ever an excuse in Avodas HaShem</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12133397" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-16.mp3" length="12133397" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-16</guid>
       <pubDate>Wed, 16 May 2018 21:48:53 -0400</pubDate>
     </item>
@@ -683,7 +683,7 @@
       <title>2018-05-23 - At home vs nursing home: decisions and payments</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-23.mp3" length="12738688"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-23.mp3" length="12738688" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-23</guid>
       <pubDate>Wed, 23 May 2018 21:39:34 -0400</pubDate>
     </item>
@@ -691,7 +691,7 @@
       <title>2018-05-28 - Nursing home and other care facilities: who pays the bills?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13030546" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-28.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-28.mp3" length="13030546" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-28</guid>
       <pubDate>Mon, 28 May 2018 21:48:25 -0400</pubDate>
     </item>
@@ -699,7 +699,7 @@
       <title>2018-05-29 - Small change: phone bills, postage stamps and travel expenses</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-29.mp3" length="11787326"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-05-29.mp3" length="11787326" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-05-29</guid>
       <pubDate>Tue, 29 May 2018 21:46:55 -0400</pubDate>
     </item>
@@ -715,7 +715,7 @@
       <title>2018-06-04 - Redemption and the status quo</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-04.mp3" length="12758872"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-04.mp3" length="12758872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-04</guid>
       <pubDate>Mon, 04 Jun 2018 21:50:56 -0400</pubDate>
     </item>
@@ -723,7 +723,7 @@
       <title>2018-06-05 - The best parents on Earth</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12198806" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-05.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-05.mp3" length="12198806" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-05</guid>
       <pubDate>Tue, 05 Jun 2018 21:49:32 -0400</pubDate>
     </item>
@@ -731,7 +731,7 @@
       <title>2018-06-06 - What wouldn't you do for the person who saved your life?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12485317" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-06.mp3" length="12485317" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-06</guid>
       <pubDate>Wed, 06 Jun 2018 21:47:32 -0400</pubDate>
     </item>
@@ -739,7 +739,7 @@
       <title>2018-06-11 - Lifesavers: What have they done for me lately?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11288704" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-11.mp3" length="11288704" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-11</guid>
       <pubDate>Mon, 11 Jun 2018 21:38:22 -0400</pubDate>
     </item>
@@ -747,7 +747,7 @@
       <title>2018-06-12 - The value of life: fighting the liberal establishment</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12171012" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-12.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-12.mp3" length="12171012" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-12</guid>
       <pubDate>Tue, 12 Jun 2018 21:47:23 -0400</pubDate>
     </item>
@@ -755,7 +755,7 @@
       <title>2018-06-13 - Kibbud that is not recognized by the recipient</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-13.mp3" length="11974784"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-13.mp3" length="11974784" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-13</guid>
       <pubDate>Wed, 13 Jun 2018 21:38:54 -0400</pubDate>
     </item>
@@ -771,7 +771,7 @@
       <title>2018-06-19 - Saving from embarrassment at the cost of Kibbud?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="10994457" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-19.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-19.mp3" length="10994457" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-19</guid>
       <pubDate>Tue, 19 Jun 2018 21:46:34 -0400</pubDate>
     </item>
@@ -779,7 +779,7 @@
       <title>2018-06-20 - Names of parents: business and family settings</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11970392" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-20.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-20.mp3" length="11970392" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-20</guid>
       <pubDate>Wed, 20 Jun 2018 21:48:21 -0400</pubDate>
     </item>
@@ -795,7 +795,7 @@
       <title>2018-06-26 - What to do when a son is the rabbi of his father?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-26.mp3" length="12407368"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-26.mp3" length="12407368" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-26</guid>
       <pubDate>Tue, 26 Jun 2018 21:51:11 -0400</pubDate>
     </item>
@@ -803,7 +803,7 @@
       <title>2018-06-27 - Kibbud Av finale: putting yourself in their shoes</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12314163" url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kibbud_5778/2018-06-27.mp3" length="12314163" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kibbud 5778/2018-06-27</guid>
       <pubDate>Wed, 27 Jun 2018 21:46:43 -0400</pubDate>
     </item>

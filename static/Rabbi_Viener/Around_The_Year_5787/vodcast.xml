@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5787/vodcast.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5787/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5787</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5787</link>
     <description>Around The Year 5787</description>
@@ -19,7 +19,7 @@
       <title>2026-10-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5787/2026-10-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5787/2026-10-01.m4v" type="video/x-m4v" length="101951690"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5787/2026-10-01.m4v" length="101951690" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5787/2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 22:11:41 -0400</pubDate>
     </item>

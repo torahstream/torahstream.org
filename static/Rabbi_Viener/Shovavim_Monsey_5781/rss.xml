@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5781 (Inyanei Kedusha)</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5781</link>
     <description>Shovavim, 5781 (Inyanei Kedusha)</description>
@@ -19,7 +19,7 @@
       <title>2021-01-17 - Navigating with shemirah: social networking, lakeside and the FDR drive</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-17.mp3" length="19034112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-17.mp3" length="19034112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-01-17</guid>
       <pubDate>Sun, 17 Jan 2021 09:43:42 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2021-01-24 - Mitigating risks, controlling thoughts: What pops into your head vs. what stays there</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19658880" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-24.mp3" length="19658880" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-01-24</guid>
       <pubDate>Sun, 24 Jan 2021 09:41:21 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2021-01-31 - Controlling thoughts: Do the first 3 seconds count?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-31.mp3" type="audio/mpeg" length="20738176"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-01-31.mp3" length="20738176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-01-31</guid>
       <pubDate>Wed, 03 Feb 2021 21:39:24 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2021-02-07 - Spacing out: risk of dangerous toxins; proven antidotes</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-02-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-02-07.mp3" type="audio/mpeg" length="20125824"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5781/2021-02-07.mp3" length="20125824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5781/2021-02-07</guid>
       <pubDate>Sun, 07 Feb 2021 09:43:49 -0500</pubDate>
     </item>

@@ -6,4 +6,8 @@ topic_id: "Monetary_Issues_in_Marriage"
 count: 2
 has_video: false
 ongoing: false
+category: "family"
+family: "Monetary_Issues_in_Marriage"
+year: ""
+listing_title: ""
 ---

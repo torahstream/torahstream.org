@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Special Contemporary Topics 5777</title>
     <link>https://www.torahstream.org/#/topic/Special_Contemporary_Topics_5777</link>
     <description>Special Contemporary Topics 5777</description>
@@ -19,7 +19,7 @@
       <title>2016-10-22 How much money should one spend on mitzvos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-10-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21172352" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-10-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-10-22.mp3" length="21172352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2016-10-22</guid>
       <pubDate>Sat, 22 Oct 2016 21:43:15 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2016-12-01 Sensitive and practical Kibbud Av V'Eim issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-12-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-12-01.mp3" length="28362880"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-12-01.mp3" length="28362880" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2016-12-01</guid>
       <pubDate>Sun, 04 Dec 2016 08:37:51 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2017-05-21 A view from mid-America: How similar are we to the Yankees?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="34361472" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.1.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.1.mp3" length="34361472" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2017-05-21.1</guid>
       <pubDate>Wed, 24 May 2017 22:06:03 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2017-05-21 Are we fooling ourselves realizing our potential?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17752192" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.2.mp3" length="17752192" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2017-05-21.2</guid>
       <pubDate>Fri, 26 May 2017 08:56:57 -0400</pubDate>
     </item>

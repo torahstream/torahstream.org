@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5778/vodcast.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5778/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5778</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5778</link>
     <description>Around The Year 5778</description>
@@ -19,7 +19,7 @@
       <title>2017-09-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-09-17.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="30493441" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-09-17.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-09-17.m4v" length="30493441" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-09-17</guid>
       <pubDate>Sun, 17 Sep 2017 01:26:07 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2017-11-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-26.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="50812233" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-26.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-26.m4v" length="50812233" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-11-26</guid>
       <pubDate>Mon, 27 Nov 2017 23:05:31 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2017-12-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-12.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-12.m4v" type="video/x-m4v" length="29532710"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-12.m4v" length="29532710" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-12-12</guid>
       <pubDate>Tue, 12 Dec 2017 21:47:39 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2017-12-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-13.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="160258352" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-13.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-13.m4v" length="160258352" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-12-13</guid>
       <pubDate>Sun, 17 Dec 2017 09:03:07 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2017-12-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-23.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="83316021" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-23.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-23.m4v" length="83316021" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-12-23</guid>
       <pubDate>Sat, 23 Dec 2017 21:07:14 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2018-09-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-02.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-02.m4v" length="35545147"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-02.m4v" length="35545147" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-09-02</guid>
       <pubDate>Sun, 02 Sep 2018 00:49:24 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2018-09-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="59017764" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-03.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-03.m4v" length="59017764" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-09-03</guid>
       <pubDate>Mon, 03 Sep 2018 21:10:18 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2018-09-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="63075743" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-04.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-04.m4v" length="63075743" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-09-04</guid>
       <pubDate>Tue, 04 Sep 2018 21:11:00 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2018-09-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-05.m4v" type="video/x-m4v" length="61781065"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-05.m4v" length="61781065" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-09-05</guid>
       <pubDate>Wed, 05 Sep 2018 21:26:16 -0400</pubDate>
     </item>

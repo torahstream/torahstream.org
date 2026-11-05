@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5774/vodcast.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5774/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5774</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5774</link>
     <description>Around The Year 5774</description>
@@ -27,7 +27,7 @@
       <title>2013-09-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-09-08.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-09-08.m4v" length="52910193"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-09-08.m4v" length="52910193" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5774/2013-09-08</guid>
       <pubDate>Sun, 08 Sep 2013 09:22:26 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2013-12-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-12-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="48942756" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-12-25.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-12-25.m4v" length="48942756" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5774/2013-12-25</guid>
       <pubDate>Wed, 25 Dec 2013 21:54:08 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2013-12-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-12-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="49036889" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-12-30.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5774/2013-12-30.m4v" length="49036889" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5774/2013-12-30</guid>
       <pubDate>Mon, 30 Dec 2013 21:56:35 -0500</pubDate>
     </item>

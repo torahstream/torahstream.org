@@ -6,4 +6,8 @@ topic_id: "Sanhedrin_5771"
 count: 20
 has_video: true
 ongoing: false
+category: "talmud-sugyos"
+family: "Sanhedrin"
+year: "5771"
+listing_title: ""
 ---

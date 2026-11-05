@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Contemporary Halacha and Hashkofa, 5785</title>
     <link>https://www.torahstream.org/#/topic/Contemporary_Halacha_And_Hashkafa_5785</link>
     <description>Contemporary Halacha and Hashkofa, 5785</description>
@@ -27,7 +27,7 @@
       <title>2024-10-08 - Focus on food: unique applications</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-10-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18071552" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-10-08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-10-08.mp3" length="18071552" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-10-08</guid>
       <pubDate>Tue, 08 Oct 2024 21:43:02 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2024-10-30 - A candle lost in the light; Shooting apples?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-10-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-10-30.mp3" type="audio/mpeg" length="16890368"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-10-30.mp3" length="16890368" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-10-30</guid>
       <pubDate>Wed, 30 Oct 2024 21:41:35 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2024-11-06 - Trick, treat, and issur cheftza</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-06.mp3" type="audio/mpeg" length="16538112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-06.mp3" length="16538112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-06</guid>
       <pubDate>Wed, 06 Nov 2024 21:46:01 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2024-11-11 - The dusty Gemara</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17576064" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-11.mp3" length="17576064" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-11</guid>
       <pubDate>Mon, 11 Nov 2024 21:43:02 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2024-11-12 - All-nighters, air travel, and fascinating Brocha applications</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17744000" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-12.mp3" length="17744000" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-12</guid>
       <pubDate>Tue, 12 Nov 2024 21:42:59 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2024-11-13 - 'Cause and effect' or 'Gauge of intent'?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18375680" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-13.mp3" length="18375680" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-13</guid>
       <pubDate>Wed, 13 Nov 2024 21:44:56 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2024-11-18 - What is the first thing to do for a Bar-Mitzvah?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19581056" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-18.mp3" length="19581056" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-18</guid>
       <pubDate>Mon, 18 Nov 2024 22:09:36 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2024-11-20 - Not for me - but at least the kids are learning</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18595968" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-20.mp3" length="18595968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-20</guid>
       <pubDate>Wed, 20 Nov 2024 21:46:33 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2024-11-27 - Shmoozing: detriment and value</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-27.mp3" type="audio/mpeg" length="18876416"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-11-27.mp3" length="18876416" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-11-27</guid>
       <pubDate>Wed, 27 Nov 2024 21:43:58 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2024-12-02 - Knowing your place - angels, men, and donkeys</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18788480" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-02.mp3" length="18788480" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-12-02</guid>
       <pubDate>Mon, 02 Dec 2024 21:46:16 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2024-12-04 - Motivation and achrayus for the Am Haaretz</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18588160" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-04.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-04.mp3" length="18588160" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-12-04</guid>
       <pubDate>Wed, 04 Dec 2024 21:45:29 -0500</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>2024-12-11 - Your Money or Your Life: Definitions or Decisions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-11.mp3" type="audio/mpeg" length="19652736"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-11.mp3" length="19652736" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-12-11</guid>
       <pubDate>Wed, 11 Dec 2024 21:57:34 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2024-12-16 - Don't give advice to Hashem</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18263552" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-16.mp3" length="18263552" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-12-16</guid>
       <pubDate>Mon, 16 Dec 2024 21:44:06 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2024-12-18 - The frying pan in North Dakota</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17466880" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-18.mp3" length="17466880" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-12-18</guid>
       <pubDate>Wed, 18 Dec 2024 21:42:19 -0500</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2024-12-24 - Everyone according to his ability</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19585024" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2024-12-24.mp3" length="19585024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2024-12-24</guid>
       <pubDate>Wed, 25 Dec 2024 13:44:40 -0500</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2025-01-06 - Preventing clutter: how much bandwidth is unnecessary information taking up?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17219712" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-06.mp3" length="17219712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-06</guid>
       <pubDate>Mon, 06 Jan 2025 21:44:45 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2025-01-13 - It should dawn on us: verbalizing our tremendous Siyata DiShmaya early in the morning</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18059392" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-13.mp3" length="18059392" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-13</guid>
       <pubDate>Mon, 13 Jan 2025 21:45:20 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2025-01-20 - Full acceptance and retroactive membership</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18568192" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-20.mp3" length="18568192" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-20</guid>
       <pubDate>Mon, 20 Jan 2025 21:43:04 -0500</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2025-01-21 - An unusual gift</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19312640" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-21.mp3" length="19312640" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-21</guid>
       <pubDate>Tue, 21 Jan 2025 21:45:16 -0500</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2025-01-22 - A Siddur for Umos HaOlam</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19408896" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-22.mp3" length="19408896" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-22</guid>
       <pubDate>Wed, 22 Jan 2025 21:47:01 -0500</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2025-01-27 - Family time for the average American?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19236352" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-27.mp3" length="19236352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-27</guid>
       <pubDate>Mon, 27 Jan 2025 21:44:46 -0500</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2025-01-28 - Stealing at dinner?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13352771" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-28.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-28.mp3" length="13352771" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-28</guid>
       <pubDate>Tue, 28 Jan 2025 21:57:04 -0500</pubDate>
     </item>
@@ -323,7 +323,7 @@
       <title>2025-01-29 - Guilt-free eating</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19777024" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-01-29.mp3" length="19777024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-01-29</guid>
       <pubDate>Wed, 29 Jan 2025 21:45:25 -0500</pubDate>
     </item>
@@ -331,7 +331,7 @@
       <title>2025-02-03 - Daas Torah and human logic</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-03.mp3" type="audio/mpeg" length="17903104"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-03.mp3" length="17903104" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-03</guid>
       <pubDate>Mon, 03 Feb 2025 21:46:49 -0500</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2025-02-04 - What do you say before you serve coffee to your parents?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19914880" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-04.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-04.mp3" length="19914880" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-04</guid>
       <pubDate>Tue, 04 Feb 2025 22:06:07 -0500</pubDate>
     </item>
@@ -355,7 +355,7 @@
       <title>2025-02-10 - Exclusive club: members only?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19737088" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-10.mp3" length="19737088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-10</guid>
       <pubDate>Mon, 10 Feb 2025 21:47:41 -0500</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2025-02-11 - Identity confusion: can volunteering for additional roles be a negative?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19869824" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-11.mp3" length="19869824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-11</guid>
       <pubDate>Tue, 11 Feb 2025 21:48:31 -0500</pubDate>
     </item>
@@ -379,7 +379,7 @@
       <title>2025-02-17 - John Johnson and the Big Mac</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19304960" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-17.mp3" length="19304960" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-17</guid>
       <pubDate>Mon, 17 Feb 2025 21:47:17 -0500</pubDate>
     </item>
@@ -395,7 +395,7 @@
       <title>2025-02-19 - Illegal aliens, immigrants, and rules of citizenship</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19308672" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-19.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-19.mp3" length="19308672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-19</guid>
       <pubDate>Wed, 19 Feb 2025 21:48:18 -0500</pubDate>
     </item>
@@ -403,7 +403,7 @@
       <title>2025-02-24 - Bad Influence and Neighborhood Interaction</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-24.mp3" type="audio/mpeg" length="18745344"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-24.mp3" length="18745344" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-24</guid>
       <pubDate>Mon, 24 Feb 2025 21:51:07 -0500</pubDate>
     </item>
@@ -411,7 +411,7 @@
       <title>2025-02-25 - The Deal, A covenant, and Elective Surgery</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18275840" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-02-25.mp3" length="18275840" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-02-25</guid>
       <pubDate>Tue, 25 Feb 2025 22:06:08 -0500</pubDate>
     </item>
@@ -427,7 +427,7 @@
       <title>2025-03-03 - Location, Location, Location: Keeping Our Environment Safe and Pristine</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-03.mp3" type="audio/mpeg" length="19304576"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-03.mp3" length="19304576" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-03</guid>
       <pubDate>Mon, 03 Mar 2025 21:51:35 -0500</pubDate>
     </item>
@@ -443,7 +443,7 @@
       <title>2025-03-05 - Political Action and Alignment: Risks, Objectives, And Obligations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19253376" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-05.mp3" length="19253376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-05</guid>
       <pubDate>Wed, 05 Mar 2025 21:49:54 -0500</pubDate>
     </item>
@@ -451,7 +451,7 @@
       <title>2025-03-10 - An American View Of Yoga; Direction of the Nation</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20627584" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-10.mp3" length="20627584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-10</guid>
       <pubDate>Tue, 11 Mar 2025 21:48:03 -0400</pubDate>
     </item>
@@ -459,7 +459,7 @@
       <title>2025-03-11 - Who Can You Sit With? Pluralistic Organizations and Torah Jews</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19308672" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-11.mp3" length="19308672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-11</guid>
       <pubDate>Tue, 11 Mar 2025 21:52:56 -0400</pubDate>
     </item>
@@ -467,7 +467,7 @@
       <title>2025-03-12 - What to Say and What to Postpone; Women and Birchas Hashachar</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19492992" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-12.mp3" length="19492992" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-12</guid>
       <pubDate>Wed, 12 Mar 2025 21:48:13 -0400</pubDate>
     </item>
@@ -475,7 +475,7 @@
       <title>2025-03-17 - 'I didn't mean it': When can you take back what you said?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-17.mp3" type="audio/mpeg" length="19261568"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-17.mp3" length="19261568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-17</guid>
       <pubDate>Mon, 17 Mar 2025 21:48:50 -0400</pubDate>
     </item>
@@ -483,7 +483,7 @@
       <title>2025-03-18 - Indecision and second thoughts</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18760192" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-18.mp3" length="18760192" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-18</guid>
       <pubDate>Tue, 18 Mar 2025 21:47:31 -0400</pubDate>
     </item>
@@ -491,7 +491,7 @@
       <title>2025-03-19 - Safeguarding Kavod that is due</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19861504" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-19.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-19.mp3" length="19861504" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-19</guid>
       <pubDate>Wed, 19 Mar 2025 21:51:15 -0400</pubDate>
     </item>
@@ -499,7 +499,7 @@
       <title>2025-03-24 - Small Dots - Incredible Ramifications</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-24.mp3" type="audio/mpeg" length="19192832"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-24.mp3" length="19192832" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-24</guid>
       <pubDate>Mon, 24 Mar 2025 22:05:06 -0400</pubDate>
     </item>
@@ -515,7 +515,7 @@
       <title>2025-03-26 - How excited are we upon receiving new items?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19601536" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-26.mp3" length="19601536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-26</guid>
       <pubDate>Wed, 26 Mar 2025 21:48:26 -0400</pubDate>
     </item>
@@ -523,7 +523,7 @@
       <title>2025-03-31 - New Shaitel, Suit, and Exciting Beginnings</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19877376" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-31.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-03-31.mp3" length="19877376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-03-31</guid>
       <pubDate>Mon, 31 Mar 2025 22:02:27 -0400</pubDate>
     </item>
@@ -547,7 +547,7 @@
       <title>2025-04-30 - Multitasking of the mind</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-04-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-04-30.mp3" type="audio/mpeg" length="16534016"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-04-30.mp3" length="16534016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-04-30</guid>
       <pubDate>Wed, 30 Apr 2025 22:06:08 -0400</pubDate>
     </item>
@@ -571,7 +571,7 @@
       <title>2025-05-07 - Who took my Tallis at a time like this? What are the options?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-07.mp3" type="audio/mpeg" length="18460800"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-07.mp3" length="18460800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-05-07</guid>
       <pubDate>Wed, 07 May 2025 22:08:47 -0400</pubDate>
     </item>
@@ -587,7 +587,7 @@
       <title>2025-05-13 - Undoing a Klala</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20041216" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-13.mp3" length="20041216" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-05-13</guid>
       <pubDate>Wed, 14 May 2025 07:38:52 -0400</pubDate>
     </item>
@@ -595,7 +595,7 @@
       <title>2025-05-14 - A Request or a Shevach? Common Mistakes</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-14.mp3" type="audio/mpeg" length="18447872"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-14.mp3" length="18447872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-05-14</guid>
       <pubDate>Wed, 14 May 2025 22:08:08 -0400</pubDate>
     </item>
@@ -619,7 +619,7 @@
       <title>2025-05-21 - Is forgetting an excuse?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17810944" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-21.mp3" length="17810944" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-05-21</guid>
       <pubDate>Wed, 21 May 2025 22:05:42 -0400</pubDate>
     </item>
@@ -635,7 +635,7 @@
       <title>2025-05-27 - Fateful Whispers: Blocking Or Fulfilling our Tefilos?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18669696" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-27.mp3" length="18669696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-05-27</guid>
       <pubDate>Tue, 27 May 2025 22:46:55 -0400</pubDate>
     </item>
@@ -643,7 +643,7 @@
       <title>2025-05-28 - Davening: loud whispers or barely audible</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-28.mp3" type="audio/mpeg" length="17919488"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-05-28.mp3" length="17919488" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-05-28</guid>
       <pubDate>Wed, 28 May 2025 22:09:07 -0400</pubDate>
     </item>
@@ -659,7 +659,7 @@
       <title>2025-06-09 - The 'when to correct the Baal Koreh?' tumult</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18389120" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-09.mp3" length="18389120" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-09</guid>
       <pubDate>Mon, 09 Jun 2025 22:10:50 -0400</pubDate>
     </item>
@@ -667,7 +667,7 @@
       <title>2025-06-10 - Proper names, wrong names, and nicknames</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19096576" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-10.mp3" length="19096576" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-10</guid>
       <pubDate>Tue, 10 Jun 2025 22:07:31 -0400</pubDate>
     </item>
@@ -675,7 +675,7 @@
       <title>2025-06-11 - Voices in your head and heart</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14770163" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-11.mp3" length="14770163" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-11</guid>
       <pubDate>Wed, 11 Jun 2025 22:19:24 -0400</pubDate>
     </item>
@@ -683,7 +683,7 @@
       <title>2025-06-17 - Thinking out loud - speaking silently</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19909120" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-17.mp3" length="19909120" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-17</guid>
       <pubDate>Wed, 18 Jun 2025 07:29:05 -0400</pubDate>
     </item>
@@ -691,7 +691,7 @@
       <title>2025-06-18 - Magazine advertisements on Shabbos: glancing, reading, and vocalizing</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19587584" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-18.mp3" length="19587584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-18</guid>
       <pubDate>Wed, 18 Jun 2025 22:28:13 -0400</pubDate>
     </item>
@@ -699,7 +699,7 @@
       <title>2025-06-23 - American cleanliness and real dirt</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20205568" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-23.mp3" length="20205568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-23</guid>
       <pubDate>Mon, 23 Jun 2025 22:12:31 -0400</pubDate>
     </item>
@@ -707,7 +707,7 @@
       <title>2025-06-24 - Helpful/damaging thoughts</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19039232" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-24.mp3" length="19039232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-24</guid>
       <pubDate>Tue, 24 Jun 2025 22:08:12 -0400</pubDate>
     </item>
@@ -715,7 +715,7 @@
       <title>2025-06-25 - Are you thinking while listening to others?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19411072" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-06-25.mp3" length="19411072" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-06-25</guid>
       <pubDate>Wed, 25 Jun 2025 22:10:43 -0400</pubDate>
     </item>
@@ -731,7 +731,7 @@
       <title>2025-07-01 - Are you listening or talking?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18982912" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-01.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-01.mp3" length="18982912" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-07-01</guid>
       <pubDate>Wed, 02 Jul 2025 06:41:37 -0400</pubDate>
     </item>
@@ -739,7 +739,7 @@
       <title>2025-07-02 - Good news, Bad news, and No news: Should you skip a day?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-02.mp3" type="audio/mpeg" length="20281472"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-02.mp3" length="20281472" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-07-02</guid>
       <pubDate>Wed, 02 Jul 2025 22:04:53 -0400</pubDate>
     </item>
@@ -747,7 +747,7 @@
       <title>2025-07-07 - Advertising works</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19883520" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-07.mp3" length="19883520" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-07-07</guid>
       <pubDate>Mon, 07 Jul 2025 22:05:38 -0400</pubDate>
     </item>
@@ -763,7 +763,7 @@
       <title>2025-07-14 - Meaty Issues: Sirloin Steaks, Mesorah, and Optics</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20078720" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-07-14.mp3" length="20078720" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-07-14</guid>
       <pubDate>Mon, 14 Jul 2025 22:14:14 -0400</pubDate>
     </item>
@@ -779,7 +779,7 @@
       <title>2025-09-02 - How do you begin your Kedusha?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20873728" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-02.mp3" length="20873728" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-09-02</guid>
       <pubDate>Fri, 05 Sep 2025 07:48:58 -0400</pubDate>
     </item>
@@ -787,7 +787,7 @@
       <title>2025-09-08 - LeDovid insights: Don't worry about what everyone thinks - just do the right thing!</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17582208" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-08.mp3" length="17582208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-09-08</guid>
       <pubDate>Mon, 08 Sep 2025 22:09:24 -0400</pubDate>
     </item>
@@ -795,7 +795,7 @@
       <title>2025-09-09 - How many things can we ask for?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18523136" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-09.mp3" length="18523136" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-09-09</guid>
       <pubDate>Tue, 09 Sep 2025 22:04:29 -0400</pubDate>
     </item>
@@ -811,7 +811,7 @@
       <title>2025-09-15 - Where is your head? Purifying the air we breathe</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-15.mp3" type="audio/mpeg" length="19224704"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-15.mp3" length="19224704" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-09-15</guid>
       <pubDate>Mon, 15 Sep 2025 22:05:15 -0400</pubDate>
     </item>
@@ -819,7 +819,7 @@
       <title>2025-09-16 - Good guys finish first: internalizing the reality in the face of jarring optics</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18622592" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5785/2025-09-16.mp3" length="18622592" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5785/2025-09-16</guid>
       <pubDate>Tue, 16 Sep 2025 22:16:57 -0400</pubDate>
     </item>

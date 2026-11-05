@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Monsey 5775</title>
     <link>https://www.torahstream.org/#/topic/Navi_Monsey_5775</link>
     <description>Navi Monsey 5775</description>
@@ -19,7 +19,7 @@
       <title>2014-09-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-09-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18720414" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-09-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-09-07.mp3" length="18720414" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-09-07</guid>
       <pubDate>Sun, 07 Sep 2014 09:38:50 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2014-09-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-09-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-09-14.mp3" length="18371595"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-09-14.mp3" length="18371595" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-09-14</guid>
       <pubDate>Sun, 14 Sep 2014 09:35:52 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2014-10-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-10-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19805613" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-10-26.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-10-26.mp3" length="19805613" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-10-26</guid>
       <pubDate>Sun, 26 Oct 2014 09:42:12 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2014-11-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-02.mp3" length="16643993"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-02.mp3" length="16643993" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-11-02</guid>
       <pubDate>Sun, 02 Nov 2014 16:26:10 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2014-11-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-09.mp3" length="18605057"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-09.mp3" length="18605057" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-11-09</guid>
       <pubDate>Sun, 09 Nov 2014 09:35:51 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2014-11-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-16.mp3" length="15684358"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-16.mp3" length="15684358" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-11-16</guid>
       <pubDate>Sun, 16 Nov 2014 09:29:15 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2014-11-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17416172" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-23.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-23.mp3" length="17416172" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-11-23</guid>
       <pubDate>Sun, 23 Nov 2014 09:30:26 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2014-11-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-30.mp3" length="18635118"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-11-30.mp3" length="18635118" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-11-30</guid>
       <pubDate>Tue, 02 Dec 2014 21:52:33 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2014-12-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-12-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-12-28.mp3" length="17488897"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2014-12-28.mp3" length="17488897" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2014-12-28</guid>
       <pubDate>Sun, 28 Dec 2014 09:32:39 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2015-01-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-01-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17905393" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-01-04.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-01-04.mp3" length="17905393" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-01-04</guid>
       <pubDate>Sun, 04 Jan 2015 09:35:26 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2015-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-01-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19420077" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-01-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-01-11.mp3" length="19420077" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-01-11</guid>
       <pubDate>Sun, 11 Jan 2015 15:55:39 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2015-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-02-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-02-22.mp3" length="19815049"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-02-22.mp3" length="19815049" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-02-22</guid>
       <pubDate>Sun, 22 Feb 2015 09:37:32 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2015-03-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-01.mp3" length="19825497"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-01.mp3" length="19825497" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-03-01</guid>
       <pubDate>Sun, 01 Mar 2015 09:38:37 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2015-03-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20230082" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-08.mp3" length="20230082" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-03-08</guid>
       <pubDate>Sun, 08 Mar 2015 09:37:12 -0400</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2015-03-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18146733" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-15.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-15.mp3" length="18146733" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-03-15</guid>
       <pubDate>Sun, 15 Mar 2015 09:34:02 -0400</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2015-03-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17809681" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-03-22.mp3" length="17809681" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-03-22</guid>
       <pubDate>Sun, 22 Mar 2015 09:38:11 -0400</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2015-04-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-04-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16795503" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-04-19.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-04-19.mp3" length="16795503" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-04-19</guid>
       <pubDate>Sun, 19 Apr 2015 09:36:34 -0400</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2015-04-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-04-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20634041" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-04-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-04-26.mp3" length="20634041" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-04-26</guid>
       <pubDate>Sun, 26 Apr 2015 09:38:28 -0400</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2015-05-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-03.mp3" length="19245789"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-03.mp3" length="19245789" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-05-03</guid>
       <pubDate>Sun, 03 May 2015 09:34:07 -0400</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>2015-05-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19279644" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-10.mp3" length="19279644" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-05-10</guid>
       <pubDate>Sun, 10 May 2015 09:35:32 -0400</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2015-05-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19047467" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-17.mp3" length="19047467" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-05-17</guid>
       <pubDate>Sun, 17 May 2015 09:35:54 -0400</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2015-05-31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18519167" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-31.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-05-31.mp3" length="18519167" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-05-31</guid>
       <pubDate>Sun, 31 May 2015 09:34:45 -0400</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2015-06-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19049557" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-07.mp3" length="19049557" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-06-07</guid>
       <pubDate>Sun, 07 Jun 2015 09:35:47 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2015-06-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-14.mp3" length="20739366"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-14.mp3" length="20739366" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-06-14</guid>
       <pubDate>Sun, 14 Jun 2015 09:38:23 -0400</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2015-06-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18879834" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5775/2015-06-21.mp3" length="18879834" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5775/2015-06-21</guid>
       <pubDate>Sun, 21 Jun 2015 09:34:56 -0400</pubDate>
     </item>

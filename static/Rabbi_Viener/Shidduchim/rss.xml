@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Shidduchim/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shidduchim/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shidduchim: What to Ask, What to Say and What to Look For</title>
     <link>https://www.torahstream.org/#/topic/Shidduchim</link>
     <description>Shidduchim: What to Ask, What to Say and What to Look For</description>
@@ -19,7 +19,7 @@
       <title>Shidduchim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shidduchim/Shidduchim.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="25309312" url="https://media-cf.torahstream.org/Rabbi_Viener/Shidduchim/Shidduchim.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shidduchim/Shidduchim.mp3" length="25309312" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shidduchim/Shidduchim</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
     </item>

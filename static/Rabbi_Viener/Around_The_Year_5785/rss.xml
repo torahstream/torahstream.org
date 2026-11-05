@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5785/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5785/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5785</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5785</link>
     <description>Around The Year 5785</description>
@@ -19,7 +19,7 @@
       <title>2024-10-22 - Leil Hoshana Rabbah: Potential, tikkun, and proper guardrails</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-10-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22028416" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-10-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-10-22.mp3" length="22028416" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2024-10-22</guid>
       <pubDate>Sun, 27 Oct 2024 08:46:32 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2024-10-28 - Q&amp;A for Bochurim and Family: The Draft; Sheitels; Life Path and Derech HaLimud; Code for Success</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-10-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-10-28.mp3" type="audio/mpeg" length="29687936"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-10-28.mp3" length="29687936" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2024-10-28</guid>
       <pubDate>Wed, 30 Oct 2024 07:42:31 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2024-11-28 - Hakhel: Tax Returns, Investment Returns &amp; Priceless Returns: An Honest Perspective</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-11-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="28594304" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-11-28.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-11-28.mp3" length="28594304" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2024-11-28</guid>
       <pubDate>Thu, 12 Dec 2024 08:04:46 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2024-12-05 - Agudah Convention: The Parnassah Crisis - real or self-inflicted?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-12-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="8706176" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-12-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2024-12-05.mp3" length="8706176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2024-12-05</guid>
       <pubDate>Thu, 12 Dec 2024 08:01:38 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2025-01-21 - Hashkafa in the workplace Vaad - Monsey</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-01-21.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-01-21.2.mp3" length="26968192"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-01-21.2.mp3" length="26968192" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-01-21.2</guid>
       <pubDate>Thu, 20 Feb 2025 12:13:00 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2025-04-22 - Q&amp;A for Bochurim/Parents: Money Issues; Honesty; Table Questions; Detecting Threats</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-04-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="29503616" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-04-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-04-22.mp3" length="29503616" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-04-22</guid>
       <pubDate>Sun, 27 Apr 2025 08:34:02 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2025-05-13 - Learners and Earners</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-13.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-13.2.mp3" length="12137472"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-13.2.mp3" length="12137472" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-05-13.2</guid>
       <pubDate>Wed, 14 May 2025 20:58:12 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2025-05-20 - Influence at a Cost: When is the Price Too High?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-20.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12562560" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-20.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-20.2.mp3" length="12562560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-05-20.2</guid>
       <pubDate>Tue, 20 May 2025 22:47:42 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2025-05-26 - Hakhel: Creating 36 Trillion Dollars, Searching for the Moon, and Discovering Ourselves</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-26.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-26.2.mp3" length="29034624"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-26.2.mp3" length="29034624" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-05-26.2</guid>
       <pubDate>Tue, 27 May 2025 07:24:54 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2025-05-27 - Financial Success Optics: Flaunting Wealth You Don't Have Or Shouldn't Want Others to See</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-27.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-27.2.mp3" type="audio/mpeg" length="12327040"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-05-27.2.mp3" length="12327040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-05-27.2</guid>
       <pubDate>Tue, 27 May 2025 22:49:05 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2025-07-31 - Fake Relationships, Real Obligations, and Genuine Growth</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-07-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-07-31.mp3" length="35000448"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-07-31.mp3" length="35000448" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-07-31</guid>
       <pubDate>Sun, 10 Aug 2025 08:31:50 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2025-08-03 - Torah Connecions Tisha B'Av Program: Complaining, Closure,and The Ability to Move On</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-08-03.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22476928" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-08-03.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-08-03.2.mp3" length="22476928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-08-03.2</guid>
       <pubDate>Sun, 10 Aug 2025 08:35:11 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2025-08-03 - Tisha B'Av: Kinnos overview</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-08-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="39641600" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-08-03.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-08-03.mp3" length="39641600" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-08-03</guid>
       <pubDate>Sun, 03 Aug 2025 13:06:12 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2025-09-01 - Hashkafa in the Workplace: Putting yourself in a box; The downside of self serving categories</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-09-01.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20992128" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-09-01.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-09-01.2.mp3" length="20992128" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-09-01.2</guid>
       <pubDate>Sun, 07 Sep 2025 08:43:53 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2025-09-14 - Bite-size living: avoiding worry is not procrastination</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-09-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-09-14.mp3" type="audio/mpeg" length="9746560"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5785/2025-09-14.mp3" length="9746560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5785/2025-09-14</guid>
       <pubDate>Sun, 14 Sep 2025 01:32:27 -0400</pubDate>
     </item>

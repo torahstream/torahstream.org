@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Passaic 5781</title>
     <link>https://www.torahstream.org/#/topic/Navi_Passaic_5781</link>
     <description>Navi Passaic 5781</description>
@@ -19,7 +19,7 @@
       <title>2020-11-21 - Request denied? Instant gratification and our Tefillos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-11-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13863040" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-11-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-11-21.mp3" length="13863040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5781/2020-11-21</guid>
       <pubDate>Sun, 22 Nov 2020 08:50:38 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2020-12-05 - Am I worrying enough? Balancing bitachon and your shortcomings</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-05_Passaic_Navi.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="15296640" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-05_Passaic_Navi.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-05_Passaic_Navi.mp3" length="15296640" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5781/2020-12-05 Passaic Navi</guid>
       <pubDate>Sun, 06 Dec 2020 08:40:12 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2020-12-19 - Wanting what you hear vs hearing what you want</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-19_Passaic_Navi.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16167040" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-19_Passaic_Navi.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-19_Passaic_Navi.mp3" length="16167040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5781/2020-12-19 Passaic Navi</guid>
       <pubDate>Sun, 20 Dec 2020 09:47:48 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2020-12-26 - Prestige and power: the optical illusion we call control</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-26_Passaic_Navi.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-26_Passaic_Navi.mp3" type="audio/mpeg" length="20992128"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5781/2020-12-26_Passaic_Navi.mp3" length="20992128" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5781/2020-12-26 Passaic Navi</guid>
       <pubDate>Sun, 27 Dec 2020 09:55:04 -0500</pubDate>
     </item>

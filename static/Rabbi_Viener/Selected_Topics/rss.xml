@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Selected_Topics/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Selected_Topics/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Selected Topics</title>
     <link>https://www.torahstream.org/#/topic/Selected_Topics</link>
     <description>Selected Topics</description>
@@ -19,7 +19,7 @@
       <title>Going The Extra Mile For Ourselves, Our Families and Friends</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Topics/20110801_Going_The_Extra_Mile.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="24860800" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Topics/20110801_Going_The_Extra_Mile.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Topics/20110801_Going_The_Extra_Mile.mp3" length="24860800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Topics/20110801 Going The Extra Mile</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
     </item>

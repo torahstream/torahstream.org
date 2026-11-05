@@ -6,4 +6,8 @@ topic_id: "Navi_Passaic_5781"
 count: 4
 has_video: true
 ongoing: false
+category: "navi"
+family: "Navi_Passaic"
+year: "5781"
+listing_title: ""
 ---

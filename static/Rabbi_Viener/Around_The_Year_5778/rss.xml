@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5778/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5778/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5778</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5778</link>
     <description>Around The Year 5778</description>
@@ -19,7 +19,7 @@
       <title>2017-09-17 - Pre-Selichos: Sacrifice and enthusiasm - for the right cause</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-09-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="7248466" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-09-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-09-17.mp3" length="7248466" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-09-17</guid>
       <pubDate>Sun, 17 Sep 2017 01:26:07 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2017-11-23 - Is the best offense realy defense? - Closer look at our position in life</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-23.mp3" length="29004419"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-23.mp3" length="29004419" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-11-23</guid>
       <pubDate>Thu, 23 Nov 2017 15:41:49 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2017-11-26 - Are we really addicted?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11849216" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-26.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-11-26.mp3" length="11849216" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-11-26</guid>
       <pubDate>Mon, 27 Nov 2017 23:05:31 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2017-12-12 - Indelible impressions from a Gadol: Hesped for HaGaon HaRav Aharon Leib Shteinman ZaTZaL</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-12.mp3" length="6959270"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-12.mp3" length="6959270" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-12-12</guid>
       <pubDate>Tue, 12 Dec 2017 21:47:39 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2017-12-13 - No Pain - No Gain: an optimistic view on going the extra mile</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-13.mp3" length="37419166"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2017-12-13.mp3" length="37419166" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2017-12-13</guid>
       <pubDate>Sun, 17 Dec 2017 09:03:07 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2018-07-22 - Tisha B'Av: Kinnos overview</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-07-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="28053632" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-07-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-07-22.mp3" length="28053632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-07-22</guid>
       <pubDate>Sun, 22 Jul 2018 12:55:50 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2018-09-02 - 1st night of Selichos: How to renew our contract?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="8290432" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-02.mp3" length="8290432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-09-02</guid>
       <pubDate>Sun, 02 Sep 2018 00:49:24 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2018-09-03 - Teshuva in Elul: Preferred seating for Eternity</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-03.mp3" length="13756544"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5778/2018-09-03.mp3" length="13756544" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5778/2018-09-03</guid>
       <pubDate>Mon, 03 Sep 2018 21:10:18 -0400</pubDate>
     </item>

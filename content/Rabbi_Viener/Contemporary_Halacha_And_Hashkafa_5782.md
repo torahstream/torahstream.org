@@ -6,4 +6,8 @@ topic_id: "Contemporary_Halacha_And_Hashkafa_5782"
 count: 114
 has_video: true
 ongoing: false
+category: "contemporary"
+family: "Contemporary_Halacha_And_Hashkafa"
+year: "5782"
+listing_title: ""
 ---

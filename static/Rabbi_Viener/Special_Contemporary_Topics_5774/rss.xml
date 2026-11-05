@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Special Contemporary Topics 5774</title>
     <link>https://www.torahstream.org/#/topic/Special_Contemporary_Topics_5774</link>
     <description>Special Contemporary Topics 5774</description>
@@ -27,7 +27,7 @@
       <title>2014-01-27 Sticking With Our Mesorah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12073088" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-27.mp3" length="12073088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5774/2014-01-27</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:40 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2014-01-28 Sticking With Our Mesorah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-28.mp3" type="audio/mpeg" length="11894912"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-28.mp3" length="11894912" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5774/2014-01-28</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:40 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2014-01-29 Sticking With Our Mesorah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12513408" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-01-29.mp3" length="12513408" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5774/2014-01-29</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:41 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2014-02-10 Substance Use In Halacha And Hashkafah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-02-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12161152" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-02-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-02-10.mp3" length="12161152" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5774/2014-02-10</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:42 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2014-02-11 Substance Use In Halacha And Hashkafah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-02-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13897856" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-02-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5774/2014-02-11.mp3" length="13897856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5774/2014-02-11</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:42 -0400</pubDate>
     </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/On_Chumash/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/On_Chumash/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Chumash: Contemporary Topics in Halacha and Hashkafa</title>
     <link>https://www.torahstream.org/#/topic/On_Chumash</link>
     <description>Chumash: Contemporary Topics in Halacha and Hashkafa</description>
@@ -17,58 +17,58 @@
     </itunes:category>
     <item>
       <title>On Chumash 001
-      A. Can People Harm at Will
-      B. Do We Always Have Free Choice</title>
+A. Can People Harm at Will
+B. Do We Always Have Free Choice</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_001.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_001.mp3" length="20168832"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_001.mp3" length="20168832" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 001</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:27 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 002
-      A. Misrepresenting Halacha
-      B. People And the Animal Kingdom</title>
+A. Misrepresenting Halacha
+B. People And the Animal Kingdom</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_002.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19091584" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_002.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_002.mp3" length="19091584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 002</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:27 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 003
-      A. Time To Learn/Time To Work
-      B. The Nine To Five Workday - Too Much Or Too Little</title>
+A. Time To Learn/Time To Work
+B. The Nine To Five Workday - Too Much Or Too Little</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_003.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20009472" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_003.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_003.mp3" length="20009472" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 003</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:27 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 004
-      A. Preempting Tragedy
-      B. Nourishment For Techiyas Hameisim</title>
+A. Preempting Tragedy
+B. Nourishment For Techiyas Hameisim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_004.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19712128" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_004.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_004.mp3" length="19712128" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 004</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:27 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 005
-      A. Fear Of the Unknown
-      B. Birthday Celebrations</title>
+A. Fear Of the Unknown
+B. Birthday Celebrations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_005.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17315968" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_005.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_005.mp3" length="17315968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 005</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 006
-      A. Allure Of the Forbidden
-      B. Tactics Of the Yetzer Harah</title>
+A. Allure Of the Forbidden
+B. Tactics Of the Yetzer Harah </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_006.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_006.mp3" length="17813632" type="audio/mpeg"/>
@@ -77,88 +77,88 @@
     </item>
     <item>
       <title>On Chumash 007
-      A. Challenging Yourself
-      B. Entering a Nisayon</title>
+A. Challenging Yourself
+B. Entering a Nisayon</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_007.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17961088" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_007.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_007.mp3" length="17961088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 007</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 008
-      A. Hidden Agendas Of a New Movement
-      B. How Not To Get Someone's Attention</title>
+A. Hidden Agendas Of a New Movement
+B. How Not To Get Someone's Attention</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_008.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_008.mp3" length="18675840"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_008.mp3" length="18675840" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 008</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 009
-      A. Dangerous People
-      B. Avoiding the Curse Of Adam And Chava</title>
+A. Dangerous People
+B. Avoiding the Curse Of Adam And Chava</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_009.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_009.mp3" length="19091584"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_009.mp3" length="19091584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 009</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 010
-      A. Burial Next To Whom
-      B. Forcing the Geula</title>
+A. Burial Next To Whom
+B. Forcing the Geula</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_010.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_010.mp3" length="19638400"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_010.mp3" length="19638400" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 010</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 011
-      A. Visiting Gan Eden
-      B. Sibling Rivalry</title>
+A. Visiting Gan Eden
+B. Sibling Rivalry</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_011.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17758341" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_011.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_011.mp3" length="17758341" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 011</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 012
-      A. The Ripple Affect
-      B. Self Imposed Affliction</title>
+A. The Ripple Affect
+B. Self Imposed Affliction</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_012.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_012.mp3" length="19128448"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_012.mp3" length="19128448" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 012</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 013
-      A. Cherem Of Rabeinu Gershom
-      B. Original Inventions Modern Applications</title>
+A. Cherem Of Rabeinu Gershom
+B. Original Inventions Modern Applications</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_013.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_013.mp3" length="17983616"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_013.mp3" length="17983616" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 013</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 014
-      A. Answering Questions You Know Nothing About
-      B. Small Mistakes Historical Consequences</title>
+A. Answering Questions You Know Nothing About
+B. Small Mistakes Historical Consequences</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_014.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19548288" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_014.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_014.mp3" length="19548288" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 014</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 015
-      A. Longevity How Old Is Old 
-      B. Energizing Inanimate Objects</title>
+A. Longevity How Old Is Old 
+B. Energizing Inanimate Objects</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_015.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_015.mp3" length="18233472" type="audio/mpeg"/>
@@ -167,58 +167,58 @@
     </item>
     <item>
       <title>On Chumash 016
-      A. Dais Torah And the Israeli Government
-      B. Working with the Yetzer Hora</title>
+A. Dais Torah And the Israeli Government
+B. Working with the Yetzer Hora</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_016.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21385344" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_016.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_016.mp3" length="21385344" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 016</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 017
-      A. Where To Live
-      B. Who Can You Argue With</title>
+A. Where To Live
+B. Who Can You Argue With </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_017.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_017.mp3" length="18124928"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_017.mp3" length="18124928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 017</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 018
-      A. Putting Yourself in Danger For Others
-      B. Taking Money From Goyim</title>
+A. Putting Yourself in Danger For Others
+B. Taking Money From Goyim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_018.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19138688" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_018.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_018.mp3" length="19138688" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 018</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 019
-      A. Vacations 
-      B. Dangerous Parnassah</title>
+A. Vacations 
+B. Dangerous Parnassah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_019.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_019.mp3" length="18663552"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_019.mp3" length="18663552" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 019</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 020
-      A. What Can You Tell Goyim About Shabbos
-      B. Choice Words</title>
+A. What Can You Tell Goyim About Shabbos
+B. Choice Words</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_020.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17817728" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_020.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_020.mp3" length="17817728" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 020</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:28 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 021
-      A. The Art Of Eating 
-      B. Appearance Counts</title>
+A. The Art Of Eating 
+B. Appearance Counts</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_021.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_021.mp3" length="18716800" type="audio/mpeg"/>
@@ -227,8 +227,8 @@
     </item>
     <item>
       <title>On Chumash 022
-      A. Time Of Death
-      B. Reward For Avayros</title>
+A. Time Of Death
+B. Reward For Avayros</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_022.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_022.mp3" length="20371584" type="audio/mpeg"/>
@@ -237,18 +237,18 @@
     </item>
     <item>
       <title>On Chumash 023
-      A. History By Design 
-      B. Defending Klal Yisroel</title>
+A. History By Design 
+B. Defending Klal Yisroel</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_023.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_023.mp3" length="17723520"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_023.mp3" length="17723520" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 023</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 024
-      A. The Real Chasidey Umos Haolam 
-      B. The Seven Mitzvos</title>
+A. The Real Chasidey Umos Haolam 
+B. The Seven Mitzvos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_024.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_024.mp3" length="18780288" type="audio/mpeg"/>
@@ -257,58 +257,58 @@
     </item>
     <item>
       <title>On Chumash 025
-      A. The Struggle For Har Habayis
-      B. Our Relationship with An Akum</title>
+A. The Struggle For Har Habayis
+B. Our Relationship with An Akum</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_025.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_025.mp3" length="16976000"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_025.mp3" length="16976000" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 025</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 026
-      A. Giving Blood
-      B. Smoking Pro And Con</title>
+A. Giving Blood
+B. Smoking Pro And Con</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_026.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18151552" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_026.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_026.mp3" length="18151552" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 026</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 027
-      A. The Option To Wage War 
-      B. The Mitzva To Wage War</title>
+A. The Option To Wage War 
+B. The Mitzva To Wage War</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_027.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15067264" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_027.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_027.mp3" length="15067264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 027</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 028
-      A. Having Children Raising Children
-      B. Humiliation Or Death</title>
+A. Having Children Raising Children
+B. Humiliation Or Death </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_028.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17995904" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_028.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_028.mp3" length="17995904" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 028</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 029
-      A. The Rainbow 
-      B. The Role Of Good Food And Drink</title>
+A. The Rainbow 
+B. The Role Of Good Food And Drink</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_029.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18581632" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_029.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_029.mp3" length="18581632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 029</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 030
-      A. World Support For Yidden
-      B. Why Follow the Leader</title>
+A. World Support For Yidden
+B. Why Follow the Leader</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_030.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_030.mp3" length="17354880" type="audio/mpeg"/>
@@ -317,8 +317,8 @@
     </item>
     <item>
       <title>On Chumash 031
-      A. Optimism
-      B. Associating with a Bad Crowd</title>
+A. Optimism
+B. Associating with a Bad Crowd</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_031.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_031.mp3" length="17610880" type="audio/mpeg"/>
@@ -327,28 +327,28 @@
     </item>
     <item>
       <title>On Chumash 032
-      A. The Source Of All Character Flaws
-      B. Anger a Necessary Evil</title>
+A. The Source Of All Character Flaws
+B. Anger a Necessary Evil</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_032.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16939136" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_032.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_032.mp3" length="16939136" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 032</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 033
-      A. Shalom the Hidden Protection
-      B. The Incredible Strength Of the Tzibur</title>
+A. Shalom the Hidden Protection
+B. The Incredible Strength Of the Tzibur </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_033.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_033.mp3" length="16554112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_033.mp3" length="16554112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 033</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 034
-      A. The Real Power Of Will Power
-      B. Believing in Yourself</title>
+A. The Real Power Of Will Power
+B. Believing in Yourself</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_034.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_034.mp3" length="18854016" type="audio/mpeg"/>
@@ -357,48 +357,48 @@
     </item>
     <item>
       <title>On Chumash 035
-      A. 2000 Years Of Torah
-      B. Moving Away From Parents</title>
+A. 2000 Years Of Torah
+B. Moving Away From Parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_035.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_035.mp3" length="18968704"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_035.mp3" length="18968704" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 035</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 036
-      A. Obligation To Live in Eretz Yisroel
-      B. Losing Mitzvos in Difficult Situations</title>
+A. Obligation To Live in Eretz Yisroel
+B. Losing Mitzvos in Difficult Situations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_036.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18724992" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_036.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_036.mp3" length="18724992" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 036</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 037
-      A. How To Influence Others
-      B. Demonstrations</title>
+A. How To Influence Others
+B. Demonstrations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_037.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18280576" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_037.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_037.mp3" length="18280576" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 037</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 038
-      A. 10 Percent Kiruv 
-      B. Mesiras Nefesh with Results</title>
+A. 10 Percent Kiruv 
+B. Mesiras Nefesh with Results</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_038.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18000000" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_038.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_038.mp3" length="18000000" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 038</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:29 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 039
-      A. Land For Peace
-      B. The Engagement How Long</title>
+A. Land For Peace
+B. The Engagement How Long</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_039.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_039.mp3" length="17320064" type="audio/mpeg"/>
@@ -407,38 +407,38 @@
     </item>
     <item>
       <title>On Chumash 040
-      A. Presents For Your Wife
-      B. Parnassah Issues Part 1</title>
+A. Presents For Your Wife
+B. Parnassah Issues Part 1 </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_040.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15360128" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_040.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_040.mp3" length="15360128" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 040</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 041
-      A. Parnassah Issues Part 2
-      B. Rationalizing</title>
+A. Parnassah Issues Part 2
+B. Rationalizing</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_041.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_041.mp3" length="17076352"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_041.mp3" length="17076352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 041</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 042
-      A. Moving From a Makom Torah
-      B. The Decision Of R Eliezer Hagodol</title>
+A. Moving From a Makom Torah
+B. The Decision Of R Eliezer Hagodol</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_042.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18309248" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_042.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_042.mp3" length="18309248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 042</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 043
-      A. Understanding World Events
-      B. Hakoras Hatov For Whom</title>
+A. Understanding World Events
+B. Hakoras Hatov For Whom</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_043.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_043.mp3" length="17039488" type="audio/mpeg"/>
@@ -447,218 +447,218 @@
     </item>
     <item>
       <title>On Chumash 044
-      A. The Draft Who Is Included
-      B. Money As An Incentive</title>
+A. The Draft Who Is Included
+B. Money As An Incentive</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_044.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17205376" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_044.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_044.mp3" length="17205376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 044</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 045
-      A. Biased Assumptions
-      B. Yerushalayim the Historical Claim</title>
+A. Biased Assumptions
+B. Yerushalayim the Historical Claim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_045.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17320064" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_045.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_045.mp3" length="17320064" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 045</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 046
-      A. The Obligation To Rescue
-      B. Davening And Miracles</title>
+A. The Obligation To Rescue
+B. Davening And Miracles</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_046.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16576640" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_046.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_046.mp3" length="16576640" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 046</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 047
-      A. Mazal Is It Luck
-      B. Changing Your Mazal</title>
+A. Mazal Is It Luck
+B. Changing Your Mazal</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_047.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18446464" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_047.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_047.mp3" length="18446464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 047</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 048
-      A. Is There Bad Mazal
-      B. Gilgulim An Inside Look</title>
+A. Is There Bad Mazal
+B. Gilgulim An Inside Look</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_048.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17520768" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_048.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_048.mp3" length="17520768" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 048</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 049
-      A. Hashem And Nasa
-      B. Tears Of Sorrow Tears Of Joy</title>
+A. Hashem And Nasa
+B. Tears Of Sorrow Tears Of Joy</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_049.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17473664" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_049.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_049.mp3" length="17473664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 049</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 050
-      A. Booster Shots
-      B. Preordained Intelligence</title>
+A. Booster Shots
+B. Preordained Intelligence</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_050.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18901120" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_050.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_050.mp3" length="18901120" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 050</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 051
-      A. Only Following Orders
-      B. Spousal Encouragement</title>
+A. Only Following Orders
+B. Spousal Encouragement</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_051.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_051.mp3" length="18872448"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_051.mp3" length="18872448" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 051</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 052
-      A. Justice And Punishment On Demand
-      B. Name Calling</title>
+A. Justice And Punishment On Demand
+B. Name Calling</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_052.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_052.mp3" length="17066112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_052.mp3" length="17066112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 052</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:30 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 053
-      A. Weak Foundations 
-      B. The Tragedy Of Elisha Ben Avuya</title>
+A. Weak Foundations 
+B. The Tragedy Of Elisha Ben Avuya</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_053.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17201664" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_053.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_053.mp3" length="17201664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 053</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:31 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 054
-      A. Mitzvos in a Foreign Environment
-      B. Why Do Chesed</title>
+A. Mitzvos in a Foreign Environment
+B. Why Do Chesed</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_054.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17121792" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_054.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_054.mp3" length="17121792" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 054</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 055
-      A. The Blazing Sun
-      B. "Cashing in" On Mitzvos</title>
+A. The Blazing Sun
+B. "Cashing in" On Mitzvos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_055.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19298432" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_055.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_055.mp3" length="19298432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 055</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 056
-      A. White Lies
-      B. Having Children - Too Expensive</title>
+A. White Lies
+B. Having Children - Too Expensive</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_056.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18565248" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_056.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_056.mp3" length="18565248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 056</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 057
-      A. Defending Your Opponents
-      B. Guardians Of the City</title>
+A. Defending Your Opponents
+B. Guardians Of the City</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_057.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18833536" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_057.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_057.mp3" length="18833536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 057</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 058
-      A. Permissible Lashon Harsh
-      B. Rationalizing For Money</title>
+A. Permissible Lashon Harsh
+B. Rationalizing For Money</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_058.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18753664" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_058.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_058.mp3" length="18753664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 058</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 059
-      A. Changes After Marriage
-      B. Best Of Sodom/Worst Of Yidden</title>
+A. Changes After Marriage
+B. Best Of Sodom/Worst Of Yidden</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_059.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18118784" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_059.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_059.mp3" length="18118784" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 059</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 060
-      A. Choosing Your Battles
-      B. Your Money Or Your Life</title>
+A. Choosing Your Battles
+B. Your Money Or Your Life</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_060.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17782912" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_060.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_060.mp3" length="17782912" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 060</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 061
-      A. Mysterious Origins
-      B. Skeletons in the Closet</title>
+A. Mysterious Origins
+B. Skeletons in the Closet</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_061.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_061.mp3" length="18167936"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_061.mp3" length="18167936" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 061</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 062
-      A. Sotton - Friend Or Foe
-      B. Hiding From the Sotton</title>
+A. Sotton - Friend Or Foe
+B. Hiding From the Sotton</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_062.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17772672" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_062.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_062.mp3" length="17772672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 062</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 063
-      A. Ignorance Of the Law
-      B. Swords, Friends And Bechira - the Connection</title>
+A. Ignorance Of the Law
+B. Swords, Friends And Bechira - the Connection</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_063.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18894848" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_063.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_063.mp3" length="18894848" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 063</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 064
-      A. Women - Protectors Of Klal Yisroel
-      B. Women - Greater Insight/ Lighter Daas</title>
+A. Women - Protectors Of Klal Yisroel
+B. Women - Greater Insight/ Lighter Daas</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_064.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18401408" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_064.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_064.mp3" length="18401408" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 064</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 065
-      A. Feminism
-      B. Perfect Conduct For Yom Hadin - Just a Show?</title>
+A. Feminism
+B. Perfect Conduct For Yom Hadin - Just a Show?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_065.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_065.mp3" length="18706560" type="audio/mpeg"/>
@@ -667,18 +667,18 @@
     </item>
     <item>
       <title>On Chumash 066
-      A. The World Trade Center
-      B. Israel&amp; Peace Treaties</title>
+A. The World Trade Center
+B. Israel&amp; Peace Treaties</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_066.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18399360" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_066.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_066.mp3" length="18399360" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 066</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 067
-      A. Buying Your Enemies
-      B. A Message For the UN</title>
+A. Buying Your Enemies
+B. A Message For the UN</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_067.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_067.mp3" length="16593024" type="audio/mpeg"/>
@@ -687,38 +687,38 @@
     </item>
     <item>
       <title>On Chumash 068
-      A. The Most Difficult Test
-      B. Logic &amp; Yiras Shomayim</title>
+A. The Most Difficult Test
+B. Logic &amp; Yiras Shomayim </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_068.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_068.mp3" length="17643648"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_068.mp3" length="17643648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 068</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 069
-      A. Modern Applications Of the Akaida
-      B. The Jamming Device</title>
+A. Modern Applications Of the Akaida
+B. The Jamming Device</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_069.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16892032" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_069.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_069.mp3" length="16892032" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 069</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:32 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 070
-      A. Of Men &amp; Donkeys
-      B. Vacation For the Sotton</title>
+A. Of Men &amp; Donkeys
+B. Vacation For the Sotton</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_070.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17727616" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_070.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_070.mp3" length="17727616" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 070</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 071
-      A. Learning Out Of Town Vs. Kibud Of Parents
-      B. Marriage: the Age</title>
+A. Learning Out Of Town Vs. Kibud Of Parents
+B. Marriage: the Age</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_071.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_071.mp3" length="18350208" type="audio/mpeg"/>
@@ -727,8 +727,8 @@
     </item>
     <item>
       <title>On Chumash 072
-      A. Beauty - the Dangers
-      B. The Right Place at the Right Time</title>
+A. Beauty - the Dangers
+B. The Right Place at the Right Time</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_072.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_072.mp3" length="17442944" type="audio/mpeg"/>
@@ -737,28 +737,28 @@
     </item>
     <item>
       <title>On Chumash 073
-      A. Moods And the Affect On Others
-      B. Rothschild And Napoleon</title>
+A. Moods And the Affect On Others
+B. Rothschild And Napoleon</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_073.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17903744" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_073.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_073.mp3" length="17903744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 073</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 074
-      A. The Advantage Of Looking Your Age
-      B. Do You Know Where Your Children Are</title>
+A. The Advantage Of Looking Your Age
+B. Do You Know Where Your Children Are</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_074.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18481280" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_074.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_074.mp3" length="18481280" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 074</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 075
-      A. The Shidduch: How To Choose the Family
-      B. The Antidote</title>
+A. The Shidduch: How To Choose the Family
+B. The Antidote</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_075.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_075.mp3" length="18882688" type="audio/mpeg"/>
@@ -767,48 +767,48 @@
     </item>
     <item>
       <title>On Chumash 076
-      A. Subjective Decisions
-      B. Magic</title>
+A. Subjective Decisions
+B. Magic</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_076.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_076.mp3" length="17645696"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_076.mp3" length="17645696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 076</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 077
-      A. Superstition 
-      B. Wishful Thinking</title>
+A. Superstition 
+B. Wishful Thinking</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_077.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_077.mp3" length="17215616"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_077.mp3" length="17215616" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 077</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 078
-      A. Are They Taking Advantage Of Me?
-      B. The Elusive Phone Call</title>
+A. Are They Taking Advantage Of Me?
+B. The Elusive Phone Call</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_078.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16713856" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_078.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_078.mp3" length="16713856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 078</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 079
-      A. Point Of Bechira
-      B. Night Calculations</title>
+A. Point Of Bechira
+B. Night Calculations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_079.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_079.mp3" length="17981568"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_079.mp3" length="17981568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 079</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 080
-      A. Tips For Shadchanim
-      B. Money For the in - Laws</title>
+A. Tips For Shadchanim
+B. Money For the in - Laws</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_080.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_080.mp3" length="17199232" type="audio/mpeg"/>
@@ -817,18 +817,18 @@
     </item>
     <item>
       <title>On Chumash 081
-      A. Solutions For Anti - Semitism
-      B. A Unique Spousal Relationship</title>
+A. Solutions For Anti - Semitism
+B. A Unique Spousal Relationship</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_081.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18983040" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_081.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_081.mp3" length="18983040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 081</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:33 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 082
-      A. Trailblazing Within the Mesorah
-      B. True Motives Of Eisav in Kibud Av</title>
+A. Trailblazing Within the Mesorah
+B. True Motives Of Eisav in Kibud Av</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_082.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_082.mp3" length="18203136" type="audio/mpeg"/>
@@ -837,31 +837,31 @@
     </item>
     <item>
       <title>On Chumash 083
-      A. Don't Confuse My Theory with Facts
-      B. Hatred Of Eisav Vs. Hatred Of Yishmael</title>
+A. Don't Confuse My Theory with Facts
+B. Hatred Of Eisav Vs. Hatred Of Yishmael</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_083.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_083.mp3" length="17760384"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_083.mp3" length="17760384" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 083</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:34 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 084
-      A. An Alliance Between Eisav And Yishmael
-      B. Making the Will Of Hashem Your Desire</title>
+A. An Alliance Between Eisav And Yishmael
+B. Making the Will Of Hashem Your Desire</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_084.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18667648" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_084.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_084.mp3" length="18667648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 084</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:34 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 085
-      A. Modern Famine
-      B. Helping a Rasha</title>
+A. Modern Famine
+B. Helping a Rasha</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_085.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17195136" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_085.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_085.mp3" length="17195136" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 085</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:34 -0400</pubDate>
     </item>
@@ -869,14 +869,14 @@
       <title>On Chumash 086</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_086.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_086.mp3" length="16410752"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_086.mp3" length="16410752" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 086</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:19 -0500</pubDate>
     </item>
     <item>
       <title>On Chumash 087
-      A. The Effective Curse
-      B. Is Your Mission Accomplished?</title>
+A. The Effective Curse
+B. Is Your Mission Accomplished?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_087.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_087.mp3" length="15554688" type="audio/mpeg"/>
@@ -885,18 +885,18 @@
     </item>
     <item>
       <title>On Chumash 088
-      A. Torah &amp; Money in One Place
-      B. The "Insurance Policy" Mitzva</title>
+A. Torah &amp; Money in One Place
+B. The "Insurance Policy" Mitzva</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_088.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16341120" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_088.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_088.mp3" length="16341120" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 088</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:34 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 089
-      A. Hidden Reasons Behind a Gezeirah
-      B. Difficult Kibud Av V'Eim Scenarios</title>
+A. Hidden Reasons Behind a Gezeirah
+B. Difficult Kibud Av V'Eim Scenarios</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_089.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_089.mp3" length="16947328" type="audio/mpeg"/>
@@ -905,28 +905,28 @@
     </item>
     <item>
       <title>On Chumash 090
-      A. Shidduchim: When To Lower Expectations
-      B. Do the Dead Know What Happens On Earth</title>
+A. Shidduchim: When To Lower Expectations
+B. Do the Dead Know What Happens On Earth</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_090.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_090.mp3" length="18178176"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_090.mp3" length="18178176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 090</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:34 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 091
-      A. The Whole Truth And Nothing But the Truth
-      B. Do You Really Care About Other Yidden</title>
+A. The Whole Truth And Nothing But the Truth
+B. Do You Really Care About Other Yidden</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_091.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_091.mp3" length="18800768"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_091.mp3" length="18800768" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 091</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:34 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 092
-      A. The Stalled Peace Process
-      B. Shortcut To Olam Habbah</title>
+A. The Stalled Peace Process
+B. Shortcut To Olam Habbah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_092.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_092.mp3" length="16026112" type="audio/mpeg"/>
@@ -935,38 +935,38 @@
     </item>
     <item>
       <title>On Chumash 093
-      A. Change in the Mitzvos?
-      B. Unconventional Kiruv</title>
+A. Change in the Mitzvos?
+B. Unconventional Kiruv</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_093.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18204800" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_093.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_093.mp3" length="18204800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 093</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 094
-      A. Tears Of Destruction
-      B. Signs From Heaven</title>
+A. Tears Of Destruction
+B. Signs From Heaven</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_094.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16486528" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_094.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_094.mp3" length="16486528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 094</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 095
-      A. The Fifth Kingdom
-      B. Mitzva To Steal?</title>
+A. The Fifth Kingdom
+B. Mitzva To Steal?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_095.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17219712" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_095.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_095.mp3" length="17219712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 095</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 096
-      A. Photo Finish
-      B. White Lies</title>
+A. Photo Finish
+B. White Lies</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_096.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_096.mp3" length="19032192" type="audio/mpeg"/>
@@ -975,48 +975,48 @@
     </item>
     <item>
       <title>On Chumash 097
-      A. Wake Up And Smell the Coffee
-      B. Fasting Before the Chasunah</title>
+A. Wake Up And Smell the Coffee
+B. Fasting Before the Chasunah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_097.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_097.mp3" length="16668800"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_097.mp3" length="16668800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 097</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 098
-      A. Being Proactive For Mitzvos
-      B. The Escape Of Yaakov Avinu</title>
+A. Being Proactive For Mitzvos
+B. The Escape Of Yaakov Avinu</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_098.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18974848" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_098.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_098.mp3" length="18974848" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 098</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 099
-      A. The Last Fight with Eisav
-      B. Good Neder/ Bad Neder</title>
+A. The Last Fight with Eisav
+B. Good Neder/ Bad Neder</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_099.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16060544" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_099.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_099.mp3" length="16060544" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 099</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 100
-      A. A Small Shidduch Market
-      B. The Caring Punishment</title>
+A. A Small Shidduch Market
+B. The Caring Punishment</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_100.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_100.mp3" length="17246336"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_100.mp3" length="17246336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 100</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 101
-      A. Wiping the Slate Clean
-      B. Who To Associate with</title>
+A. Wiping the Slate Clean
+B. Who To Associate with</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_101.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_101.mp3" length="16670848" type="audio/mpeg"/>
@@ -1025,28 +1025,28 @@
     </item>
     <item>
       <title>On Chumash 102
-      A. Credit Card Report
-      B. Concentration</title>
+A. Credit Card Report
+B. Concentration</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_102.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19546240" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_102.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_102.mp3" length="19546240" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 102</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 103
-      A. Money Matters Between in - Laws
-      B. Marriage Of Siblings in Age Order</title>
+A. Money Matters Between in - Laws
+B. Marriage Of Siblings in Age Order</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_103.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17787008" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_103.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_103.mp3" length="17787008" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 103</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 104
-      A. Your Success &amp; the Discomfort Of Others
-      B. Changing the Shidduch with Tears</title>
+A. Your Success &amp; the Discomfort Of Others
+B. Changing the Shidduch with Tears</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_104.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_104.mp3" length="19490944" type="audio/mpeg"/>
@@ -1055,58 +1055,58 @@
     </item>
     <item>
       <title>On Chumash 105
-      A. Must I Be Friendly To Everyone?
-      B. Beauty And Strength - For Who</title>
+A. Must I Be Friendly To Everyone?
+B. Beauty And Strength - For Who</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_105.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18319488" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_105.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_105.mp3" length="18319488" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 105</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 106
-      A. A New Definition Of "Hatred"
-      B. I Can't Wait - a Look at Proper Timing</title>
+A. A New Definition Of "Hatred"
+B. I Can't Wait - a Look at Proper Timing</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_106.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16875648" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_106.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_106.mp3" length="16875648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 106</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 107
-      A. Getting Back at "the Boss"
-      B. Ahavah By Circumstance</title>
+A. Getting Back at "the Boss"
+B. Ahavah By Circumstance</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_107.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17145984" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_107.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_107.mp3" length="17145984" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 107</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 108
-      A. Kirvah To Relatives
-      B. Practical Jokes</title>
+A. Kirvah To Relatives
+B. Practical Jokes</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_108.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16443520" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_108.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_108.mp3" length="16443520" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 108</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 109
-      A. Modesty Matters
-      B. Spousal Requests</title>
+A. Modesty Matters
+B. Spousal Requests</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_109.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17637504" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_109.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_109.mp3" length="17637504" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 109</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:35 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 110
-      A. Too Late To Daven?
-      B. Going the Extra Mile</title>
+A. Too Late To Daven?
+B. Going the Extra Mile</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_110.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_110.mp3" length="17631360" type="audio/mpeg"/>
@@ -1115,18 +1115,18 @@
     </item>
     <item>
       <title>On Chumash 111
-      A. Blaming Your Children
-      B. Raising 'Other' Children</title>
+A. Blaming Your Children
+B. Raising 'Other' Children</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_111.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_111.mp3" length="16455808"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_111.mp3" length="16455808" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 111</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 112
-      A. Integrity Of Our Mesorah
-      B. Infertility Hashkafa Issues</title>
+A. Integrity Of Our Mesorah
+B. Infertility Hashkafa Issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_112.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_112.mp3" length="17275008" type="audio/mpeg"/>
@@ -1135,48 +1135,48 @@
     </item>
     <item>
       <title>On Chumash 113
-      A. Spending Time with Family Members
-      B. What Children Have a Right To Know</title>
+A. Spending Time with Family Members
+B. What Children Have a Right To Know</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_113.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="15394944" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_113.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_113.mp3" length="15394944" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 113</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 114
-      A. Little Thieves/Big Thieves
-      B. Key To Brilliance - the Story Of the S'Dei Chemed</title>
+A. Little Thieves/Big Thieves
+B. Key To Brilliance - the Story Of the S'Dei Chemed</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_114.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16691328" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_114.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_114.mp3" length="16691328" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 114</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 115
-      A. Sibling Jealousy
-      B. Legal Tricks in Business</title>
+A. Sibling Jealousy
+B. Legal Tricks in Business</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_115.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_115.mp3" length="16584832"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_115.mp3" length="16584832" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 115</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 116
-      A. The Evil Eye
-      B. The Red Bendle</title>
+A. The Evil Eye
+B. The Red Bendle</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_116.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19517568" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_116.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_116.mp3" length="19517568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 116</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 117
-      A. Motivations
-      B. Standards We Set For Ourselves</title>
+A. Motivations
+B. Standards We Set For Ourselves</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_117.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_117.mp3" length="19058816" type="audio/mpeg"/>
@@ -1185,38 +1185,38 @@
     </item>
     <item>
       <title>On Chumash 118
-      A. Pluralism
-      B. Dealing with Non - Frum Relatives</title>
+A. Pluralism
+B. Dealing with Non - Frum Relatives</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_118.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_118.mp3" length="26374272"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_118.mp3" length="26374272" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 118</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 119
-      A. Worry About It Later
-      B. The Important Bribe</title>
+A. Worry About It Later
+B. The Important Bribe</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_119.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16525824" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_119.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_119.mp3" length="16525824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 119</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 120
-      A. The Well Timed Gift
-      B. Nothing To Fear But Fear Itself?</title>
+A. The Well Timed Gift
+B. Nothing To Fear But Fear Itself?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_120.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_120.mp3" length="18352256"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_120.mp3" length="18352256" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 120</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 121
-      A. Logical Decisions And Mesorah 
-      B. Embarrassing Yourself For Good Reasons</title>
+A. Logical Decisions And Mesorah 
+B. Embarrassing Yourself For Good Reasons</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_121.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_121.mp3" length="15362176" type="audio/mpeg"/>
@@ -1225,178 +1225,178 @@
     </item>
     <item>
       <title>On Chumash 122
-      A. Testing a Navi
-      B. Obligations in Marriage Based On Vocation</title>
+A. Testing a Navi
+B. Obligations in Marriage Based On Vocation</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_122.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_122.mp3" length="16722048"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_122.mp3" length="16722048" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 122</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:36 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 123
-      A. Forbidden Dialogue
-      B. The 'Company Rabbi'</title>
+A. Forbidden Dialogue
+B. The 'Company Rabbi'</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_123.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_123.mp3" length="14573696"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_123.mp3" length="14573696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 123</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 124
-      A. Blinding Light Of the Sotton
-      B. Time Is Money</title>
+A. Blinding Light Of the Sotton
+B. Time Is Money</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_124.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16457856" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_124.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_124.mp3" length="16457856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 124</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 125
-      A. What Did I Do To Deserve This?
-      B. Historical Value Of Mitzvos</title>
+A. What Did I Do To Deserve This?
+B. Historical Value Of Mitzvos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_125.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_125.mp3" length="17391744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_125.mp3" length="17391744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 125</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 126
-      A. Having Olam Hazeh And Olam Haboh
-      B. Brains Over Brawn</title>
+A. Having Olam Hazeh And Olam Haboh
+B. Brains Over Brawn</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_126.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16736384" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_126.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_126.mp3" length="16736384" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 126</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 127
-      A. Parshas Vayishlach And Golus
-      B. Protecting Your Assets</title>
+A. Parshas Vayishlach And Golus
+B. Protecting Your Assets</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_127.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_127.mp3" length="17309824"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_127.mp3" length="17309824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 127</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 128
-      A. Shopping Malls And Hakoras Hatov
-      B. Tzenius Issues</title>
+A. Shopping Malls And Hakoras Hatov
+B. Tzenius Issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_128.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15978624" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_128.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_128.mp3" length="15978624" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 128</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 129
-      A. Host Mothers
-      B. Timeless Proofs For Contemporary Questions</title>
+A. Host Mothers
+B. Timeless Proofs For Contemporary Questions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_129.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17096832" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_129.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_129.mp3" length="17096832" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 129</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 130
-      A. Retaliation
-      B. Jewish Pride - at What Cost</title>
+A. Retaliation
+B. Jewish Pride - at What Cost</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_130.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19167360" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_130.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_130.mp3" length="19167360" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 130</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 131
-      A. The Gentile Justice System
-      B. Policing the World</title>
+A. The Gentile Justice System
+B. Policing the World</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_131.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18137216" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_131.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_131.mp3" length="18137216" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 131</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 132
-      A. Extra Mile For Kedusha
-      B. Dangerous Shalom Bayis Devices</title>
+A. Extra Mile For Kedusha
+B. Dangerous Shalom Bayis Devices</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_132.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16722048" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_132.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_132.mp3" length="16722048" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 132</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 133
-      A. The Modern Miracle
-      B. The Righteous Bee</title>
+A. The Modern Miracle
+B. The Righteous Bee</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_133.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16879744" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_133.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_133.mp3" length="16879744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 133</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 134
-      A. Following Orders
-      B. Authority Vs. The Sources</title>
+A. Following Orders
+B. Authority Vs. The Sources</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_134.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17758336" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_134.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_134.mp3" length="17758336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 134</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 135
-      A. Getting Things Done On the Run
-      B. Defending the Honor Of One Parent</title>
+A. Getting Things Done On the Run
+B. Defending the Honor Of One Parent</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_135.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18268288" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_135.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_135.mp3" length="18268288" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 135</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 136
-      A. Power Of Rejection
-      B. Racial Slurs</title>
+A. Power Of Rejection
+B. Racial Slurs</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_136.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_136.mp3" length="19165312"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_136.mp3" length="19165312" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 136</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 137
-      A. Vacations - For Everyone?
-      B. Mules &amp; Nectarines</title>
+A. Vacations - For Everyone?
+B. Mules &amp; Nectarines</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_137.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15767680" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_137.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_137.mp3" length="15767680" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 137</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 138
-      A. Impatience Of Youth
-      B. Creating Animals From Thin Air</title>
+A. Impatience Of Youth
+B. Creating Animals From Thin Air</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_138.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_138.mp3" length="17426560"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_138.mp3" length="17426560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 138</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:37 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 139
-      A. Causing Sibling Rivalry
-      B. Avoiding Evil Decrees</title>
+A. Causing Sibling Rivalry
+B. Avoiding Evil Decrees</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_139.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_139.mp3" length="15837312" type="audio/mpeg"/>
@@ -1405,8 +1405,8 @@
     </item>
     <item>
       <title>On Chumash 140
-      A. Dreams - How Real?
-      B. Peak Halacha From a Dream</title>
+A. Dreams - How Real?
+B. Peak Halacha From a Dream</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_140.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_140.mp3" length="18526336" type="audio/mpeg"/>
@@ -1415,28 +1415,28 @@
     </item>
     <item>
       <title>On Chumash 141
-      A. Limits Of Honoring Parents
-      B. Long Term Care Of Parents</title>
+A. Limits Of Honoring Parents
+B. Long Term Care Of Parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_141.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17772672" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_141.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_141.mp3" length="17772672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 141</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:38 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 142
-      A. 'Curse? Of Shechem
-      B. Nurturing Your Talents</title>
+A. 'Curse? Of Shechem
+B. Nurturing Your Talents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_142.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17408128" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_142.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_142.mp3" length="17408128" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 142</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:38 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 143
-      A. What Simcha Can Attain
-      B. Finding the Silver Lining</title>
+A. What Simcha Can Attain
+B. Finding the Silver Lining </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_143.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_143.mp3" length="17785344" type="audio/mpeg"/>
@@ -1445,18 +1445,18 @@
     </item>
     <item>
       <title>On Chumash 144
-      A. Real Motivations Under Duress
-      B. Which Taxi To Call When Having a Baby</title>
+A. Real Motivations Under Duress
+B. Which Taxi To Call When Having a Baby</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_144.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_144.mp3" length="19183744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_144.mp3" length="19183744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 144</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:38 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 145
-      A. Which Taxi To Call - Part 2
-      B. What To Call in - Laws</title>
+A. Which Taxi To Call - Part 2
+B. What To Call in - Laws</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_145.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_145.mp3" length="17447040" type="audio/mpeg"/>
@@ -1465,8 +1465,8 @@
     </item>
     <item>
       <title>On Chumash 146
-      A. Completing a Mitzva
-      B. Who Has Right To Name the Child</title>
+A. Completing a Mitzva
+B. Who Has Right To Name the Child</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_146.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_146.mp3" length="17016960" type="audio/mpeg"/>
@@ -1475,8 +1475,8 @@
     </item>
     <item>
       <title>On Chumash 147
-      A. Regional Customs in Naming Children
-      B. Sensitive Yetzer Harah Issues</title>
+A. Regional Customs in Naming Children
+B. Sensitive Yetzer Harah Issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_147.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_147.mp3" length="15913088" type="audio/mpeg"/>
@@ -1485,8 +1485,8 @@
     </item>
     <item>
       <title>On Chumash 148
-      A. Depression After the Avayra
-      B. Playmates For Your Children</title>
+A. Depression After the Avayra
+B. Playmates For Your Children</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_148.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_148.mp3" length="18792576" type="audio/mpeg"/>
@@ -1495,18 +1495,18 @@
     </item>
     <item>
       <title>On Chumash 149
-      A. Yehudah And Tamar
-      B. The Devil Made Me Do It?</title>
+A. Yehudah And Tamar
+B. The Devil Made Me Do It?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_149.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17410176" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_149.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_149.mp3" length="17410176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 149</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:38 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 150
-      A. One Harsh Word
-      B. Pushing Unpopular Policies</title>
+A. One Harsh Word
+B. Pushing Unpopular Policies</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_150.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_150.mp3" length="17928320" type="audio/mpeg"/>
@@ -1515,8 +1515,8 @@
     </item>
     <item>
       <title>On Chumash 151
-      A. Powers Of the Jewish King
-      B. The Secret Of Yibum</title>
+A. Powers Of the Jewish King
+B. The Secret Of Yibum</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_151.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_151.mp3" length="16066688" type="audio/mpeg"/>
@@ -1525,18 +1525,18 @@
     </item>
     <item>
       <title>On Chumash 152
-      A. The Road To Gehenom Is Paved with Good Intentions
-      B. Sharing the Simcha Long Distance</title>
+A. The Road To Gehenom Is Paved with Good Intentions
+B. Sharing the Simcha Long Distance</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_152.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_152.mp3" length="17653888"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_152.mp3" length="17653888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 152</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 153
-      A. Beating the Yetzer Harah with Self Esteem
-      B. Yichud at Work</title>
+A. Beating the Yetzer Harah with Self Esteem
+B. Yichud at Work</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_153.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_153.mp3" length="17813632" type="audio/mpeg"/>
@@ -1545,28 +1545,28 @@
     </item>
     <item>
       <title>On Chumash 154
-      A. Respect For the Boss
-      B. Running From the Yetzer Harah</title>
+A. Respect For the Boss
+B. Running From the Yetzer Harah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_154.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16988288" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_154.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_154.mp3" length="16988288" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 154</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 155
-      A. Your Job Description
-      B. A D'Rasha For Napoleon</title>
+A. Your Job Description
+B. A D'Rasha For Napoleon</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_155.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_155.mp3" length="19605632"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_155.mp3" length="19605632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 155</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 156
-      A. Real Bitachon 
-      B. Losing Near the Finish Line</title>
+A. Real Bitachon 
+B. Losing Near the Finish Line</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_156.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_156.mp3" length="18188416" type="audio/mpeg"/>
@@ -1575,38 +1575,38 @@
     </item>
     <item>
       <title>On Chumash 157
-      A. Tools That Cause Trouble
-      B. Political Savvy And Divine Inspiration</title>
+A. Tools That Cause Trouble
+B. Political Savvy And Divine Inspiration</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_157.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16367744" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_157.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_157.mp3" length="16367744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 157</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 158
-      A. Taking It Easy
-      B. The Perfect Mitzva</title>
+A. Taking It Easy
+B. The Perfect Mitzva</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_158.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16896128" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_158.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_158.mp3" length="16896128" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 158</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 159
-      A. "B'Ezras Hashem"- with the Help Of Hashem
-      B. Business Tips From Shady Sources</title>
+A. "B'Ezras Hashem"- with the Help Of Hashem
+B. Business Tips From Shady Sources</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_159.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_159.mp3" length="17567872"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_159.mp3" length="17567872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 159</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 160
-      A. Having Children in Times Of Distress
-      B. "Forgetting" the Pain</title>
+A. Having Children in Times Of Distress
+B. "Forgetting" the Pain</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_160.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_160.mp3" length="16892032" type="audio/mpeg"/>
@@ -1615,8 +1615,8 @@
     </item>
     <item>
       <title>On Chumash 161
-      A. Mila For An Akum
-      B. Concern For All Humans</title>
+A. Mila For An Akum
+B. Concern For All Humans</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_161.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_161.mp3" length="16474240" type="audio/mpeg"/>
@@ -1625,18 +1625,18 @@
     </item>
     <item>
       <title>On Chumash 162
-      A. Staying For Benching 
-      B. The Sotton And Dangerous Situations</title>
+A. Staying For Benching 
+B. The Sotton And Dangerous Situations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_162.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19531904" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_162.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_162.mp3" length="19531904" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 162</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 163
-      A. How Many Required For Kiddush Hashem
-      B. Effort To Fulfill a Prophecy</title>
+A. How Many Required For Kiddush Hashem
+B. Effort To Fulfill a Prophecy</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_163.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_163.mp3" length="18497664" type="audio/mpeg"/>
@@ -1645,28 +1645,28 @@
     </item>
     <item>
       <title>On Chumash 164
-      A. "Truth" Under Pressure
-      B. The Value Of Having Dependents - Only For Tax Brakes?</title>
+A. "Truth" Under Pressure
+B. The Value Of Having Dependents - Only For Tax Brakes?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_164.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18192512" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_164.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_164.mp3" length="18192512" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 164</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 165
-      A. A DNR Story
-      B. Lessons From the Moon</title>
+A. A DNR Story
+B. Lessons From the Moon</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_165.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_165.mp3" length="19667072"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_165.mp3" length="19667072" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 165</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 166
-      A. Signs Of Mazal
-      B. Rules Of Black Magic</title>
+A. Signs Of Mazal
+B. Rules Of Black Magic</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_166.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_166.mp3" length="17670272" type="audio/mpeg"/>
@@ -1675,8 +1675,8 @@
     </item>
     <item>
       <title>On Chumash 167
-      A. Looking For Signs
-      B. Timing Is Everything</title>
+A. Looking For Signs
+B. Timing Is Everything</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_167.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_167.mp3" length="16515200" type="audio/mpeg"/>
@@ -1685,8 +1685,8 @@
     </item>
     <item>
       <title>On Chumash 168
-      A. Wealth And Intelligence
-      B. Dangerous Promises</title>
+A. Wealth And Intelligence
+B. Dangerous Promises</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_168.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_168.mp3" length="18585728" type="audio/mpeg"/>
@@ -1695,78 +1695,78 @@
     </item>
     <item>
       <title>On Chumash 169
-      A. Causing Pain For Good Reason
-      B. Father's Day</title>
+A. Causing Pain For Good Reason
+B. Father's Day</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_169.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15278208" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_169.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_169.mp3" length="15278208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 169</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:39 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 170
-      A. Tefila in Advance
-      B. To Curse the Wicked</title>
+A. Tefila in Advance
+B. To Curse the Wicked</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_170.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17660032" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_170.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_170.mp3" length="17660032" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 170</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 171
-      A. The Title Of "Bobby"
-      B. Money From Akum By Mistake</title>
+A. The Title Of "Bobby"
+B. Money From Akum By Mistake</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_171.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_171.mp3" length="15634560"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_171.mp3" length="15634560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 171</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 172
-      A. Revenge!
-      B. Modern Kibud Av Va'Eim Story</title>
+A. Revenge!
+B. Modern Kibud Av Va'Eim Story</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_172.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_172.mp3" length="18305152"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_172.mp3" length="18305152" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 172</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 173
-      A. Disagreeing with Parents
-      B. The Simcha That Relocated</title>
+A. Disagreeing with Parents
+B. The Simcha That Relocated</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_173.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17461376" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_173.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_173.mp3" length="17461376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 173</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 174
-      A. "Potter" Syndrome
-      B. One Minute at a Time</title>
+A. "Potter" Syndrome
+B. One Minute at a Time</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_174.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16230528" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_174.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_174.mp3" length="16230528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 174</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 175
-      A. Human Logic And Divine Logic
-      B. Answering Shidduch Questions</title>
+A. Human Logic And Divine Logic
+B. Answering Shidduch Questions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_175.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_175.mp3" length="19044480"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_175.mp3" length="19044480" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 175</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 176
-      A. Parameters Of Bending the Truth
-      B. Starting Up with a Widow</title>
+A. Parameters Of Bending the Truth
+B. Starting Up with a Widow</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_176.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_176.mp3" length="17172608" type="audio/mpeg"/>
@@ -1775,8 +1775,8 @@
     </item>
     <item>
       <title>On Chumash 177
-      A. Convincing Someone To Sell His House
-      B. Opportunities For Kiddush Hashem</title>
+A. Convincing Someone To Sell His House
+B. Opportunities For Kiddush Hashem</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_177.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_177.mp3" length="16435328" type="audio/mpeg"/>
@@ -1785,38 +1785,38 @@
     </item>
     <item>
       <title>On Chumash 178
-      A. Finders Keepers
-      B. The Heavenly Videotape</title>
+A. Finders Keepers
+B. The Heavenly Videotape</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_178.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_178.mp3" length="15605888"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_178.mp3" length="15605888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 178</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 179
-      A. Returning Lost Objects To An Akum
-      B. My Son the Viceroy</title>
+A. Returning Lost Objects To An Akum
+B. My Son the Viceroy</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_179.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_179.mp3" length="19273856"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_179.mp3" length="19273856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 179</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 180
-      A. Bad Inventions - Kosher Actions
-      B. The Heter To Leave Eretz Yisroel</title>
+A. Bad Inventions - Kosher Actions
+B. The Heter To Leave Eretz Yisroel</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_180.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18555008" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_180.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_180.mp3" length="18555008" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 180</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 181
-      A. Chumros Your Parents Don't Like
-      B. Chumros As a Deterrent</title>
+A. Chumros Your Parents Don't Like
+B. Chumros As a Deterrent</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_181.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_181.mp3" length="18518144" type="audio/mpeg"/>
@@ -1825,178 +1825,178 @@
     </item>
     <item>
       <title>On Chumash 182
-      A. Gambling On Chanukah
-      B. A Long View Of History</title>
+A. Gambling On Chanukah
+B. A Long View Of History</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_182.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_182.mp3" length="18667648"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_182.mp3" length="18667648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 182</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 183
-      A. Mixed Emotions
-      B. The Gilgul Of Yosef Hatzadik</title>
+A. Mixed Emotions
+B. The Gilgul Of Yosef Hatzadik</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_183.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17787008" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_183.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_183.mp3" length="17787008" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 183</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 184
-      A. Showing Favoritism To Children
-      B. Sending Off Your Guest</title>
+A. Showing Favoritism To Children
+B. Sending Off Your Guest</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_184.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18894848" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_184.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_184.mp3" length="18894848" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 184</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 185
-      A. Davening with Your Father
-      B. Who Decides Company Policy?</title>
+A. Davening with Your Father
+B. Who Decides Company Policy?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_185.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17348736" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_185.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_185.mp3" length="17348736" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 185</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 186
-      A. Miracles Mentioned in the Torah
-      B. Blocking Someone's Car</title>
+A. Miracles Mentioned in the Torah
+B. Blocking Someone's Car</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_186.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="15579264" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_186.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_186.mp3" length="15579264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 186</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 187
-      A. Straight As An Arrow
-      B. The Cornerstone Of the Community</title>
+A. Straight As An Arrow
+B. The Cornerstone Of the Community</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_187.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16904320" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_187.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_187.mp3" length="16904320" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 187</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:40 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 188
-      A. Unconditional Love For Children
-      B. Directing Your Joy</title>
+A. Unconditional Love For Children
+B. Directing Your Joy</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_188.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17412224" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_188.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_188.mp3" length="17412224" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 188</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 189
-      A. The Complaint Of Yaakov Avinu
-      B. Absorbing Tzaros L"a</title>
+A. The Complaint Of Yaakov Avinu
+B. Absorbing Tzaros L"a</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_189.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_189.mp3" length="15888516"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_189.mp3" length="15888516" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 189</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 190
-      A. Employees And Slaves
-      B. Taking Advantage Of Commoners</title>
+A. Employees And Slaves
+B. Taking Advantage Of Commoners</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_190.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17371264" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_190.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_190.mp3" length="17371264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 190</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 191
-      A. Foresight To Prevent Assimilation
-      B. How Many Should Sit And Learn?</title>
+A. Foresight To Prevent Assimilation
+B. How Many Should Sit And Learn?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_191.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_191.mp3" length="17545344"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_191.mp3" length="17545344" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 191</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 192
-      A. 16% For Learning
-      B. Where To Be Buried</title>
+A. 16% For Learning
+B. Where To Be Buried</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_192.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17369216" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_192.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_192.mp3" length="17369216" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 192</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 193
-      A. Davening Before And After the Moment
-      B. Jews of Quality And Quantity</title>
+A. Davening Before And After the Moment
+B. Jews of Quality And Quantity</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_193.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_193.mp3" length="19155072"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_193.mp3" length="19155072" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 193</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 194
-      A. Asking Malachim To Intercede
-      B. Adding To Your Tefilos</title>
+A. Asking Malachim To Intercede
+B. Adding To Your Tefilos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_194.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_194.mp3" length="17574016"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_194.mp3" length="17574016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 194</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 195
-      A. The Date Of Moshiach
-      B. Buckling Under Pressure</title>
+A. The Date Of Moshiach
+B. Buckling Under Pressure</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_195.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18374784" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_195.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_195.mp3" length="18374784" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 195</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 196
-      A. Replacement For a Lost Tribe
-      B. Did Yaakov Avinu Know Yosef Was Sold By His Brothers?</title>
+A. Replacement For a Lost Tribe
+B. Did Yaakov Avinu Know Yosef Was Sold By His Brothers?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_196.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_196.mp3" length="19363968"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_196.mp3" length="19363968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 196</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 197
-      A. Stopping An Intermarriage
-      B. Spreading the Zealots Around</title>
+A. Stopping An Intermarriage
+B. Spreading the Zealots Around</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_197.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16789632" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_197.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_197.mp3" length="16789632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 197</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 198
-      A. Admitting a Mistake
-      B. Why Are We Called Yihudim</title>
+A. Admitting a Mistake
+B. Why Are We Called Yihudim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_198.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18010240" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_198.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_198.mp3" length="18010240" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 198</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 199
-      A. Yichus Of the Melech Hamoshiach
-      B. Who Should Be King?</title>
+A. Yichus Of the Melech Hamoshiach
+B. Who Should Be King?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_199.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_199.mp3" length="18819200" type="audio/mpeg"/>
@@ -2005,148 +2005,148 @@
     </item>
     <item>
       <title>On Chumash 200
-      A. Putting On a Positive Attitude
-      B. The Yissachar Zevulun Relationship</title>
+A. Putting On a Positive Attitude
+B. The Yissachar Zevulun Relationship</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_200.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20015232" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_200.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_200.mp3" length="20015232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 200</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 201
-      A. Starting Marriage in Kollel - For Whom?
-      B. One Moshiach Or Two?</title>
+A. Starting Marriage in Kollel - For Whom?
+B. One Moshiach Or Two?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_201.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20979840" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_201.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_201.mp3" length="20979840" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 201</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 202
-      A. Oil in Eretz Yisroel
-      B. Finding Favor with Others</title>
+A. Oil in Eretz Yisroel
+B. Finding Favor with Others</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_202.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16611456" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_202.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_202.mp3" length="16611456" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 202</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 203
-      A. How To Save Oneself From Ayin Hora
-      B. How To Deal with Jealousy</title>
+A. How To Save Oneself From Ayin Hora
+B. How To Deal with Jealousy</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_203.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16011392" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_203.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_203.mp3" length="16011392" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 203</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 204
-      A. Directions For the Expecting Mother
-      B. Reading Material For Our Children</title>
+A. Directions For the Expecting Mother
+B. Reading Material For Our Children</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_204.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_204.mp3" length="17213568"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_204.mp3" length="17213568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 204</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:41 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 205
-      A. Not Holding a Grudge
-      B. Halachik Wills</title>
+A. Not Holding a Grudge
+B. Halachik Wills</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_205.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_205.mp3" length="19173504"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_205.mp3" length="19173504" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 205</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 206
-      A. Mummies
-      B. Why Did Yosef Hatzadik Die Before His Brothers</title>
+A. Mummies
+B. Why Did Yosef Hatzadik Die Before His Brothers</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_206.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_206.mp3" length="18405504"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_206.mp3" length="18405504" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 206</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 207
-      A. Monetary Incentives For Mitzvos
-      B. How the Yetzer Hora Slowly Drags Us In</title>
+A. Monetary Incentives For Mitzvos
+B. How the Yetzer Hora Slowly Drags Us In</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_207.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="15988864" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_207.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_207.mp3" length="15988864" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 207</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 208
-      A. Reward For Every Detail
-      B. Issues Of Kavod For Others</title>
+A. Reward For Every Detail
+B. Issues Of Kavod For Others</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_208.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17064064" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_208.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_208.mp3" length="17064064" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 208</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 209
-      A. Humility Before Rishonim
-      B. Laws And Minhagim Of the Sandik</title>
+A. Humility Before Rishonim
+B. Laws And Minhagim Of the Sandik</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_209.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_209.mp3" length="16771200"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_209.mp3" length="16771200" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 209</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 210
-      A. How To Pick a Sandik
-      B. The Difference Between Ito And Imo</title>
+A. How To Pick a Sandik
+B. The Difference Between Ito And Imo</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_210.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17207424" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_210.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_210.mp3" length="17207424" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 210</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 211
-      A. David Hamelech And the Beis Hamikdash
-      B. Why Start with Bireishis</title>
+A. David Hamelech And the Beis Hamikdash
+B. Why Start with Bireishis</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_211.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_211.mp3" length="20011136"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_211.mp3" length="20011136" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 211</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 212
-      A. How Does Klal Yisroel Survive
-      B. The Hashkafos That Are Not Fit To Print</title>
+A. How Does Klal Yisroel Survive
+B. The Hashkafos That Are Not Fit To Print</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_212.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20985984" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_212.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_212.mp3" length="20985984" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 212</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 213
-      A. Kollel Revisited
-      B. Learning Lishmo</title>
+A. Kollel Revisited
+B. Learning Lishmo</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_213.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="16486528" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_213.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_213.mp3" length="16486528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Chumash/On Chumash 213</guid>
       <pubDate>Sun, 19 Aug 2012 18:04:42 -0400</pubDate>
     </item>
     <item>
       <title>On Chumash 214
-      A. Secrets Of Creation 
-      B. Complainers</title>
+A. Secrets Of Creation 
+B. Complainers</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_214.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Chumash/On_Chumash_214.mp3" length="16312448" type="audio/mpeg"/>

@@ -22,6 +22,26 @@ SNAP = os.environ.get('TS_WWW_SNAPSHOT',
          os.path.join(SITE, '..', 'repos', 'www.torahstream.org'))
 ITUNES = '{http://www.itunes.com/dtds/podcast-1.0.dtd}'
 
+# ---------- navigation overlay (categories / families / display) ----------
+# Curated in scripts/categories.json (taxonomy settled 2026-11-05). The
+# join key is the FAMILY id (topic id minus a trailing _57xx year), so a
+# new year of an assigned family inherits its category automatically; a
+# topic with no entry defaults to 'other' and is named in a warning at
+# the end of the run (the untagged-series report).
+OVERLAY = json.load(open(os.path.join(SITE, 'scripts', 'categories.json')))
+YEAR_RE = re.compile(r'^(.*)_(57\d\d)$')
+def split_family(tid):
+    m = YEAR_RE.match(tid)
+    return (m.group(1), m.group(2)) if m else (tid, '')
+unassigned = []
+def categorize(tid):
+    fam, _yr = split_family(tid)
+    cat = OVERLAY['assign'].get(fam) or OVERLAY['assign'].get(tid)
+    if cat is None:
+        unassigned.append(tid)
+        cat = 'other'
+    return cat
+
 def w(path, data, binary=False):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'wb' if binary else 'w') as f: f.write(data)
@@ -57,9 +77,12 @@ for t in vt:
     for e in eps:
         m = re.match(r'(\d{4}-\d{2}-\d{2})', e.get('Title', '')) or re.search(r'(\d{4}-\d{2}-\d{2})', e.get('audio', ''))
         if m: dates.append(m.group(1))
+    fam, yr = split_family(tid)
     topics.append({'rabbi': 'viener', 'dir': 'Rabbi_Viener', 'id': tid,
                    'title': t['title'], 'count': t['count'], 'size': t['size'],
-                   'has_video': has_video, 'last': max(dates) if dates else ''})
+                   'has_video': has_video, 'last': max(dates) if dates else '',
+                   'category': categorize(tid), 'family': fam, 'year': yr,
+                   'listing_title': OVERLAY['display'].get(tid, '')})
     # content files are written after the ongoing flags are computed (below)
 w(os.path.join(SITE, 'content', 'Rabbi_Viener', '_index.md'),
   '---\ntitle: "Rabbi Yosef Viener — Shiurim"\n---\n')
@@ -80,13 +103,22 @@ for t in topics:
 # their page (template reads the flag); historic series stay oldest-first.
 for t in topics:
     fm = ('---\ntitle: %s\ntype: "topic"\nrabbi: "viener"\ntopic_id: "%s"\n'
-          'count: %d\nhas_video: %s\nongoing: %s\n---\n' %
+          'count: %d\nhas_video: %s\nongoing: %s\ncategory: "%s"\n'
+          'family: %s\nyear: "%s"\nlisting_title: %s\n---\n' %
           (json.dumps(t['title']), t['id'], t['count'],
-           str(t['has_video']).lower(), str(t['ongoing']).lower()))
+           str(t['has_video']).lower(), str(t['ongoing']).lower(),
+           t['category'], json.dumps(t['family']), t['year'],
+           json.dumps(t['listing_title'])))
     w(os.path.join(SITE, 'content', t['dir'], t['id'] + '.md'), fm)
 w(os.path.join(SITE, 'data', 'topics.json'), json.dumps(topics, indent=1))
+w(os.path.join(SITE, 'data', 'categories.json'),
+  json.dumps({'categories': OVERLAY['categories'],
+              'family_names': OVERLAY['family_names']}, indent=1))
 w(os.path.join(SITE, 'content', '_index.md'), '---\ntitle: "TorahStream"\n---\n')
 w(os.path.join(SITE, 'content', 'search.md'),
   '---\ntitle: "Search shiurim"\ntype: "search"\n---\n')
 total_eps = sum(t['count'] for t in topics)
 print(f"ingested {len(topics)} topics, {total_eps} episodes")
+if unassigned:
+    print("WARNING: topics with no category assignment (defaulted to "
+          "'other'):", ", ".join(sorted(unassigned)))

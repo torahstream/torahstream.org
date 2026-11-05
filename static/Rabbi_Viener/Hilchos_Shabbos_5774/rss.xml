@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Hilchos Shabbos 5774</title>
     <link>https://www.torahstream.org/#/topic/Hilchos_Shabbos_5774</link>
     <description>Hilchos Shabbos 5774</description>
@@ -19,7 +19,7 @@
       <title>2013-10-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-02.mp3" type="audio/mpeg" length="12491264"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-02.mp3" length="12491264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-02</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:19 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2013-10-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14236672" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-07.mp3" length="14236672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-07</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:19 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2013-10-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12746752" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-09.mp3" length="12746752" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-09</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:20 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2013-10-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15033344" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-15.mp3" length="15033344" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-15</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:21 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2013-10-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13644800" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-16.mp3" length="13644800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-16</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:22 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2013-10-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-21.mp3" type="audio/mpeg" length="12105728"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-21.mp3" length="12105728" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-21</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:22 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2013-10-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-28.mp3" type="audio/mpeg" length="12611584"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-28.mp3" length="12611584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-28</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:25 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2013-10-29 Hilchos Shabbos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="1679488" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-29.mp3" length="1679488" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-29</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:25 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2013-10-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-30.mp3" type="audio/mpeg" length="14355456"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-10-30.mp3" length="14355456" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-10-30</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:31 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2013-11-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-04.mp3" type="audio/mpeg" length="13327872"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-04.mp3" length="13327872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-04</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:32 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2013-11-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12418560" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-06.mp3" length="12418560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-06</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:35 -0400</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2013-11-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13576704" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-11.mp3" length="13576704" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-11</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:36 -0400</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2013-11-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11741696" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-12.mp3" length="11741696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-12</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:37 -0400</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2013-11-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-19.mp3" type="audio/mpeg" length="13728256"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-19.mp3" length="13728256" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-19</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:39 -0400</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2013-11-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12259328" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-20.mp3" length="12259328" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-20</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:39 -0400</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2013-11-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-26.mp3" type="audio/mpeg" length="14742528"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-26.mp3" length="14742528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-26</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:40 -0400</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2013-11-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-27.mp3" type="audio/mpeg" length="12197888"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-11-27.mp3" length="12197888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-11-27</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:41 -0400</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2013-12-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12773888" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-09.mp3" length="12773888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-12-09</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:42 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2013-12-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12225536" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-10.mp3" length="12225536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-12-10</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:42 -0400</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2013-12-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-11.mp3" type="audio/mpeg" length="14057984"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-11.mp3" length="14057984" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-12-11</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:43 -0400</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2013-12-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12830720" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-16.mp3" length="12830720" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-12-16</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:43 -0400</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2013-12-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13522432" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-18.mp3" length="13522432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-12-18</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:44 -0400</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2013-12-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12195840" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2013-12-23.mp3" length="12195840" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2013-12-23</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:45 -0400</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2014-01-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11194880" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-08.mp3" length="11194880" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-01-08</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:46 -0400</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2014-01-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12118528" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-13.mp3" length="12118528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-01-13</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:49 -0400</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2014-01-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11604480" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-20.mp3" length="11604480" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-01-20</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:50 -0400</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2014-01-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-21.mp3" type="audio/mpeg" length="9422336"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-01-21.mp3" length="9422336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-01-21</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:51 -0400</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2014-02-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12440064" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-12.mp3" length="12440064" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-02-12</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:51 -0400</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2014-02-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13220352" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-17.mp3" length="13220352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-02-17</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:52 -0400</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2014-02-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-24.mp3" type="audio/mpeg" length="10483712"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-24.mp3" length="10483712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-02-24</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:56 -0400</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2014-02-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12138496" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-25.mp3" length="12138496" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-02-25</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:56 -0400</pubDate>
     </item>
@@ -355,7 +355,7 @@
       <title>2014-02-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13150208" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-02-26.mp3" length="13150208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-02-26</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:57 -0400</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2014-03-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-03.mp3" type="audio/mpeg" length="12072960"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-03.mp3" length="12072960" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-03</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:57 -0400</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2014-03-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-04.mp3" type="audio/mpeg" length="11127808"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-04.mp3" length="11127808" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-04</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:58 -0400</pubDate>
     </item>
@@ -379,7 +379,7 @@
       <title>2014-03-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12545024" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-05.mp3" length="12545024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-05</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:58 -0400</pubDate>
     </item>
@@ -387,7 +387,7 @@
       <title>2014-03-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="10323456" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-17.mp3" length="10323456" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-17</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:59 -0400</pubDate>
     </item>
@@ -395,7 +395,7 @@
       <title>2014-03-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="10842112" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-18.mp3" length="10842112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-18</guid>
       <pubDate>Thu, 19 Jun 2014 09:51:59 -0400</pubDate>
     </item>
@@ -403,7 +403,7 @@
       <title>2014-03-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-19.mp3" type="audio/mpeg" length="12962816"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-19.mp3" length="12962816" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-19</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:00 -0400</pubDate>
     </item>
@@ -411,7 +411,7 @@
       <title>2014-03-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12685824" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-24.mp3" length="12685824" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-24</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:01 -0400</pubDate>
     </item>
@@ -427,7 +427,7 @@
       <title>2014-03-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12272640" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-26.mp3" length="12272640" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-26</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:01 -0400</pubDate>
     </item>
@@ -435,7 +435,7 @@
       <title>2014-03-31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12424704" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-31.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-03-31.mp3" length="12424704" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-03-31</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:07 -0400</pubDate>
     </item>
@@ -443,7 +443,7 @@
       <title>2014-04-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11606016" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-01.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-01.mp3" length="11606016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-04-01</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:09 -0400</pubDate>
     </item>
@@ -451,7 +451,7 @@
       <title>2014-04-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-02.mp3" type="audio/mpeg" length="12162048"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-02.mp3" length="12162048" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-04-02</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:10 -0400</pubDate>
     </item>
@@ -459,7 +459,7 @@
       <title>2014-04-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-07.mp3" type="audio/mpeg" length="12062208"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-07.mp3" length="12062208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-04-07</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:10 -0400</pubDate>
     </item>
@@ -467,7 +467,7 @@
       <title>2014-04-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-28.mp3" type="audio/mpeg" length="12573696"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-28.mp3" length="12573696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-04-28</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:11 -0400</pubDate>
     </item>
@@ -475,7 +475,7 @@
       <title>2014-04-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11802112" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-29.mp3" length="11802112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-04-29</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:14 -0400</pubDate>
     </item>
@@ -483,7 +483,7 @@
       <title>2014-04-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11069440" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-30.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-04-30.mp3" length="11069440" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-04-30</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:15 -0400</pubDate>
     </item>
@@ -491,7 +491,7 @@
       <title>2014-05-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12210688" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-05.mp3" length="12210688" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-05</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:15 -0400</pubDate>
     </item>
@@ -499,7 +499,7 @@
       <title>2014-05-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11506176" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-06.mp3" length="11506176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-06</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:16 -0400</pubDate>
     </item>
@@ -507,7 +507,7 @@
       <title>2014-05-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11269632" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-07.mp3" length="11269632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-07</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:17 -0400</pubDate>
     </item>
@@ -523,7 +523,7 @@
       <title>2014-05-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-13.mp3" type="audio/mpeg" length="11777024"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-13.mp3" length="11777024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-13</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:18 -0400</pubDate>
     </item>
@@ -531,7 +531,7 @@
       <title>2014-05-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12217344" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-14.mp3" length="12217344" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-14</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:19 -0400</pubDate>
     </item>
@@ -539,7 +539,7 @@
       <title>2014-05-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12666368" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-19.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-19.mp3" length="12666368" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-19</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:19 -0400</pubDate>
     </item>
@@ -547,7 +547,7 @@
       <title>2014-05-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12112384" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-20.mp3" length="12112384" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-20</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:20 -0400</pubDate>
     </item>
@@ -555,7 +555,7 @@
       <title>2014-05-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11790336" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-21.mp3" length="11790336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-21</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:20 -0400</pubDate>
     </item>
@@ -563,7 +563,7 @@
       <title>2014-05-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11527168" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-26.mp3" length="11527168" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-26</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:21 -0400</pubDate>
     </item>
@@ -579,7 +579,7 @@
       <title>2014-05-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13181952" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-28.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-05-28.mp3" length="13181952" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-05-28</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:22 -0400</pubDate>
     </item>
@@ -587,7 +587,7 @@
       <title>2014-06-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-09.mp3" type="audio/mpeg" length="12931072"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-09.mp3" length="12931072" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-06-09</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:23 -0400</pubDate>
     </item>
@@ -611,7 +611,7 @@
       <title>2014-06-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-16.mp3" type="audio/mpeg" length="11211776"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-16.mp3" length="11211776" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-06-16</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:25 -0400</pubDate>
     </item>
@@ -619,7 +619,7 @@
       <title>2014-06-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12275712" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-17.mp3" length="12275712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-06-17</guid>
       <pubDate>Thu, 19 Jun 2014 09:52:26 -0400</pubDate>
     </item>
@@ -627,7 +627,7 @@
       <title>2014-06-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11585536" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-23.mp3" length="11585536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-06-23</guid>
       <pubDate>Mon, 23 Jun 2014 21:50:05 -0400</pubDate>
     </item>
@@ -635,7 +635,7 @@
       <title>2014-06-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11033088" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-24.mp3" length="11033088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-06-24</guid>
       <pubDate>Tue, 24 Jun 2014 21:50:09 -0400</pubDate>
     </item>
@@ -651,7 +651,7 @@
       <title>2014-06-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-30.mp3" type="audio/mpeg" length="13240320"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Shabbos_5774/2014-06-30.mp3" length="13240320" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Shabbos 5774/2014-06-30</guid>
       <pubDate>Mon, 30 Jun 2014 21:51:41 -0400</pubDate>
     </item>

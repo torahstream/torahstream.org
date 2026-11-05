@@ -6,4 +6,8 @@ topic_id: "Bechukoseichem_5777"
 count: 72
 has_video: true
 ongoing: false
+category: "contemporary"
+family: "Bechukoseichem"
+year: "5777"
+listing_title: ""
 ---

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5776/vodcast.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5776/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5776</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5776</link>
     <description>Around The Year 5776</description>
@@ -19,7 +19,7 @@
       <title>2015-09-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-06.m4v" type="video/x-m4v" length="40639916"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2015-09-06.m4v" length="40639916" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2015-09-06</guid>
       <pubDate>Sun, 06 Sep 2015 01:03:53 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2016-05-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-05-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="108882022" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-05-30.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5776/2016-05-30.m4v" length="108882022" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5776/2016-05-30</guid>
       <pubDate>Thu, 22 Sep 2016 21:08:24 -0400</pubDate>
     </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Sanhedrin_5774/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Sanhedrin_5774/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Sanhedrin 5774</title>
     <link>https://www.torahstream.org/#/topic/Sanhedrin_5774</link>
     <description>Sanhedrin 5774</description>
@@ -27,7 +27,7 @@
       <title>2013-10-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-10-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19113984" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-10-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/2013-10-06.mp3" length="19113984" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5774/2013-10-06</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:34 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>20130825 Sanhedrin</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/20130825.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18270336" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/20130825.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5774/20130825.mp3" length="18270336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5774/20130825</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:35 -0400</pubDate>
     </item>

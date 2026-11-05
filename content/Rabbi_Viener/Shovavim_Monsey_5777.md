@@ -6,4 +6,8 @@ topic_id: "Shovavim_Monsey_5777"
 count: 5
 has_video: true
 ongoing: false
+category: "shovavim"
+family: "Shovavim_Monsey"
+year: "5777"
+listing_title: ""
 ---

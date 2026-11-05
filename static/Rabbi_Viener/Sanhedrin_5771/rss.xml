@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Sanhedrin_5771/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Sanhedrin_5771/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Sanhedrin 5771</title>
     <link>https://www.torahstream.org/#/topic/Sanhedrin_5771</link>
     <description>Sanhedrin 5771</description>
@@ -19,7 +19,7 @@
       <title>2011-02-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-02-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18499726" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-02-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-02-20.mp3" length="18499726" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-02-20</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:39 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2011-03-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-03-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19541907" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-03-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-03-27.mp3" length="19541907" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-03-27</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:42 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2011-04-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-04-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20870390" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-04-03.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-04-03.mp3" length="20870390" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-04-03</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:43 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2011-04-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-04-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="23386296" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-04-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-04-10.mp3" length="23386296" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-04-10</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:48 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2011-05-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-05-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21614149" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-05-08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-05-08.mp3" length="21614149" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-05-08</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:50 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2011-05-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-05-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20954191" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-05-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-05-15.mp3" length="20954191" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-05-15</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:51 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2011-06-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21469535" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-05.mp3" length="21469535" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-06-05</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:54 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2011-06-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="24346975" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-12.mp3" length="24346975" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-06-12</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:55 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2011-06-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17215337" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-19.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-19.mp3" length="17215337" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-06-19</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:55 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2011-06-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13844497" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-06-26.mp3" length="13844497" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-06-26</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:56 -0400</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2011-07-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-03.mp3" type="audio/mpeg" length="20128513"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-03.mp3" length="20128513" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-07-03</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:56 -0400</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2011-07-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21295246" url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-10.mp3" length="21295246" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-07-10</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:57 -0400</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2011-07-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-17.mp3" type="audio/mpeg" length="21103403"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-17.mp3" length="21103403" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-07-17</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:58 -0400</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2011-07-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-24.mp3" type="audio/mpeg" length="22332621"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Sanhedrin_5771/2011-07-24.mp3" length="22332621" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Sanhedrin 5771/2011-07-24</guid>
       <pubDate>Thu, 19 Jun 2014 09:44:58 -0400</pubDate>
     </item>

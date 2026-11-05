@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5772/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5772/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5772</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5772</link>
     <description>Around The Year 5772</description>
@@ -19,7 +19,7 @@
       <title>2011-09-24 Passaic - Shabbos Shuva Drasha</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-09-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="28774528" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-09-24.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-09-24.mp3" length="28774528" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2011-09-24</guid>
       <pubDate>Thu, 19 Jun 2014 09:26:56 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2011-10-03 Waterbury - On Teshuva</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-10-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-10-03.mp3" length="25682048"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-10-03.mp3" length="25682048" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2011-10-03</guid>
       <pubDate>Thu, 19 Jun 2014 09:26:57 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2011-10-04 Monsey - Asoras Yimei Teshuva Gathering</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-10-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="38797440" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-10-04.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2011-10-04.mp3" length="38797440" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2011-10-04</guid>
       <pubDate>Thu, 19 Jun 2014 09:26:57 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2012-03-03 Purim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-03-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-03-03.mp3" length="23912793"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-03-03.mp3" length="23912793" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2012-03-03</guid>
       <pubDate>Thu, 19 Jun 2014 09:26:58 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2012-05-22 Pre-Shavuos - Proper Approach To Learning</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-05-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="7743992" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-05-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-05-22.mp3" length="7743992" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2012-05-22</guid>
       <pubDate>Thu, 19 Jun 2014 09:26:58 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2012-07-29 Kinnos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-07-29_1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="25312862" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-07-29_1.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-07-29_1.mp3" length="25312862" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2012-07-29 1</guid>
       <pubDate>Thu, 19 Jun 2014 09:27:00 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2012-07-29 The Struggle of Life - How to Harness Daily Challenges for Their Intended Purpose</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-07-29_2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21972075" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-07-29_2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5772/2012-07-29_2.mp3" length="21972075" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5772/2012-07-29 2</guid>
       <pubDate>Thu, 19 Jun 2014 09:27:00 -0400</pubDate>
     </item>

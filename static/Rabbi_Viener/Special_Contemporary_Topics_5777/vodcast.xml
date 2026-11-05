@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/vodcast.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Special Contemporary Topics 5777</title>
     <link>https://www.torahstream.org/#/topic/Special_Contemporary_Topics_5777</link>
     <description>Special Contemporary Topics 5777</description>
@@ -19,7 +19,7 @@
       <title>2016-10-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-10-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-10-22.m4v" type="video/x-m4v" length="89277816"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-10-22.m4v" length="89277816" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2016-10-22</guid>
       <pubDate>Sat, 22 Oct 2016 21:50:40 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2016-11-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-11-24.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-11-24.m4v" type="video/x-m4v" length="133718601"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-11-24.m4v" length="133718601" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2016-11-24</guid>
       <pubDate>Sun, 11 Dec 2016 08:44:37 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2016-12-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-12-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-12-01.m4v" type="video/x-m4v" length="119975401"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2016-12-01.m4v" length="119975401" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2016-12-01</guid>
       <pubDate>Sun, 04 Dec 2016 08:43:36 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2017-05-21.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.1.m4v" length="146815879"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.1.m4v" length="146815879" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2017-05-21.1</guid>
       <pubDate>Wed, 24 May 2017 22:18:08 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2017-05-21.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.2.m4v" type="video/x-m4v" length="75811951"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Special_Contemporary_Topics_5777/2017-05-21.2.m4v" length="75811951" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Special Contemporary Topics 5777/2017-05-21.2</guid>
       <pubDate>Fri, 26 May 2017 09:03:16 -0400</pubDate>
     </item>

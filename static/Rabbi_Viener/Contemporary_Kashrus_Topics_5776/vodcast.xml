@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/vodcast.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Contemporary Kashrus Topics 5776</title>
     <link>https://www.torahstream.org/#/topic/Contemporary_Kashrus_Topics_5776</link>
     <description>Contemporary Kashrus Topics 5776</description>
@@ -27,7 +27,7 @@
       <title>2015-09-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="50029090" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-01.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-01.m4v" length="50029090" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-09-01</guid>
       <pubDate>Tue, 01 Sep 2015 21:54:53 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2015-09-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-07.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="49718644" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-07.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-07.m4v" length="49718644" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-09-07</guid>
       <pubDate>Mon, 07 Sep 2015 21:56:02 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2015-09-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="49217472" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-16.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-16.m4v" length="49217472" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-09-16</guid>
       <pubDate>Wed, 16 Sep 2015 21:54:59 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2015-09-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-21.m4v" length="54091347"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-09-21.m4v" length="54091347" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-09-21</guid>
       <pubDate>Mon, 21 Sep 2015 21:56:24 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2015-10-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-19.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="52208742" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-19.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-19.m4v" length="52208742" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-10-19</guid>
       <pubDate>Mon, 19 Oct 2015 22:05:40 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2015-10-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-20.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="51202304" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-20.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-20.m4v" length="51202304" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-10-20</guid>
       <pubDate>Tue, 20 Oct 2015 21:55:47 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2015-10-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-27.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-27.m4v" length="51105517"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-27.m4v" length="51105517" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-10-27</guid>
       <pubDate>Tue, 27 Oct 2015 21:57:28 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2015-10-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-28.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-28.m4v" length="49248783"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-10-28.m4v" length="49248783" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-10-28</guid>
       <pubDate>Wed, 28 Oct 2015 21:53:43 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2015-11-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="50504179" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-03.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-03.m4v" length="50504179" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-03</guid>
       <pubDate>Tue, 03 Nov 2015 21:55:21 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2015-11-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="44696226" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-04.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-04.m4v" length="44696226" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-04</guid>
       <pubDate>Wed, 04 Nov 2015 22:08:53 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2015-11-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-10.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="48219104" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-10.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-10.m4v" length="48219104" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-10</guid>
       <pubDate>Tue, 10 Nov 2015 21:55:07 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2015-11-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="51198194" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-11.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-11.m4v" length="51198194" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-11</guid>
       <pubDate>Wed, 11 Nov 2015 21:54:23 -0500</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2015-11-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="45273956" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-16.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-16.m4v" length="45273956" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-16</guid>
       <pubDate>Mon, 16 Nov 2015 21:55:41 -0500</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2015-11-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-17.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="49975235" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-17.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-17.m4v" length="49975235" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-17</guid>
       <pubDate>Tue, 17 Nov 2015 21:54:17 -0500</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2015-11-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-24.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="52210834" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-24.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-24.m4v" length="52210834" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-24</guid>
       <pubDate>Tue, 24 Nov 2015 21:54:07 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2015-11-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-25.m4v" length="52139353"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-11-25.m4v" length="52139353" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-11-25</guid>
       <pubDate>Wed, 25 Nov 2015 21:54:50 -0500</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2015-12-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="45613898" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-01.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-01.m4v" length="45613898" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-01</guid>
       <pubDate>Tue, 01 Dec 2015 21:55:15 -0500</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2015-12-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-07.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="51328881" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-07.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-07.m4v" length="51328881" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-07</guid>
       <pubDate>Mon, 07 Dec 2015 21:54:34 -0500</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2015-12-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-15.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-15.m4v" length="53846871"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-15.m4v" length="53846871" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-15</guid>
       <pubDate>Tue, 15 Dec 2015 21:59:35 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2015-12-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-16.m4v" length="44756443"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-16.m4v" length="44756443" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-16</guid>
       <pubDate>Wed, 16 Dec 2015 21:59:23 -0500</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2015-12-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="44491103" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-21.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-21.m4v" length="44491103" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-21</guid>
       <pubDate>Mon, 21 Dec 2015 22:05:36 -0500</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2015-12-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="47614209" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-22.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-22.m4v" length="47614209" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-22</guid>
       <pubDate>Tue, 22 Dec 2015 21:52:39 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2015-12-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-23.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="47808312" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-23.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-23.m4v" length="47808312" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-23</guid>
       <pubDate>Wed, 23 Dec 2015 21:52:34 -0500</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2015-12-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-28.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-28.m4v" length="48994859"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-28.m4v" length="48994859" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-28</guid>
       <pubDate>Mon, 28 Dec 2015 21:57:33 -0500</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2015-12-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-29.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-29.m4v" length="47944109"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-29.m4v" length="47944109" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-29</guid>
       <pubDate>Tue, 29 Dec 2015 21:53:25 -0500</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2015-12-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-30.m4v" length="47333302"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2015-12-30.m4v" length="47333302" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2015-12-30</guid>
       <pubDate>Wed, 30 Dec 2015 21:53:15 -0500</pubDate>
     </item>
@@ -323,7 +323,7 @@
       <title>2016-01-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-05.m4v" length="46810619"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-05.m4v" length="46810619" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2016-01-05</guid>
       <pubDate>Tue, 05 Jan 2016 21:52:15 -0500</pubDate>
     </item>
@@ -331,7 +331,7 @@
       <title>2016-01-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-06.m4v" length="58423292"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-06.m4v" length="58423292" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2016-01-06</guid>
       <pubDate>Wed, 06 Jan 2016 22:00:54 -0500</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2016-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="59605689" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-11.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-11.m4v" length="59605689" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2016-01-11</guid>
       <pubDate>Sun, 17 Jan 2016 08:45:05 -0500</pubDate>
     </item>
@@ -355,7 +355,7 @@
       <title>2016-01-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-13.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="53519257" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-13.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-13.m4v" length="53519257" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2016-01-13</guid>
       <pubDate>Sun, 17 Jan 2016 09:42:33 -0500</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2016-01-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="54257325" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-18.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-18.m4v" length="54257325" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2016-01-18</guid>
       <pubDate>Mon, 18 Jan 2016 21:52:28 -0500</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2016-01-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-19.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="52914927" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-19.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Kashrus_Topics_5776/2016-01-19.m4v" length="52914927" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Kashrus Topics 5776/2016-01-19</guid>
       <pubDate>Tue, 19 Jan 2016 21:52:33 -0500</pubDate>
     </item>

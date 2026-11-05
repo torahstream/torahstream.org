@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5784/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5784/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5784</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5784</link>
     <description>Around The Year 5784</description>
@@ -19,7 +19,7 @@
       <title>2023-10-05 - Mesorah misrepresentations and subtle change</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="24117376" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-05.mp3" length="24117376" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2023-10-05</guid>
       <pubDate>Thu, 05 Oct 2023 22:11:19 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2023-10-10 - Planning, effort and achrayus. Q&amp;A for parents &amp; bachurim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-10.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="29835392" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-10.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-10.2.mp3" length="29835392" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2023-10-10.2</guid>
       <pubDate>Wed, 18 Oct 2023 07:43:30 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2023-10-10 - Reactions and Responsibilities</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14191067" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-10-10.mp3" length="14191067" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2023-10-10</guid>
       <pubDate>Wed, 11 Oct 2023 07:44:04 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2023-12-18 - "Holiday" Gifts, Names and Q&amp;A</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-12-18.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="9263232" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-12-18.2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-12-18.2.mp3" length="9263232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2023-12-18.2</guid>
       <pubDate>Sun, 24 Dec 2023 13:53:02 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2023-12-21 - Our Role in the Geulah Process</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-12-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14740480" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-12-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2023-12-21.mp3" length="14740480" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2023-12-21</guid>
       <pubDate>Sun, 24 Dec 2023 13:57:23 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2024-01-01 - A close look leHalacha at blending foreign culture with our Hashkofas HaChaim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-01-01.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="37161088" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-01-01.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-01-01.2.mp3" length="37161088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2024-01-01.2</guid>
       <pubDate>Tue, 02 Jan 2024 07:42:07 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2024-04-04 - Business Halacha Summit: Challenges of the Ben Torah in the workplace</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-04-04.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-04-04.2.mp3" length="32219264"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-04-04.2.mp3" length="32219264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2024-04-04.2</guid>
       <pubDate>Sun, 05 May 2024 08:32:40 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2024-08-01 - Good intentions with bad impressions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="32573568" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-01.mp3" length="32573568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2024-08-01</guid>
       <pubDate>Thu, 01 Aug 2024 22:06:50 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2024-08-13 - Silver lining - detecting opportunities in challenging circumstances</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-13.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22702208" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-13.2.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-13.2.mp3" length="22702208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2024-08-13.2</guid>
       <pubDate>Sun, 01 Sep 2024 10:05:18 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2024-08-13 - Tisha B'Av: Kinnos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-13.mp3" length="27949568"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-08-13.mp3" length="27949568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2024-08-13</guid>
       <pubDate>Tue, 13 Aug 2024 12:47:47 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2024-09-26 - Cuisine, calendars, and connection</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-09-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13983872" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-09-26.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5784/2024-09-26.mp3" length="13983872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5784/2024-09-26</guid>
       <pubDate>Sun, 29 Sep 2024 01:36:30 -0400</pubDate>
     </item>

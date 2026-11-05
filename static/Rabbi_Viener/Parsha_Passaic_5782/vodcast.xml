@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/vodcast.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Parsha: Selected Insights, 5782 (Passaic)</title>
     <link>https://www.torahstream.org/#/topic/Parsha_Passaic_5782</link>
     <description>Parsha: Selected Insights, 5782 (Passaic)</description>
@@ -19,7 +19,7 @@
       <title>2021-11-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="133290893" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-06.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-06.m4v" length="133290893" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2021-11-06</guid>
       <pubDate>Sun, 07 Nov 2021 08:41:20 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2021-11-13.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-13.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="81938540" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-13.1.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-13.1.m4v" length="81938540" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2021-11-13.1</guid>
       <pubDate>Sun, 14 Nov 2021 10:02:20 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2021-11-27.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-27.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="91165292" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-27.1.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-11-27.1.m4v" length="91165292" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2021-11-27.1</guid>
       <pubDate>Sun, 28 Nov 2021 12:58:27 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2021-12-11.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-12-11.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="57586260" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-12-11.1.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-12-11.1.m4v" length="57586260" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2021-12-11.1</guid>
       <pubDate>Sun, 12 Dec 2021 08:37:23 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2021-12-25.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-12-25.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="78735080" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-12-25.1.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2021-12-25.1.m4v" length="78735080" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2021-12-25.1</guid>
       <pubDate>Sun, 26 Dec 2021 08:28:49 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2022-01-01.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-01.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="64387176" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-01.1.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-01.1.m4v" length="64387176" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-01-01.1</guid>
       <pubDate>Sun, 02 Jan 2022 09:47:17 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2022-01-08.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-08.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-08.1.m4v" length="71589014"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-08.1.m4v" length="71589014" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-01-08.1</guid>
       <pubDate>Sun, 09 Jan 2022 08:31:09 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2022-01-15.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-15.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="86791753" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-15.1.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-15.1.m4v" length="86791753" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-01-15.1</guid>
       <pubDate>Sun, 16 Jan 2022 08:28:10 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2022-01-22.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-22.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="57837720" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-22.1.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-01-22.1.m4v" length="57837720" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-01-22.1</guid>
       <pubDate>Sun, 23 Jan 2022 08:36:05 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2022-02-05.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-05.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="110111509" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-05.1.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-05.1.m4v" length="110111509" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-02-05.1</guid>
       <pubDate>Sun, 06 Feb 2022 08:34:12 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2022-02-12.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-12.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="91597715" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-12.1.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-12.1.m4v" length="91597715" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-02-12.1</guid>
       <pubDate>Sun, 13 Feb 2022 08:42:01 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2022-02-19.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-19.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="71804965" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-19.1.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-19.1.m4v" length="71804965" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-02-19.1</guid>
       <pubDate>Sun, 20 Feb 2022 07:54:24 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2022-02-26.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-26.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-26.1.m4v" length="90508639"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-02-26.1.m4v" length="90508639" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-02-26.1</guid>
       <pubDate>Sun, 27 Feb 2022 08:47:41 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2022-03-05.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-03-05.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-03-05.1.m4v" length="84073243"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-03-05.1.m4v" length="84073243" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-03-05.1</guid>
       <pubDate>Sun, 06 Mar 2022 08:41:31 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2022-03-12.1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-03-12.1.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-03-12.1.m4v" length="74206025"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5782/2022-03-12.1.m4v" length="74206025" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5782/2022-03-12.1</guid>
       <pubDate>Sun, 13 Mar 2022 08:42:04 -0400</pubDate>
     </item>

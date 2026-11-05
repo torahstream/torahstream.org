@@ -6,4 +6,8 @@ topic_id: "Announcements_5780"
 count: 1
 has_video: false
 ongoing: false
+category: "other"
+family: "Announcements"
+year: "5780"
+listing_title: ""
 ---

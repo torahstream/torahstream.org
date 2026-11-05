@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Making Sense of the Final Exile</title>
     <link>https://www.torahstream.org/#/topic/Making_Sense_of_the_Final_Exile</link>
     <description>Making Sense of the Final Exile</description>
@@ -19,7 +19,7 @@
       <title>Making Sense of the Final Exile 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/Making_Sense_of_the_Final_Exile_1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="23310464" url="https://media-cf.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/Making_Sense_of_the_Final_Exile_1.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/Making_Sense_of_the_Final_Exile_1.mp3" length="23310464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Making Sense of the Final Exile/Making Sense of the Final Exile 1</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>Making Sense of the Final Exile 2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/Making_Sense_of_the_Final_Exile_2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/Making_Sense_of_the_Final_Exile_2.mp3" length="28686464"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Making_Sense_of_the_Final_Exile/Making_Sense_of_the_Final_Exile_2.mp3" length="28686464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Making Sense of the Final Exile/Making Sense of the Final Exile 2</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
     </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Themes_of_National_and_Personal_Redemption/rss.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Themes_of_National_and_Personal_Redemption/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Themes of National and Personal Redemption</title>
     <link>https://www.torahstream.org/#/topic/Themes_of_National_and_Personal_Redemption</link>
     <description>Themes of National and Personal Redemption</description>
@@ -19,7 +19,7 @@
       <title>Themes of National and Personal Redemption</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Themes_of_National_and_Personal_Redemption/Themes_of_National_and_Personal_Redemption.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20390016" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Themes_of_National_and_Personal_Redemption/Themes_of_National_and_Personal_Redemption.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Themes_of_National_and_Personal_Redemption/Themes_of_National_and_Personal_Redemption.mp3" length="20390016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Themes of National and Personal Redemption/Themes of National and Personal Redemption</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
     </item>

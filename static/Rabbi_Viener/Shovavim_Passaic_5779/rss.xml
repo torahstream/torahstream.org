@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim Passaic, 5779 (married couples only)</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Passaic_5779</link>
     <description>Shovavim Passaic, 5779 (married couples only)</description>
@@ -19,7 +19,7 @@
       <title>2019-01-26 - What have you done for me lately: Overview on spousal hakaras hatov; common questions in taharas mishpacha</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/2019-01-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="31401994" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/2019-01-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/2019-01-26.mp3" length="31401994" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Passaic 5779/2019-01-26</guid>
       <pubDate>Sat, 26 Jan 2019 21:09:04 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2019-02-09 - Common/sensitive taharas and kedushas mishpacha questions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/2019-02-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="31436928" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/2019-02-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Passaic_5779/2019-02-09.mp3" length="31436928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Passaic 5779/2019-02-09</guid>
       <pubDate>Mon, 11 Feb 2019 22:15:32 -0500</pubDate>
     </item>

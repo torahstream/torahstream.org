@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/rss.xml" rel="self" type="application/rss+xml"/>
     <title>How to Separate While Bridging The Gap: Halachos and Hashkafos for Married Couples</title>
     <link>https://www.torahstream.org/#/topic/How_to_Separate_While_Bridging_the_Gap</link>
     <description>How to Separate While Bridging The Gap: Halachos and Hashkafos for Married Couples</description>
@@ -19,7 +19,7 @@
       <title>How to Separate While Bridging the Gap 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_1.mp3" length="18477184"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_1.mp3" length="18477184" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/How to Separate While Bridging the Gap/How to Separate While Bridging the Gap 1</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>How to Separate While Bridging the Gap 2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19660928" url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_2.mp3" length="19660928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/How to Separate While Bridging the Gap/How to Separate While Bridging the Gap 2</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>How to Separate While Bridging the Gap 3</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_3.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_3.mp3" length="19409024"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_3.mp3" length="19409024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/How to Separate While Bridging the Gap/How to Separate While Bridging the Gap 3</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>How to Separate While Bridging the Gap 4</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_4.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_4.mp3" type="audio/mpeg" length="23054464"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/How_to_Separate_While_Bridging_the_Gap/How_to_Separate_While_Bridging_the_Gap_4.mp3" length="23054464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/How to Separate While Bridging the Gap/How to Separate While Bridging the Gap 4</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:17 -0500</pubDate>
     </item>

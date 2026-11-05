@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Parsha: Selected Insights, 5774 (Passaic)</title>
     <link>https://www.torahstream.org/#/topic/Parsha_Passaic_5774</link>
     <description>Parsha: Selected Insights, 5774 (Passaic)</description>
@@ -19,7 +19,7 @@
       <title>2013-11-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="4786304" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-02.mp3" length="4786304" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-11-02</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:12 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2013-11-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-09.mp3" type="audio/mpeg" length="16177132"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-09.mp3" length="16177132" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-11-09</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:12 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2013-11-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-16.mp3" type="audio/mpeg" length="9522145"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-16.mp3" length="9522145" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-11-16</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:13 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2013-11-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="18469847" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-11-23.mp3" length="18469847" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-11-23</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:13 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2013-12-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="10710226" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-07.mp3" length="10710226" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-12-07</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:14 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2013-12-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-21.mp3" type="audio/mpeg" length="11046273"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-21.mp3" length="11046273" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-12-21</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:15 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2013-12-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="8536317" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-28.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2013-12-28.mp3" length="8536317" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2013-12-28</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:16 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2014-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14210009" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-11.mp3" length="14210009" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2014-01-11</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:18 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2014-01-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-18.mp3" type="audio/mpeg" length="8496931"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-18.mp3" length="8496931" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2014-01-18</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:19 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2014-01-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12931478" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-01-25.mp3" length="12931478" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2014-01-25</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:20 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2014-02-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-02-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-02-01.mp3" type="audio/mpeg" length="11083680"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-02-01.mp3" length="11083680" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2014-02-01</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:27 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2014-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-02-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-02-22.mp3" type="audio/mpeg" length="13087377"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-02-22.mp3" length="13087377" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2014-02-22</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:32 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2014-03-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-03-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="9002243" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-03-01.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5774/2014-03-01.mp3" length="9002243" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5774/2014-03-01</guid>
       <pubDate>Thu, 19 Jun 2014 09:53:33 -0400</pubDate>
     </item>

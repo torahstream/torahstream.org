@@ -6,4 +6,8 @@ topic_id: "Torah_Leadership_and_Decision_Making"
 count: 2
 has_video: false
 ongoing: false
+category: "bitachon"
+family: "Torah_Leadership_and_Decision_Making"
+year: ""
+listing_title: ""
 ---

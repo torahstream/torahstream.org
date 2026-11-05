@@ -6,4 +6,8 @@ topic_id: "Defence_and_Security"
 count: 2
 has_video: false
 ongoing: false
+category: "bitachon"
+family: "Defence_and_Security"
+year: ""
+listing_title: ""
 ---

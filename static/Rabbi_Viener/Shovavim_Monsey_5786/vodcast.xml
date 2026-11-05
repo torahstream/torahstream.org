@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/vodcast.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5786</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5786</link>
     <description>Shovavim, 5786</description>
@@ -19,7 +19,7 @@
       <title>2026-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="92956334" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-11.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-11.m4v" length="92956334" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-01-11</guid>
       <pubDate>Sun, 11 Jan 2026 09:50:35 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2026-01-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="74004165" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-18.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-18.m4v" length="74004165" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-01-18</guid>
       <pubDate>Sun, 18 Jan 2026 09:49:12 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2026-01-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-25.m4v" length="83398902"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-01-25.m4v" length="83398902" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-01-25</guid>
       <pubDate>Sun, 25 Jan 2026 09:49:22 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2026-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="93283752" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-22.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-02-22.m4v" length="93283752" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-02-22</guid>
       <pubDate>Sun, 22 Feb 2026 09:49:09 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2026-03-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-03-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="86092439" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-03-01.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5786/2026-03-01.m4v" length="86092439" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5786/2026-03-01</guid>
       <pubDate>Sun, 01 Mar 2026 09:51:37 -0500</pubDate>
     </item>

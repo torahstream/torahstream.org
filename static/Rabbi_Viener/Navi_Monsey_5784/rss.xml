@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/rss.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi, Sefer Shoftim/Yehoshua, Monsey 5784</title>
     <link>https://www.torahstream.org/#/topic/Navi_Monsey_5784</link>
     <description>Navi, Sefer Shoftim/Yehoshua, Monsey 5784</description>
@@ -19,7 +19,7 @@
       <title>2023-10-15 - Stealing objects used for aveira</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-15.mp3" length="19216384"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-15.mp3" length="19216384" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-10-15</guid>
       <pubDate>Tue, 17 Oct 2023 09:12:08 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2023-10-22 - Should one print all the news that fits?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21502976" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-22.mp3" length="21502976" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-10-22</guid>
       <pubDate>Sun, 22 Oct 2023 09:43:24 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2023-10-29 - Decent proposals</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19927040" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-29.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-10-29.mp3" length="19927040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-10-29</guid>
       <pubDate>Sun, 29 Oct 2023 09:39:51 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2023-11-05 - Anger management and disproportionate reactions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20443264" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-05.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-05.mp3" length="20443264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-11-05</guid>
       <pubDate>Sun, 05 Nov 2023 09:35:57 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2023-11-12 - Visiting alien environments: spiritual dangers</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-12.mp3" length="20138112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-12.mp3" length="20138112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-11-12</guid>
       <pubDate>Sun, 12 Nov 2023 09:39:40 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2023-11-26 - A drastic call to action</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19816960" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-11-26.mp3" length="19816960" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-11-26</guid>
       <pubDate>Sun, 26 Nov 2023 09:38:01 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2023-12-03 - Responsibility, justice, and jurisdiction</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-03.mp3" length="17170432"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-03.mp3" length="17170432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-12-03</guid>
       <pubDate>Sun, 03 Dec 2023 09:42:12 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2023-12-17 - Shocking imagery to arouse public opinion and response</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19249280" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-17.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-17.mp3" length="19249280" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-12-17</guid>
       <pubDate>Sun, 17 Dec 2023 09:38:06 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2023-12-31 - Winning doesn't necessarily mean you are right</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-31.mp3" length="19918976"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2023-12-31.mp3" length="19918976" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2023-12-31</guid>
       <pubDate>Sun, 31 Dec 2023 09:38:00 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2024-01-07 - Judicial process and review</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-07.mp3" length="18304000"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-07.mp3" length="18304000" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-01-07</guid>
       <pubDate>Sun, 07 Jan 2024 09:43:35 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2024-01-14 - How to correctly frame the question</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="18436096" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-14.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-14.mp3" length="18436096" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-01-14</guid>
       <pubDate>Sun, 14 Jan 2024 09:45:35 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2024-01-21 - Defense and preemptive strikes</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-21.mp3" length="20690432"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-21.mp3" length="20690432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-01-21</guid>
       <pubDate>Sun, 21 Jan 2024 09:41:49 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2024-01-28 - Correct Answers for Inaccurate Questions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19865600" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-28.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-01-28.mp3" length="19865600" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-01-28</guid>
       <pubDate>Sun, 28 Jan 2024 09:58:03 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2024-02-04 - Honest reaction and introspection</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20578304" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-04.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-04.mp3" length="20578304" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-02-04</guid>
       <pubDate>Sun, 04 Feb 2024 09:41:45 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2024-02-11 - Past performance is not a guarantee of future victory</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20045952" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-11.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-11.mp3" length="20045952" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-02-11</guid>
       <pubDate>Sun, 11 Feb 2024 09:39:14 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2024-02-18 - Separating from the Tzibbur: dangers and consequences</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19845248" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-18.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-02-18.mp3" length="19845248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-02-18</guid>
       <pubDate>Sun, 18 Feb 2024 09:41:18 -0500</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2024-03-03 - Unusual Shidduch Arrangements</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-03-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20069888" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-03-03.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-03-03.mp3" length="20069888" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-03-03</guid>
       <pubDate>Sun, 03 Mar 2024 10:01:39 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2024-03-31 - Binding Takanos of the Tzibbur</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-03-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-03-31.mp3" length="20213760"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-03-31.mp3" length="20213760" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-03-31</guid>
       <pubDate>Sun, 31 Mar 2024 09:42:49 -0400</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2024-04-07 - Cooperating after being outvoted</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-04-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20417536" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-04-07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-04-07.mp3" length="20417536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-04-07</guid>
       <pubDate>Sun, 07 Apr 2024 09:40:54 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2024-05-05 - Sefer Yehoshua: Long term effects and kapparos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-05-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21207168" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-05-05.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-05-05.mp3" length="21207168" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-05-05</guid>
       <pubDate>Sun, 05 May 2024 09:49:17 -0400</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2024-05-12 - Masquerades and dishonest negotiations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-05-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="19457024" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-05-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-05-12.mp3" length="19457024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-05-12</guid>
       <pubDate>Sun, 12 May 2024 09:42:17 -0400</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2024-06-02 - Cautious acceptance and temporary rejection</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="20818432" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-02.mp3" length="20818432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-06-02</guid>
       <pubDate>Sun, 02 Jun 2024 09:42:22 -0400</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2024-06-09 - Pursuing peace: how far must we go?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19644928" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-09.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-09.mp3" length="19644928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-06-09</guid>
       <pubDate>Sun, 09 Jun 2024 09:43:06 -0400</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2024-06-30 - Bad middos and the gene pool</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22327808" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-30.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-06-30.mp3" length="22327808" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-06-30</guid>
       <pubDate>Sun, 30 Jun 2024 09:45:47 -0400</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2024-07-14 - The trigger to execute a Divine plan</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-07-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-07-14.mp3" length="23084544"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-07-14.mp3" length="23084544" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-07-14</guid>
       <pubDate>Sun, 14 Jul 2024 09:44:16 -0400</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2024-07-28 - Influence of numbers and ancient social distancing</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-07-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21354624" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-07-28.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-07-28.mp3" length="21354624" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-07-28</guid>
       <pubDate>Sun, 28 Jul 2024 09:42:15 -0400</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2024-08-04 - Guidance: for who, when, and how</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-08-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21486592" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-08-04.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-08-04.mp3" length="21486592" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-08-04</guid>
       <pubDate>Sun, 04 Aug 2024 09:48:56 -0400</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2024-09-01 - War: learning, army, civilian casualties</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="23220736" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-01.mp3" length="23220736" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-09-01</guid>
       <pubDate>Sun, 01 Sep 2024 09:44:56 -0400</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2024-09-08 - Seizing the moment</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21042688" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-08.mp3" length="21042688" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-09-08</guid>
       <pubDate>Sun, 08 Sep 2024 09:43:09 -0400</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2024-09-22 - Changing Mazal and control of time</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21346816" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-22.mp3" length="21346816" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-09-22</guid>
       <pubDate>Sun, 22 Sep 2024 09:41:19 -0400</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2024-09-29 - Mazal and the way it is changed</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21795328" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5784/2024-09-29.mp3" length="21795328" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5784/2024-09-29</guid>
       <pubDate>Sun, 29 Sep 2024 09:44:13 -0400</pubDate>
     </item>

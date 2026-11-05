@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/vodcast.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Passaic 5783</title>
     <link>https://www.torahstream.org/#/topic/Navi_Passaic_5783</link>
     <description>Navi Passaic 5783</description>
@@ -19,7 +19,7 @@
       <title>2022-11-05.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-05.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-05.2.m4v" type="video/x-m4v" length="60325319"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-05.2.m4v" length="60325319" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-11-05.2</guid>
       <pubDate>Sun, 06 Nov 2022 13:57:38 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2022-11-19.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-19.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-19.2.m4v" type="video/x-m4v" length="56779990"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-19.2.m4v" length="56779990" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-11-19.2</guid>
       <pubDate>Sun, 20 Nov 2022 08:37:27 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2022-11-26.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-26.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-26.2.m4v" type="video/x-m4v" length="50815795"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-26.2.m4v" length="50815795" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-11-26.2</guid>
       <pubDate>Sun, 27 Nov 2022 08:40:52 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2022-12-10.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-10.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-10.2.m4v" type="video/x-m4v" length="47722334"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-10.2.m4v" length="47722334" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-12-10.2</guid>
       <pubDate>Sun, 11 Dec 2022 08:39:08 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2022-12-17.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-17.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-17.2.m4v" type="video/x-m4v" length="73677224"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-17.2.m4v" length="73677224" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-12-17.2</guid>
       <pubDate>Sun, 18 Dec 2022 08:40:31 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2022-12-31.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-31.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="54807991" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-31.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-31.2.m4v" length="54807991" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-12-31.2</guid>
       <pubDate>Sun, 01 Jan 2023 08:38:19 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2023-01-28.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-01-28.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="72923703" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-01-28.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-01-28.2.m4v" length="72923703" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-01-28.2</guid>
       <pubDate>Thu, 02 Feb 2023 22:20:08 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2023-02-11.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-11.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="68063286" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-11.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-11.2.m4v" length="68063286" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-02-11.2</guid>
       <pubDate>Sun, 12 Feb 2023 08:38:37 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2023-02-18.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-18.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="65334407" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-18.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-18.2.m4v" length="65334407" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-02-18.2</guid>
       <pubDate>Sun, 19 Feb 2023 08:37:44 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2023-03-04.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-04.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="57402027" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-04.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-04.2.m4v" length="57402027" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-03-04.2</guid>
       <pubDate>Sun, 05 Mar 2023 08:35:12 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2023-03-11.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-11.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="63476306" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-11.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-11.2.m4v" length="63476306" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-03-11.2</guid>
       <pubDate>Sun, 12 Mar 2023 08:32:57 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>20230107.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230107.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="59866444" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230107.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230107.2.m4v" length="59866444" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230107.2</guid>
       <pubDate>Sun, 08 Jan 2023 08:43:30 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>20230114.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230114.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="68476983" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230114.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230114.2.m4v" length="68476983" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230114.2</guid>
       <pubDate>Sun, 15 Jan 2023 10:40:40 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>20230121.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230121.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="66275708" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230121.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230121.2.m4v" length="66275708" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230121.2</guid>
       <pubDate>Sun, 22 Jan 2023 08:42:04 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>20230204.2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230204.2.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="64066488" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230204.2.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230204.2.m4v" length="64066488" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230204.2</guid>
       <pubDate>Sun, 05 Feb 2023 08:37:06 -0500</pubDate>
     </item>

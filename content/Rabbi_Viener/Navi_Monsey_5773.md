@@ -6,4 +6,8 @@ topic_id: "Navi_Monsey_5773"
 count: 25
 has_video: true
 ongoing: false
+category: "navi"
+family: "Navi_Monsey"
+year: "5773"
+listing_title: ""
 ---

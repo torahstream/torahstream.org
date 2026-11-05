@@ -6,4 +6,8 @@ topic_id: "Contemporary_Kashrus_Topics_5776"
 count: 48
 has_video: true
 ongoing: false
+category: "contemporary"
+family: "Contemporary_Kashrus_Topics"
+year: "5776"
+listing_title: ""
 ---

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Kesubos_5771/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Kesubos_5771/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Kesubos 5771</title>
     <link>https://www.torahstream.org/#/topic/Kesubos_5771</link>
     <description>Kesubos 5771</description>
@@ -19,7 +19,7 @@
       <title>2011-02-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12072350" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-21.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-21.mp3" length="12072350" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-02-21</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:56 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2011-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-22.mp3" length="10545127"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-22.mp3" length="10545127" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-02-22</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:57 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2011-02-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11307275" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-02-23.mp3" length="11307275" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-02-23</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:57 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2011-03-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12897192" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-01.mp3" length="12897192" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-01</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:57 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2011-03-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12947556" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-02.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-02.mp3" length="12947556" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-02</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:58 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2011-03-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="9952252" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-07.mp3" length="9952252" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-07</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:58 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2011-03-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13458302" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-09.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-09.mp3" length="13458302" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-09</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:59 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2011-03-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12154061" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-14.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-14.mp3" length="12154061" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-14</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:59 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2011-03-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11705381" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-15.mp3" length="11705381" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-15</guid>
       <pubDate>Thu, 19 Jun 2014 09:42:59 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2011-03-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12449140" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-16.mp3" length="12449140" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-16</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:00 -0400</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2011-03-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-22.mp3" length="11320023"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-22.mp3" length="11320023" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-22</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:00 -0400</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2011-03-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-23.mp3" length="11960337"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-23.mp3" length="11960337" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-23</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:00 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2011-03-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11495148" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-28.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-28.mp3" length="11495148" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-28</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:01 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2011-03-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11682185" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-29.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-29.mp3" length="11682185" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-29</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:01 -0400</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2011-03-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12325842" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-30.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-03-30.mp3" length="12325842" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-03-30</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:01 -0400</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2011-04-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-04.mp3" length="11150541"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-04.mp3" length="11150541" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-04-04</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:02 -0400</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2011-04-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-05.mp3" length="13148595"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-05.mp3" length="13148595" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-04-05</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:02 -0400</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2011-04-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12323754" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-04-06.mp3" length="12323754" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-04-06</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:02 -0400</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2011-05-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12273806" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-02.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-02.mp3" length="12273806" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-02</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:03 -0400</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2011-05-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14276875" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-04.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-04.mp3" length="14276875" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-04</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:03 -0400</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2011-05-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12145492" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-09.mp3" length="12145492" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-09</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:04 -0400</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2011-05-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-10.mp3" length="10940934"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-10.mp3" length="10940934" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-10</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:04 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2011-05-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-11.mp3" length="11941946"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-11.mp3" length="11941946" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-11</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:04 -0400</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2011-05-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-16.mp3" length="12117071"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-16.mp3" length="12117071" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-16</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:05 -0400</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2011-05-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-25.mp3" length="11844771"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-25.mp3" length="11844771" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-25</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:06 -0400</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2011-05-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="10945114" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-30.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-30.mp3" length="10945114" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-30</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:06 -0400</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2011-05-31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12130028" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-31.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-05-31.mp3" length="12130028" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-05-31</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:07 -0400</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2011-06-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12616115" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-14.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-14.mp3" length="12616115" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-06-14</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:07 -0400</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2011-06-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-15.mp3" length="10813248"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-15.mp3" length="10813248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-06-15</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:08 -0400</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2011-06-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11874237" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-20.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-20.mp3" length="11874237" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-06-20</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:08 -0400</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2011-06-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13907190" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-21.mp3" length="13907190" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-06-21</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:08 -0400</pubDate>
     </item>
@@ -331,7 +331,7 @@
       <title>2011-06-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12230965" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-27.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-27.mp3" length="12230965" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-06-27</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:09 -0400</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2011-06-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14329747" url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Kesubos_5771/2011-06-29.mp3" length="14329747" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Kesubos 5771/2011-06-29</guid>
       <pubDate>Thu, 19 Jun 2014 09:43:10 -0400</pubDate>
     </item>

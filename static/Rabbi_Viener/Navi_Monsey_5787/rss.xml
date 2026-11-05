@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi, Sefer Yehoshua, Monsey 5787</title>
     <link>https://www.torahstream.org/#/topic/Navi_Monsey_5787</link>
     <description>Navi, Sefer Yehoshua, Monsey 5787</description>
@@ -19,7 +19,7 @@
       <title>2026-10-11 - Self-control: power and dividends</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19637248" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-11.mp3" length="19637248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5787/2026-10-11</guid>
       <pubDate>Sun, 11 Oct 2026 09:55:33 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2026-10-18 - Tools for inspiration</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20025344" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-18.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-18.mp3" length="20025344" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5787/2026-10-18</guid>
       <pubDate>Sun, 18 Oct 2026 09:48:58 -0400</pubDate>
     </item>
@@ -35,9 +35,17 @@
       <title>2026-10-25 - Spreading the wealth</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20495360" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-10-25.mp3" length="20495360" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5787/2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 09:47:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>2026-11-01 - Yes, people are watching</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-11-01.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5787/2026-11-01.mp3" length="14562304" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5787/2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 09:33:01 -0500</pubDate>
     </item>
   </channel>
 </rss>

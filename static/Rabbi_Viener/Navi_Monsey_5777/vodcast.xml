@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/vodcast.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Monsey 5777</title>
     <link>https://www.torahstream.org/#/topic/Navi_Monsey_5777</link>
     <description>Navi Monsey 5777</description>
@@ -19,7 +19,7 @@
       <title>2016-10-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-10-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-10-09.m4v" type="video/x-m4v" length="52542207"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-10-09.m4v" length="52542207" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2016-10-09</guid>
       <pubDate>Sun, 09 Oct 2016 09:19:08 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2016-11-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="80804374" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-06.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-06.m4v" length="80804374" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2016-11-06</guid>
       <pubDate>Sun, 06 Nov 2016 09:35:10 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2016-11-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-13.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="82086980" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-13.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-13.m4v" length="82086980" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2016-11-13</guid>
       <pubDate>Sun, 13 Nov 2016 09:34:12 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2016-11-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-27.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="83666288" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-27.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-11-27.m4v" length="83666288" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2016-11-27</guid>
       <pubDate>Sun, 27 Nov 2016 09:32:25 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2016-12-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-12-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="86875224" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-12-04.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-12-04.m4v" length="86875224" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2016-12-04</guid>
       <pubDate>Sun, 04 Dec 2016 09:32:04 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2016-12-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-12-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-12-18.m4v" type="video/x-m4v" length="83270232"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2016-12-18.m4v" length="83270232" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2016-12-18</guid>
       <pubDate>Sun, 18 Dec 2016 09:34:19 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2017-01-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-08.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="75702845" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-08.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-08.m4v" length="75702845" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-01-08</guid>
       <pubDate>Sun, 08 Jan 2017 09:38:39 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2017-01-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-15.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="85981329" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-15.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-15.m4v" length="85981329" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-01-15</guid>
       <pubDate>Sun, 15 Jan 2017 13:42:00 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2017-01-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="84619799" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-22.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-01-22.m4v" length="84619799" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-01-22</guid>
       <pubDate>Sun, 22 Jan 2017 09:34:05 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2017-03-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-03-26.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="59502540" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-03-26.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-03-26.m4v" length="59502540" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-03-26</guid>
       <pubDate>Sun, 26 Mar 2017 09:30:00 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2017-04-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-04-02.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="80407409" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-04-02.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-04-02.m4v" length="80407409" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-04-02</guid>
       <pubDate>Sun, 02 Apr 2017 09:35:58 -0400</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2017-04-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-04-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="87711224" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-04-30.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-04-30.m4v" length="87711224" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-04-30</guid>
       <pubDate>Sun, 30 Apr 2017 09:35:08 -0400</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2017-05-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-05-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-05-21.m4v" type="video/x-m4v" length="86870443"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-05-21.m4v" length="86870443" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-05-21</guid>
       <pubDate>Sun, 21 May 2017 09:36:42 -0400</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2017-06-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="85200822" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-04.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-04.m4v" length="85200822" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-06-04</guid>
       <pubDate>Sun, 04 Jun 2017 09:35:58 -0400</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2017-06-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="95345386" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-11.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-11.m4v" length="95345386" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-06-11</guid>
       <pubDate>Sun, 11 Jun 2017 09:37:23 -0400</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2017-06-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-18.m4v" type="video/x-m4v" length="82258783"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-06-18.m4v" length="82258783" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-06-18</guid>
       <pubDate>Sun, 18 Jun 2017 09:31:56 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2017-07-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-07-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="85794132" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-07-09.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Monsey_5777/2017-07-09.m4v" length="85794132" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Monsey 5777/2017-07-09</guid>
       <pubDate>Sun, 09 Jul 2017 09:35:36 -0400</pubDate>
     </item>

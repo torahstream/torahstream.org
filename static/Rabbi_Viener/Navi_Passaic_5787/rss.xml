@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5787/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Navi Passaic 5787</title>
+    <link>https://www.torahstream.org/#/topic/Navi_Passaic_5787</link>
+    <description>Navi Passaic 5787</description>
+    <language>en-us</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:author>Rabbi Yosef Viener</itunes:author>
+    <itunes:owner>
+      <itunes:email>webmaster.torahstream@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5787/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <item>
+      <title>2026-10-31 - Messages from the real world; Hiding information to protect?</title>
+      <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5787/2026-10-31.2.mp3</link>
+      <itunes:author>Rabbi Yosef Viener</itunes:author>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5787/2026-10-31.2.mp3" length="17111168" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5787/2026-10-31.2</guid>
+      <pubDate>Sun, 01 Nov 2026 12:41:15 -0500</pubDate>
+    </item>
+  </channel>
+</rss>

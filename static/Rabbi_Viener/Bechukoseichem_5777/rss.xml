@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Copying Society: Parameters of Bechukoseihem Lo Seileichu, 5777</title>
     <link>https://www.torahstream.org/#/topic/Bechukoseichem_5777</link>
     <description>Copying Society: Parameters of Bechukoseihem Lo Seileichu, 5777</description>
@@ -19,7 +19,7 @@
       <title>2016-09-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-21.mp3" length="3588608"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-21.mp3" length="3588608" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-09-21</guid>
       <pubDate>Thu, 27 Feb 2025 08:05:35 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2016-09-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12732928" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-26.mp3" length="12732928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-09-26</guid>
       <pubDate>Thu, 27 Feb 2025 13:58:27 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2016-09-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12135424" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-27.mp3" length="12135424" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-09-27</guid>
       <pubDate>Thu, 27 Feb 2025 13:59:38 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2016-09-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-28.mp3" length="12959232"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-09-28.mp3" length="12959232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-09-28</guid>
       <pubDate>Thu, 27 Feb 2025 14:00:46 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2016-10-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12687872" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-05.mp3" length="12687872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-10-05</guid>
       <pubDate>Thu, 27 Feb 2025 14:01:49 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2016-10-10 Disguising yourself in times of danger</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-10.mp3" length="12826112"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-10.mp3" length="12826112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-10-10</guid>
       <pubDate>Thu, 27 Feb 2025 14:02:53 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2016-10-31 Red bandles, brooms at a chasunah and more on the leChaim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12594407" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-31.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-10-31.mp3" length="12594407" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-10-31</guid>
       <pubDate>Thu, 27 Feb 2025 14:03:53 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2016-11-01 - More on drinking customs, handshakes, and the high-five</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-01.mp3" length="12332137"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-01.mp3" length="12332137" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-01</guid>
       <pubDate>Thu, 27 Feb 2025 14:05:02 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2016-11-02 - When in Rome, do as the Romans do??</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-02.mp3" length="12692627"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-02.mp3" length="12692627" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-02</guid>
       <pubDate>Thu, 27 Feb 2025 14:06:10 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2016-11-07 - Architecture, bells and square luchos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12290968" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-07.mp3" length="12290968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-07</guid>
       <pubDate>Thu, 27 Feb 2025 14:07:14 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2016-11-08 - Ballgames and theater</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13519768" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-08.mp3" length="13519768" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-08</guid>
       <pubDate>Thu, 27 Feb 2025 14:08:21 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2016-11-09 - Play ball?!</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12169133" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-09.mp3" length="12169133" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-09</guid>
       <pubDate>Thu, 27 Feb 2025 14:09:42 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2016-11-14 - Poppy flowers and Veteran's Day</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-14.mp3" type="audio/mpeg" length="12098498"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-14.mp3" length="12098498" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-14</guid>
       <pubDate>Thu, 27 Feb 2025 14:10:48 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2016-11-15 - Giving thanks vs Thanksgiving: an introduction</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-15.mp3" type="audio/mpeg" length="12516875"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-15.mp3" length="12516875" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-15</guid>
       <pubDate>Thu, 27 Feb 2025 14:12:01 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2016-11-16 - Thanksgiving and Rav Moshe; Fireworks and the Fourth of July</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12397130" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-16.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-16.mp3" length="12397130" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-16</guid>
       <pubDate>Thu, 27 Feb 2025 14:13:09 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2016-11-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-21.mp3" length="12127964"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-21.mp3" length="12127964" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-21</guid>
       <pubDate>Thu, 27 Feb 2025 14:14:18 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2016-11-22 - Wishing 'Happy Holidays' or 'Have a Good One'?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12106439" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-22.mp3" length="12106439" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-22</guid>
       <pubDate>Thu, 27 Feb 2025 14:15:24 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2016-11-23 - Trees in shul: two angles.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13074015" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-23.mp3" length="13074015" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-23</guid>
       <pubDate>Thu, 27 Feb 2025 14:16:29 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2016-11-28 - Raising hands during davening; Why is turkey kosher?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-28.mp3" length="11980843"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-28.mp3" length="11980843" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-28</guid>
       <pubDate>Thu, 27 Feb 2025 14:17:36 -0500</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2016-11-29 - Clothing design: are copying society?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11452124" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-29.mp3" length="11452124" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-29</guid>
       <pubDate>Thu, 27 Feb 2025 14:18:41 -0500</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>2016-11-30 - The devil made me do it and the insanity plea.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-30.mp3" type="audio/mpeg" length="12663965"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-11-30.mp3" length="12663965" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-11-30</guid>
       <pubDate>Thu, 27 Feb 2025 14:19:44 -0500</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>2016-12-05 - Your bashert or not?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-05.mp3" length="12972628"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-05.mp3" length="12972628" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-05</guid>
       <pubDate>Thu, 27 Feb 2025 14:20:54 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2016-12-06 - Yarmulka off in a movie theater?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-06.mp3" length="12291804"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-06.mp3" length="12291804" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-06</guid>
       <pubDate>Thu, 27 Feb 2025 14:22:07 -0500</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2016-12-07 - Yarmulkas in the workplace</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12529832" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-07.mp3" length="12529832" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-07</guid>
       <pubDate>Thu, 27 Feb 2025 14:23:08 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2016-12-12 - Kennedy, hats and yarmulkas: what changed and why?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-12.mp3" length="12551534"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-12.mp3" length="12551534" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-12</guid>
       <pubDate>Thu, 27 Feb 2025 14:24:17 -0500</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2016-12-13 - Removal of hats in the Western culture: what was the purpose of the new direction?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-13.mp3" length="12763262"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-13.mp3" length="12763262" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-13</guid>
       <pubDate>Thu, 27 Feb 2025 14:25:27 -0500</pubDate>
     </item>
@@ -227,7 +227,7 @@
       <title>2016-12-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12710181" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-14.mp3" length="12710181" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-14</guid>
       <pubDate>Thu, 27 Feb 2025 14:26:45 -0500</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2016-12-19 - Saints, idols and end of month holidays</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-19.mp3" length="11804464"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-19.mp3" length="11804464" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-19</guid>
       <pubDate>Thu, 27 Feb 2025 14:27:59 -0500</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>2016-12-20 - 'It is all Greek to me' - reading Greek mythology</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12690328" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-20.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-20.mp3" length="12690328" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-20</guid>
       <pubDate>Thu, 27 Feb 2025 14:29:03 -0500</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2016-12-21 - What type of literature is permitted: does it depend on the author?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-21.mp3" length="12949463"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2016-12-21.mp3" length="12949463" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2016-12-21</guid>
       <pubDate>Thu, 27 Feb 2025 14:30:11 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2017-01-02 - Pogroms, security and holiday socks.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-02.mp3" type="audio/mpeg" length="12155008"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-02.mp3" length="12155008" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-02</guid>
       <pubDate>Sat, 07 Jan 2017 19:36:36 -0500</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2017-01-03 - Harry Potter.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-03.mp3" length="13092992"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-03.mp3" length="13092992" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-03</guid>
       <pubDate>Sat, 07 Jan 2017 19:39:50 -0500</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2017-01-04 - Religious healthcare issues.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12777600" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-04.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-04.mp3" length="12777600" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-04</guid>
       <pubDate>Sat, 07 Jan 2017 19:42:41 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2017-01-09 - More on religious health insurance; A Channuka/New Years coctail party?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-09.mp3" type="audio/mpeg" length="12754901"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-09.mp3" length="12754901" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-09</guid>
       <pubDate>Thu, 27 Feb 2025 14:31:15 -0500</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2017-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12069239" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-11.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-11.mp3" length="12069239" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-11</guid>
       <pubDate>Thu, 27 Feb 2025 14:32:21 -0500</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2017-01-16  - Crosswalks on Shabbos; Kneeling while proposing.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11806848" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-16.mp3" length="11806848" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-16</guid>
       <pubDate>Thu, 27 Feb 2025 14:33:28 -0500</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2017-01-17 - Camp olympics; Stamp collecting issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-17.mp3" type="audio/mpeg" length="12349899"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-17.mp3" length="12349899" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-17</guid>
       <pubDate>Thu, 27 Feb 2025 14:34:27 -0500</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2017-01-18 - Double-ring ceremony: not preferred or actually assur?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-18.mp3" length="12574343"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-18.mp3" length="12574343" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-18</guid>
       <pubDate>Thu, 27 Feb 2025 14:35:36 -0500</pubDate>
     </item>
@@ -323,7 +323,7 @@
       <title>2017-01-23 - Missrepresenting and confusing the mesorah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11679910" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-23.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-23.mp3" length="11679910" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-23</guid>
       <pubDate>Thu, 27 Feb 2025 14:36:52 -0500</pubDate>
     </item>
@@ -331,7 +331,7 @@
       <title>2017-01-24 - Rings for men; Rentals to Ovdei Avodah Zorah</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-24.mp3" length="13071714"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-24.mp3" length="13071714" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-24</guid>
       <pubDate>Thu, 27 Feb 2025 14:37:57 -0500</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2017-01-25 - Bas Mitzva - for or against?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-25.mp3" length="12721673"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-25.mp3" length="12721673" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-25</guid>
       <pubDate>Thu, 27 Feb 2025 14:39:09 -0500</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2017-01-30 - History (or lack there of) of Bas Mitzvah Celebrations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-30.mp3" type="audio/mpeg" length="13353210"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-30.mp3" length="13353210" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-30</guid>
       <pubDate>Thu, 27 Feb 2025 14:40:18 -0500</pubDate>
     </item>
@@ -355,7 +355,7 @@
       <title>2017-01-31 - Bar/Bas Mitzva - Shechecheyanu? When to go to a simcha?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-31.mp3" type="audio/mpeg" length="12581030"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-01-31.mp3" length="12581030" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-01-31</guid>
       <pubDate>Thu, 27 Feb 2025 14:41:32 -0500</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2017-02-01 - Bas Mitzva summary; Birthday celebration part 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12085539" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-01.mp3" length="12085539" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-01</guid>
       <pubDate>Thu, 27 Feb 2025 14:42:44 -0500</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2017-02-06 - Milestones of life; Hashpoah from the day of the Bris</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12412174" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-06.mp3" length="12412174" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-06</guid>
       <pubDate>Thu, 27 Feb 2025 14:43:49 -0500</pubDate>
     </item>
@@ -379,7 +379,7 @@
       <title>2017-02-07 - Birthday candles and wishes; Introduction to Jewish Names</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-07.mp3" length="13154052"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-07.mp3" length="13154052" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-07</guid>
       <pubDate>Thu, 27 Feb 2025 14:44:58 -0500</pubDate>
     </item>
@@ -387,7 +387,7 @@
       <title>2017-02-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-08.mp3" length="13490509"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-08.mp3" length="13490509" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-08</guid>
       <pubDate>Thu, 27 Feb 2025 14:45:59 -0500</pubDate>
     </item>
@@ -395,7 +395,7 @@
       <title>2017-02-13 - New Jersey law extending baby name submission; Origin of Yiddish names</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12015531" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-13.mp3" length="12015531" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-13</guid>
       <pubDate>Thu, 27 Feb 2025 14:47:20 -0500</pubDate>
     </item>
@@ -403,7 +403,7 @@
       <title>2017-02-14 - "Lo shinu es shemom" - why would it be permissible to give a non-Jewish name? The evolution of Yiddish and Yiddish names</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12545294" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-14.mp3" length="12545294" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-14</guid>
       <pubDate>Thu, 27 Feb 2025 14:48:26 -0500</pubDate>
     </item>
@@ -411,7 +411,7 @@
       <title>2017-02-15 - Evolution of languages - Yiddish, modern Hebrew and other hybrids - it's effects and aftermath.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-15.mp3" type="audio/mpeg" length="12780814"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-15.mp3" length="12780814" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-15</guid>
       <pubDate>Thu, 27 Feb 2025 14:49:34 -0500</pubDate>
     </item>
@@ -419,7 +419,7 @@
       <title>2017-02-20 - Modern language: Yeshivish, Yinglish and the Queen's English</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-20.mp3" length="12187103"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-20.mp3" length="12187103" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-20</guid>
       <pubDate>Thu, 27 Feb 2025 14:50:33 -0500</pubDate>
     </item>
@@ -427,7 +427,7 @@
       <title>2017-02-21 - A safeguard for our people. More on lines of communication.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-21.mp3" type="audio/mpeg" length="13083626"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-21.mp3" length="13083626" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-21</guid>
       <pubDate>Thu, 27 Feb 2025 14:51:38 -0500</pubDate>
     </item>
@@ -435,7 +435,7 @@
       <title>2017-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13048517" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-22.mp3" length="13048517" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-22</guid>
       <pubDate>Thu, 27 Feb 2025 14:52:45 -0500</pubDate>
     </item>
@@ -443,7 +443,7 @@
       <title>2017-02-27 - Is it March, Adar or the Twelth Month?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13191296" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-27.mp3" length="13191296" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-27</guid>
       <pubDate>Thu, 27 Feb 2025 14:53:51 -0500</pubDate>
     </item>
@@ -451,7 +451,7 @@
       <title>2017-02-28 - Is it Sunday or Yom Rishon?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12454983" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-28.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-02-28.mp3" length="12454983" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-02-28</guid>
       <pubDate>Thu, 27 Feb 2025 14:54:58 -0500</pubDate>
     </item>
@@ -459,7 +459,7 @@
       <title>2017-03-01 - The importance of Shir Shel Yom at the end of Shacharis. Can doctors revive the dead?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-01.mp3" type="audio/mpeg" length="12586254"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-01.mp3" length="12586254" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-01</guid>
       <pubDate>Thu, 27 Feb 2025 14:56:07 -0500</pubDate>
     </item>
@@ -467,7 +467,7 @@
       <title>2017-03-06 - Dating of bank forms and other legal documents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13464387" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-06.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-06.mp3" length="13464387" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-06</guid>
       <pubDate>Thu, 27 Feb 2025 14:57:16 -0500</pubDate>
     </item>
@@ -475,7 +475,7 @@
       <title>2017-03-07 - What happened in 1948? A closer look at how we perceive history</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12443312" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-07.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-07.mp3" length="12443312" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-07</guid>
       <pubDate>Thu, 27 Feb 2025 14:58:31 -0500</pubDate>
     </item>
@@ -483,7 +483,7 @@
       <title>2017-03-08 - Hair - how long is too long?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-08.mp3" type="audio/mpeg" length="12742330"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-08.mp3" length="12742330" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-08</guid>
       <pubDate>Thu, 27 Feb 2025 14:59:43 -0500</pubDate>
     </item>
@@ -491,7 +491,7 @@
       <title>2017-03-13 - Bangs, chupps, and vanity - the balance</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12143427" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-13.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-13.mp3" length="12143427" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-13</guid>
       <pubDate>Thu, 27 Feb 2025 15:00:55 -0500</pubDate>
     </item>
@@ -499,7 +499,7 @@
       <title>2017-03-14 - Hair, vanity and peer pressure</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12966597" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-14.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-14.mp3" length="12966597" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-14</guid>
       <pubDate>Thu, 27 Feb 2025 15:01:54 -0500</pubDate>
     </item>
@@ -507,7 +507,7 @@
       <title>2017-03-15 The Skeleton in the Closet - Identifying the Five Places Where it is Assur to Use a Razor</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="10643584" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-15.mp3" length="10643584" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-15</guid>
       <pubDate>Thu, 27 Feb 2025 15:03:06 -0500</pubDate>
     </item>
@@ -515,7 +515,7 @@
       <title>2017-03-20 - Reasons for mitzvos: the danger and the opportunity</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12590225" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-20.mp3" length="12590225" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-20</guid>
       <pubDate>Thu, 27 Feb 2025 15:04:01 -0500</pubDate>
     </item>
@@ -523,7 +523,7 @@
       <title>2017-03-21 - Shavers and razors, part 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12748423" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-21.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-21.mp3" length="12748423" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-21</guid>
       <pubDate>Thu, 27 Feb 2025 15:05:13 -0500</pubDate>
     </item>
@@ -531,7 +531,7 @@
       <title>2017-03-22 - Shavers and razors, part 2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12931907" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-22.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-22.mp3" length="12931907" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-22</guid>
       <pubDate>Thu, 27 Feb 2025 15:06:23 -0500</pubDate>
     </item>
@@ -539,7 +539,7 @@
       <title>2017-03-27 The Clean-Shaven Face - Nature Or Nurture?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-27.mp3" type="audio/mpeg" length="13035648"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-27.mp3" length="13035648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-27</guid>
       <pubDate>Sun, 02 Apr 2017 19:51:21 -0400</pubDate>
     </item>
@@ -547,7 +547,7 @@
       <title>2017-03-28 Throwing pennies in a pond, a viewing at a funeral and Groundhog Day</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-28.mp3" length="13486208"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-28.mp3" length="13486208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-28</guid>
       <pubDate>Sun, 02 Apr 2017 23:04:52 -0400</pubDate>
     </item>
@@ -555,7 +555,7 @@
       <title>2017-03-29 - Non-Jewish music, holiday presents revisited, foul language and Loshon HaKodesh</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11810995" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-29.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-03-29.mp3" length="11810995" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-03-29</guid>
       <pubDate>Wed, 29 Mar 2017 21:22:47 -0400</pubDate>
     </item>
@@ -563,7 +563,7 @@
       <title>2017-04-24 - Pretzels and the Pandora's box</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-04-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-04-24.mp3" type="audio/mpeg" length="11745531"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-04-24.mp3" length="11745531" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-04-24</guid>
       <pubDate>Sun, 02 Mar 2025 07:43:17 -0500</pubDate>
     </item>
@@ -571,7 +571,7 @@
       <title>2017-04-25 - Crucial birthday advice</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-04-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11854618" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-04-25.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2017-04-25.mp3" length="11854618" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2017-04-25</guid>
       <pubDate>Sun, 02 Mar 2025 07:44:25 -0500</pubDate>
     </item>
@@ -579,7 +579,7 @@
       <title>2023-12-18 - "Holiday" Gifts, Names and Q&amp;A</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2023-12-18.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2023-12-18.2.mp3" type="audio/mpeg" length="9263232"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2023-12-18.2.mp3" length="9263232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2023-12-18.2</guid>
       <pubDate>Sun, 24 Dec 2023 13:53:02 -0500</pubDate>
     </item>
@@ -587,7 +587,7 @@
       <title>2024-01-01 - A close look leHalacha at blending foreign culture with our Hashkofas HaChaim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2024-01-01.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2024-01-01.2.mp3" type="audio/mpeg" length="37161088"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Bechukoseichem_5777/2024-01-01.2.mp3" length="37161088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Bechukoseichem 5777/2024-01-01.2</guid>
       <pubDate>Tue, 02 Jan 2024 07:42:07 -0500</pubDate>
     </item>

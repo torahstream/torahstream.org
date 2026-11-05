@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/vodcast.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Q and A For Bochurim</title>
     <link>https://www.torahstream.org/#/topic/Q_and_A_For_Bochurim</link>
     <description>Q and A For Bochurim</description>
@@ -19,7 +19,7 @@
       <title>5775.2015-08-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5775.2015-08-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="100546718" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5775.2015-08-05.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5775.2015-08-05.m4v" length="100546718" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5775.2015-08-05</guid>
       <pubDate>Wed, 05 Aug 2015 22:54:17 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>5777.2017-05-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5777.2017-05-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5777.2017-05-22.m4v" length="74010130"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5777.2017-05-22.m4v" length="74010130" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5777.2017-05-22</guid>
       <pubDate>Fri, 26 May 2017 09:02:12 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>5781.2020-10-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5781.2020-10-13.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5781.2020-10-13.m4v" length="117027231"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5781.2020-10-13.m4v" length="117027231" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5781.2020-10-13</guid>
       <pubDate>Tue, 20 Oct 2020 22:39:18 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>5781.2021-08-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5781.2021-08-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="113268353" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5781.2021-08-05.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5781.2021-08-05.m4v" length="113268353" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5781.2021-08-05</guid>
       <pubDate>Sun, 08 Aug 2021 09:04:26 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>5782.2021-10-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2021-10-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2021-10-03.m4v" length="116285201"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2021-10-03.m4v" length="116285201" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5782.2021-10-03</guid>
       <pubDate>Tue, 05 Oct 2021 13:49:42 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>5782.2021-12-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2021-12-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="47148293" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2021-12-03.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2021-12-03.m4v" length="47148293" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5782.2021-12-03</guid>
       <pubDate>Tue, 07 Dec 2021 07:46:22 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>5782.2022-04-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2022-04-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2022-04-25.m4v" length="151960477"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2022-04-25.m4v" length="151960477" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5782.2022-04-25</guid>
       <pubDate>Wed, 27 Apr 2022 21:46:05 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>5782.2022-08-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2022-08-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="115641334" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2022-08-25.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5782.2022-08-25.m4v" length="115641334" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5782.2022-08-25</guid>
       <pubDate>Tue, 30 Aug 2022 07:40:39 -0400</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>5783.2022-10-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5783.2022-10-20.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="130736652" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5783.2022-10-20.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5783.2022-10-20.m4v" length="130736652" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5783.2022-10-20</guid>
       <pubDate>Thu, 27 Oct 2022 20:55:24 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>5784.2023-10-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5784.2023-10-10.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="127592183" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5784.2023-10-10.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5784.2023-10-10.m4v" length="127592183" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5784.2023-10-10</guid>
       <pubDate>Wed, 18 Oct 2023 07:43:30 -0400</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>5785.2025-04-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5785.2025-04-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="279985695" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5785.2025-04-22.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5785.2025-04-22.m4v" length="279985695" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5785.2025-04-22</guid>
       <pubDate>Sun, 27 Apr 2025 08:34:02 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>5786.2025-10-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5786.2025-10-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="143122445" url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5786.2025-10-16.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Q_and_A_For_Bochurim/5786.2025-10-16.m4v" length="143122445" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Q and A For Bochurim/5786.2025-10-16</guid>
       <pubDate>Tue, 21 Oct 2025 07:44:03 -0400</pubDate>
     </item>

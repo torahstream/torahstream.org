@@ -6,4 +6,8 @@ topic_id: "On_Tefillah"
 count: 30
 has_video: false
 ongoing: false
+category: "contemporary"
+family: "On_Tefillah"
+year: ""
+listing_title: ""
 ---

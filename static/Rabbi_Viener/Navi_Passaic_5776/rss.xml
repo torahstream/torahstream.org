@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/rss.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Passaic 5776</title>
     <link>https://www.torahstream.org/#/topic/Navi_Passaic_5776</link>
     <description>Navi Passaic 5776</description>
@@ -19,7 +19,7 @@
       <title>2015-11-07 Realities and limitations of dealing with our enemies: past and present</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-11-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-11-07.mp3" type="audio/mpeg" length="14454912"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-11-07.mp3" length="14454912" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2015-11-07</guid>
       <pubDate>Sun, 08 Nov 2015 14:12:40 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2015-11-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-11-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="14524928" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-11-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-11-21.mp3" length="14524928" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2015-11-21</guid>
       <pubDate>Fri, 04 Dec 2015 07:45:57 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2015-12-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-05.mp3" type="audio/mpeg" length="12420608"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-05.mp3" length="12420608" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2015-12-05</guid>
       <pubDate>Sun, 06 Dec 2015 18:18:59 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2015-12-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11228672" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-19.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-19.mp3" length="11228672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2015-12-19</guid>
       <pubDate>Mon, 21 Dec 2015 22:02:14 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2015-12-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14878208" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2015-12-26.mp3" length="14878208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2015-12-26</guid>
       <pubDate>Sun, 27 Dec 2015 10:14:39 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2016-01-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-02.mp3" type="audio/mpeg" length="16300032"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-02.mp3" length="16300032" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2016-01-02</guid>
       <pubDate>Sun, 03 Jan 2016 09:50:35 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2016-01-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="15255040" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-09.mp3" length="15255040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2016-01-09</guid>
       <pubDate>Sun, 10 Jan 2016 09:50:49 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2016-01-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14981632" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-16.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-01-16.mp3" length="14981632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2016-01-16</guid>
       <pubDate>Sun, 17 Jan 2016 10:42:41 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2016-02-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-02-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17066112" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-02-06.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-02-06.mp3" length="17066112" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2016-02-06</guid>
       <pubDate>Thu, 11 Feb 2016 22:03:05 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2016-03-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-03-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="29817856" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-03-05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-03-05.mp3" length="29817856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2016-03-05</guid>
       <pubDate>Sun, 06 Mar 2016 18:54:17 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2016-03-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-03-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14350336" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-03-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5776/2016-03-12.mp3" length="14350336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5776/2016-03-12</guid>
       <pubDate>Sun, 13 Mar 2016 09:49:37 -0400</pubDate>
     </item>

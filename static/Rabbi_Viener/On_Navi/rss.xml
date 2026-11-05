@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/On_Navi/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/On_Navi/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi: Ageless Wisdom - Timely Application</title>
     <link>https://www.torahstream.org/#/topic/On_Navi</link>
     <description>Navi: Ageless Wisdom - Timely Application</description>
@@ -17,38 +17,38 @@
     </itunes:category>
     <item>
       <title>On Navi 01
-      A. Personal Decisions &amp; Historical Accomplishments
-      B. Real Stories Of a Divine 'Set Up' &amp; the Vanishing Nissan</title>
+A. Personal Decisions &amp; Historical Accomplishments
+B. Real Stories Of a Divine 'Set Up' &amp; the Vanishing Nissan</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22411392" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_01.mp3" length="22411392" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 01</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 02
-      A. Pressure And Prayer
-      B. What To Do If Hashem Says No</title>
+A. Pressure And Prayer
+B. What To Do If Hashem Says No</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="20463744" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_02.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_02.mp3" length="20463744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 02</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 03
-      A. Undercover Chesed
-      B. I Want And I Shall Have</title>
+A. Undercover Chesed
+B. I Want And I Shall Have</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19890304" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_03.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_03.mp3" length="19890304" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 03</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 04
-      A. Safeguards For the Mesorah
-      B. Inducing Labor And the Change Of Mazal</title>
+A. Safeguards For the Mesorah
+B. Inducing Labor And the Change Of Mazal </title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_04.mp3" length="21885056" type="audio/mpeg"/>
@@ -57,18 +57,18 @@
     </item>
     <item>
       <title>On Navi 05
-      A. How To Acquire the Tools For Success
-      B. Changing Mazal By Changing Places</title>
+A. How To Acquire the Tools For Success
+B. Changing Mazal By Changing Places</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22589568" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_05.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_05.mp3" length="22589568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 05</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 06
-      A. Shidduch Information
-      B. Being Pushy And Zerizus - the Balance</title>
+A. Shidduch Information
+B. Being Pushy And Zerizus - the Balance</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_06.mp3" length="33284224" type="audio/mpeg"/>
@@ -77,28 +77,28 @@
     </item>
     <item>
       <title>On Navi 07
-      A. Saturating Objects with Kedusha
-      B. Bungalow Colonies</title>
+A. Saturating Objects with Kedusha
+B. Bungalow Colonies</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="25512064" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_07.mp3" length="25512064" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 07</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 08
-      A. When Do We Lose Free Choice
-      B. Driving Habits</title>
+A. When Do We Lose Free Choice
+B. Driving Habits</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="23042176" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_08.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_08.mp3" length="23042176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 08</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 09
-      A. The Curse On the House Of Eli HaKohen
-      B. The Real Power Of the Jews</title>
+A. The Curse On the House Of Eli HaKohen
+B. The Real Power Of the Jews</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_09.mp3" length="23746688" type="audio/mpeg"/>
@@ -107,28 +107,28 @@
     </item>
     <item>
       <title>On Navi 10
-      A. How To Bypass a Curse
-      B. Rules And Regulations Of Prophecy</title>
+A. How To Bypass a Curse
+B. Rules And Regulations Of Prophecy</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_10.mp3" length="25286784"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_10.mp3" length="25286784" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 10</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 11
-      A. Reporting Bad News
-      B. Shabbos Shmoozing</title>
+A. Reporting Bad News
+B. Shabbos Shmoozing</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21284992" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_11.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_11.mp3" length="21284992" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 11</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 12
-      A. Decision Making in the Olden Times
-      B. A Directive From the Navi with Catastrophic Results?</title>
+A. Decision Making in the Olden Times
+B. A Directive From the Navi with Catastrophic Results?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_12.mp3" length="23042176" type="audio/mpeg"/>
@@ -137,41 +137,41 @@
     </item>
     <item>
       <title>On Navi 13
-      A. Priority in Tragedy
-      B. For the Love Of Hashem</title>
+A. Priority in Tragedy
+B. For the Love Of Hashem</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_13.mp3" length="21483648"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_13.mp3" length="21483648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 13</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:43 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 14
-      A. Avoda Zara 101
-      B. Business Lunch Issues</title>
+A. Avoda Zara 101
+B. Business Lunch Issues</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="23636096" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_14.mp3" length="23636096" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 14</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:44 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 15
-      A. How Many Should Be Learning?
-      B. Demonstrations</title>
+A. How Many Should Be Learning?
+B. Demonstrations</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="21057664" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_15.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_15.mp3" length="21057664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 15</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:44 -0400</pubDate>
     </item>
     <item>
       <title>On Navi 16
-      A. Unique Idol Questions
-      B. Modern Peace Initiatives</title>
+A. Unique Idol Questions
+B. Modern Peace Initiatives</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_16.mp3" length="23165056"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_16.mp3" length="23165056" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 16</guid>
       <pubDate>Sun, 19 Aug 2012 18:03:44 -0400</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>On Navi 17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="25149568" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_17.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_17.mp3" length="25149568" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 17</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>On Navi 18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="22532224" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_18.mp3" length="22532224" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 18</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>On Navi 19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_19.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_19.mp3" length="15548544"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_19.mp3" length="15548544" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 19</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>On Navi 21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="22743168" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_21.mp3" length="22743168" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 21</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>On Navi 22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_22.mp3" length="19042432"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_22.mp3" length="19042432" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 22</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>On Navi 26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_26.mp3" length="21155968"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_26.mp3" length="21155968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 26</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>On Navi 28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22788224" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_28.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_28.mp3" length="22788224" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 28</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>On Navi 29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_29.mp3" length="25495680"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_29.mp3" length="25495680" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 29</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>On Navi 30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_30.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_30.mp3" length="25327744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_30.mp3" length="25327744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 30</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>On Navi 31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21201024" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_31.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_31.mp3" length="21201024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 31</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>On Navi 32</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_32.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="23969920" url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_32.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/On_Navi/On_Navi_32.mp3" length="23969920" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/On Navi/On Navi 32</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:24 -0500</pubDate>
     </item>

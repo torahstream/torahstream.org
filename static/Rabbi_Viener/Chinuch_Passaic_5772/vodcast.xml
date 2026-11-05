@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/vodcast.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Chinuch Passaic 5772</title>
     <link>https://www.torahstream.org/#/topic/Chinuch_Passaic_5772</link>
     <description>Chinuch Passaic 5772</description>
@@ -19,7 +19,7 @@
       <title>2011-11-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="96694569" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-05.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-05.m4v" length="96694569" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2011-11-05</guid>
       <pubDate>Sun, 02 Jun 2013 12:11:31 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2011-11-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-12.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="113241257" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-12.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-12.m4v" length="113241257" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2011-11-12</guid>
       <pubDate>Sun, 02 Jun 2013 12:37:01 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2011-11-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-26.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="111873709" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-26.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-11-26.m4v" length="111873709" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2011-11-26</guid>
       <pubDate>Sun, 02 Jun 2013 12:54:17 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2011-12-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-12-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="107481986" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-12-03.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2011-12-03.m4v" length="107481986" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2011-12-03</guid>
       <pubDate>Sun, 02 Jun 2013 13:13:16 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2012-01-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-07.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="111498931" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-07.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-07.m4v" length="111498931" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2012-01-07</guid>
       <pubDate>Sun, 02 Jun 2013 14:03:31 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2012-01-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-14.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="83174420" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-14.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-14.m4v" length="83174420" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2012-01-14</guid>
       <pubDate>Thu, 19 Jun 2014 07:59:08 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2012-01-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-21.m4v" type="video/x-m4v" length="90119728"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Chinuch_Passaic_5772/2012-01-21.m4v" length="90119728" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Chinuch Passaic 5772/2012-01-21</guid>
       <pubDate>Sun, 02 Jun 2013 14:29:50 -0400</pubDate>
     </item>

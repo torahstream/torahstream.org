@@ -6,4 +6,8 @@ topic_id: "Shidduchim"
 count: 1
 has_video: false
 ongoing: false
+category: "family"
+family: "Shidduchim"
+year: ""
+listing_title: ""
 ---

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5773 (for married couples only)</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5773</link>
     <description>Shovavim, 5773 (for married couples only)</description>
@@ -19,7 +19,7 @@
       <title>2013-01-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22217264" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-13.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-13.mp3" length="22217264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5773/2013-01-13</guid>
       <pubDate>Thu, 19 Jun 2014 09:48:51 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2013-01-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-20.mp3" length="21681664"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-20.mp3" length="21681664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5773/2013-01-20</guid>
       <pubDate>Thu, 19 Jun 2014 09:49:05 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2013-01-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-27.mp3" type="audio/mpeg" length="20973056"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-01-27.mp3" length="20973056" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5773/2013-01-27</guid>
       <pubDate>Thu, 19 Jun 2014 09:49:07 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2013-02-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-02-03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-02-03.mp3" type="audio/mpeg" length="19671040"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-02-03.mp3" length="19671040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5773/2013-02-03</guid>
       <pubDate>Thu, 19 Jun 2014 09:49:11 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2013-02-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-02-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="21002240" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-02-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5773/2013-02-17.mp3" length="21002240" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5773/2013-02-17</guid>
       <pubDate>Thu, 19 Jun 2014 09:49:13 -0400</pubDate>
     </item>

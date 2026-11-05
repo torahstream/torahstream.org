@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Selected_Parshiyos/rss.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Selected_Parshiyos/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Selected Parshiyos</title>
     <link>https://www.torahstream.org/#/topic/Selected_Parshiyos</link>
     <description>Selected Parshiyos</description>
@@ -17,58 +17,58 @@
     </itunes:category>
     <item>
       <title>Selected Parshiyos 01
-      A. Rising To the Small Occasions
-      B. Reward And Punishment</title>
+A. Rising To the Small Occasions
+B. Reward And Punishment</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="19144832" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_01.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_01.mp3" length="19144832" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 01</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 02
-      A. Rating the Beis Din
-      B. How To Handle a Loss in Beis Din</title>
+A. Rating the Beis Din
+B. How To Handle a Loss in Beis Din</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17246336" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_02.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_02.mp3" length="17246336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 02</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 03
-      A. When Can One Go To Secular Court?
-      B. How To Treat Widows And Orphans</title>
+A. When Can One Go To Secular Court?
+B. How To Treat Widows And Orphans</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_03.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_03.mp3" length="17883264"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_03.mp3" length="17883264" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 03</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 04
-      A. Loaning Money Without Proof
-      B. Paying Back Loans</title>
+A. Loaning Money Without Proof
+B. Paying Back Loans</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_04.mp3" length="20965504"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_04.mp3" length="20965504" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 04</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 05
-      A. Ribis Questions - Borrowing a Credit Card
-      B. Tehillim And Pesukim at Night</title>
+A. Ribis Questions - Borrowing a Credit Card
+B. Tehillim And Pesukim at Night</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16281728" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_05.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_05.mp3" length="16281728" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 05</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 06
-      A. Secular Talk in Shul
-      B. Q And A Format For Learning</title>
+A. Secular Talk in Shul
+B. Q And A Format For Learning</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_06.mp3" length="18409600" type="audio/mpeg"/>
@@ -77,28 +77,28 @@
     </item>
     <item>
       <title>Selected Parshiyos 07
-      A. Definition Of Sakanos Nefashos
-      B. Inviting the Not Yet Frum For Shabbos</title>
+A. Definition Of Sakanos Nefashos
+B. Inviting the Not Yet Frum For Shabbos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_07.mp3" length="17948800"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_07.mp3" length="17948800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 07</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 08
-      A. Taking Revenge
-      B. Parameter Of Loving Another Jew</title>
+A. Taking Revenge
+B. Parameter Of Loving Another Jew</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="17784960" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_08.mp3" length="17784960" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 08</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:06 -0400</pubDate>
     </item>
     <item>
       <title>Selected Parshiyos 09
-      A. The Yoke Of Mitzvos
-      B. Shemita Miracles</title>
+A. The Yoke Of Mitzvos
+B. Shemita Miracles</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_09.mp3" length="19789952" type="audio/mpeg"/>
@@ -107,8 +107,8 @@
     </item>
     <item>
       <title>Selected Parshiyos 10
-      A. Secrets To Success in Learning
-      B. It Tastes Good But It's Treif</title>
+A. Secrets To Success in Learning
+B. It Tastes Good But It's Treif</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_10.mp3" length="21246080" type="audio/mpeg"/>
@@ -117,8 +117,8 @@
     </item>
     <item>
       <title>Selected Parshiyos 11
-      A. How To Treat Employees
-      B. Giving Away Money in Our Life Time</title>
+A. How To Treat Employees
+B. Giving Away Money in Our Life Time</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
       <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_11.mp3" length="18129024" type="audio/mpeg"/>
@@ -127,11 +127,11 @@
     </item>
     <item>
       <title>Selected Parshiyos 12
-      A. Focusing Under Pressure
-      B. Looking For the Good in People</title>
+A. Focusing Under Pressure
+B. Looking For the Good in People</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22866048" url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_12.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Selected_Parshiyos/Selected_Parshiyos_12.mp3" length="22866048" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Selected Parshiyos/Selected Parshiyos 12</guid>
       <pubDate>Sun, 19 Aug 2012 18:05:07 -0400</pubDate>
     </item>

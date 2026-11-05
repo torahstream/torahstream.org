@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/vodcast.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Shovavim, 5782</title>
     <link>https://www.torahstream.org/#/topic/Shovavim_Monsey_5782</link>
     <description>Shovavim, 5782</description>
@@ -19,7 +19,7 @@
       <title>2022-01-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="87482418" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-09.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-09.m4v" length="87482418" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5782/2022-01-09</guid>
       <pubDate>Sun, 09 Jan 2022 17:07:10 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2022-01-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-16.m4v" type="video/x-m4v" length="88036988"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-16.m4v" length="88036988" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5782/2022-01-16</guid>
       <pubDate>Sun, 16 Jan 2022 09:44:32 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2022-01-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-30.m4v" type="video/x-m4v" length="82470431"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-01-30.m4v" length="82470431" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5782/2022-01-30</guid>
       <pubDate>Sun, 30 Jan 2022 09:41:28 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2022-02-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-02-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="84868840" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-02-06.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Shovavim_Monsey_5782/2022-02-06.m4v" length="84868840" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Shovavim Monsey 5782/2022-02-06</guid>
       <pubDate>Sun, 06 Feb 2022 09:46:00 -0500</pubDate>
     </item>

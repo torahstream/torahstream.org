@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link rel="self" href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/rss.xml" type="application/rss+xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Passaic 5783</title>
     <link>https://www.torahstream.org/#/topic/Navi_Passaic_5783</link>
     <description>Navi Passaic 5783</description>
@@ -19,7 +19,7 @@
       <title>2022-11-05 - Intro to Sefer Yehoshua. Transition, Change, and Necessary Chizuk.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-05.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-05.2.mp3" type="audio/mpeg" length="14143616"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-05.2.mp3" length="14143616" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-11-05.2</guid>
       <pubDate>Sun, 06 Nov 2022 13:57:38 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2022-11-19 - Lurking danger and preventative measures</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-19.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13228160" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-19.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-19.2.mp3" length="13228160" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-11-19.2</guid>
       <pubDate>Sun, 20 Nov 2022 08:37:27 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2022-11-26 - Planet Earth: Population Growth, Temperature Control, and Space Constraints</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-26.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11899008" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-26.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-11-26.2.mp3" length="11899008" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-11-26.2</guid>
       <pubDate>Sun, 27 Nov 2022 08:40:52 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2022-12-03 - Claims and Counterclaims: Explaining Ownership in the Middle East</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-03.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="16054400" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-03.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-03.2.mp3" length="16054400" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-12-03.2</guid>
       <pubDate>Sun, 04 Dec 2022 09:43:27 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2022-12-17 - Personal Time and the real eved Hashem</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-17.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-17.2.mp3" type="audio/mpeg" length="17227904"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-17.2.mp3" length="17227904" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-12-17.2</guid>
       <pubDate>Sun, 18 Dec 2022 08:40:31 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2022-12-31 - Personal debt, national responsibility, and family needs</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-31.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12826752" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-31.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2022-12-31.2.mp3" length="12826752" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2022-12-31.2</guid>
       <pubDate>Sun, 01 Jan 2023 08:38:19 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2023-01-28 - Positive Attitudes: Circumstance and Reaction</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-01-28.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="17064064" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-01-28.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-01-28.2.mp3" length="17064064" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-01-28.2</guid>
       <pubDate>Thu, 02 Feb 2023 22:20:08 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2023-02-18 - Looks Can be Deceiving: Fame, Success and Lessons from the Pacific</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-18.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-18.2.mp3" type="audio/mpeg" length="15284352"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-18.2.mp3" length="15284352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-02-18.2</guid>
       <pubDate>Sun, 19 Feb 2023 08:37:44 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2023-02-25 - Real dimensions in Kedusha: Redrawing physical realities with Ruchnius</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-25.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="22661248" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-25.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-02-25.2.mp3" length="22661248" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-02-25.2</guid>
       <pubDate>Sun, 26 Feb 2023 08:47:13 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2023-03-04 - Two places at once? Positive peer pressure</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-04.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13392000" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-04.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-04.2.mp3" length="13392000" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-03-04.2</guid>
       <pubDate>Sun, 05 Mar 2023 08:35:12 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2023-03-11 - Stone Monuments: How to Remember and What to Focus on</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-11.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-11.2.mp3" type="audio/mpeg" length="11250227"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/2023-03-11.2.mp3" length="11250227" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/2023-03-11.2</guid>
       <pubDate>Sun, 12 Mar 2023 08:32:57 -0400</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2023-01-14 - Attitude and interpretation: Maintaining calm during the storm</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230114.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230114.2.mp3" type="audio/mpeg" length="16013440"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230114.2.mp3" length="16013440" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230114.2</guid>
       <pubDate>Sun, 15 Jan 2023 10:40:40 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2023-01-21 - Observation, Interpretation, and Daring Conclusions</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230121.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230121.2.mp3" type="audio/mpeg" length="15476864"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230121.2.mp3" length="15476864" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230121.2</guid>
       <pubDate>Sun, 22 Jan 2023 08:42:04 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2023-02-04 - Follow the Leader: Final Preparations Before Entry</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230204.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="14997632" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230204.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5783/20230204.2.mp3" length="14997632" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5783/20230204.2</guid>
       <pubDate>Sun, 05 Feb 2023 08:37:06 -0500</pubDate>
     </item>

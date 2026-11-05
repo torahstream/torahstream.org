@@ -6,4 +6,8 @@ topic_id: "Around_The_Year_5779"
 count: 9
 has_video: true
 ongoing: false
+category: "around-the-year"
+family: "Around_The_Year"
+year: "5779"
+listing_title: ""
 ---

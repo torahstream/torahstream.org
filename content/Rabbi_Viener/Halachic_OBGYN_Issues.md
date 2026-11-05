@@ -6,4 +6,8 @@ topic_id: "Halachic_OBGYN_Issues"
 count: 4
 has_video: false
 ongoing: false
+category: "shovavim"
+family: "Halachic_OBGYN_Issues"
+year: ""
+listing_title: ""
 ---

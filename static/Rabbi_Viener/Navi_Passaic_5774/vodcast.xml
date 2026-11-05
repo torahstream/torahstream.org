@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/vodcast.xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Navi Passaic 5774</title>
     <link>https://www.torahstream.org/#/topic/Navi_Passaic_5774</link>
     <description>Navi Passaic 5774</description>
@@ -19,7 +19,7 @@
       <title>2013-11-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-11-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-11-09.m4v" length="119755053"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-11-09.m4v" length="119755053" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2013-11-09</guid>
       <pubDate>Tue, 24 Dec 2013 08:09:31 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2013-11-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-11-23.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-11-23.m4v" length="33647664"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-11-23.m4v" length="33647664" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2013-11-23</guid>
       <pubDate>Thu, 12 Dec 2013 00:01:12 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2013-12-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-07.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-07.m4v" type="video/x-m4v" length="60040436"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-07.m4v" length="60040436" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2013-12-07</guid>
       <pubDate>Thu, 12 Dec 2013 00:26:12 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2013-12-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-21.m4v" type="video/x-m4v" length="74048837"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-21.m4v" length="74048837" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2013-12-21</guid>
       <pubDate>Tue, 24 Dec 2013 08:39:07 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2013-12-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-28.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-28.m4v" length="73024769"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2013-12-28.m4v" length="73024769" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2013-12-28</guid>
       <pubDate>Sun, 29 Dec 2013 17:15:33 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2014-01-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="56455641" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-04.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-04.m4v" length="56455641" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-01-04</guid>
       <pubDate>Wed, 15 Jan 2014 22:14:29 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2014-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="53570438" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-11.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-11.m4v" length="53570438" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-01-11</guid>
       <pubDate>Mon, 13 Jan 2014 22:08:01 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2014-01-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-18.m4v" length="71148086"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-01-18.m4v" length="71148086" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-01-18</guid>
       <pubDate>Mon, 27 Jan 2014 22:20:35 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2014-02-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-01.m4v" length="51788309"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-01.m4v" length="51788309" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-02-01</guid>
       <pubDate>Sun, 23 Feb 2014 12:49:26 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2014-02-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-15.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-15.m4v" type="video/x-m4v" length="38974957"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-15.m4v" length="38974957" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-02-15</guid>
       <pubDate>Sun, 23 Feb 2014 15:42:25 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2014-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-22.m4v" length="56125169"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-02-22.m4v" length="56125169" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-02-22</guid>
       <pubDate>Sun, 23 Feb 2014 22:01:35 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2014-03-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-03-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-03-01.m4v" length="73950115"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Navi_Passaic_5774/2014-03-01.m4v" length="73950115" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Navi Passaic 5774/2014-03-01</guid>
       <pubDate>Mon, 17 Mar 2014 22:45:37 -0400</pubDate>
     </item>

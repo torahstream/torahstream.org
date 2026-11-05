@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Spousal_Responsibilities_II/rss.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Spousal_Responsibilities_II/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Spousal Responsibilities: Insights, Halachos and Hashkafos Pertaining to Jewish Marriage and Home, (Series 2)</title>
     <link>https://www.torahstream.org/#/topic/Spousal_Responsibilities_II</link>
     <description>Spousal Responsibilities: Insights, Halachos and Hashkafos Pertaining to Jewish Marriage and Home, (Series 2)</description>
@@ -27,7 +27,7 @@
       <title>Spousal Responsibilities II 2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Spousal_Responsibilities_II/Spousal_Responsibilities_II_2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Spousal_Responsibilities_II/Spousal_Responsibilities_II_2.mp3" type="audio/mpeg" length="16492672"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Spousal_Responsibilities_II/Spousal_Responsibilities_II_2.mp3" length="16492672" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Spousal Responsibilities II/Spousal Responsibilities II 2</guid>
       <pubDate>Sun, 01 Jan 2012 13:47:26 -0500</pubDate>
     </item>

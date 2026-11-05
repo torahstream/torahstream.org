@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/vodcast.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Parsha: Selected Insights, 5780 (Passaic)</title>
     <link>https://www.torahstream.org/#/topic/Parsha_Passaic_5780</link>
     <description>Parsha: Selected Insights, 5780 (Passaic)</description>
@@ -19,7 +19,7 @@
       <title>2019-11-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-02.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="99525483" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-02.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-02.m4v" length="99525483" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-11-02</guid>
       <pubDate>Sun, 03 Nov 2019 13:55:44 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2019-11-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-09.m4v" length="68289202"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-09.m4v" length="68289202" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-11-09</guid>
       <pubDate>Mon, 11 Nov 2019 21:17:16 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2019-11-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="84738010" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-16.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-16.m4v" length="84738010" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-11-16</guid>
       <pubDate>Sun, 24 Nov 2019 08:39:12 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2019-11-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-23.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="42091902" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-23.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-23.m4v" length="42091902" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-11-23</guid>
       <pubDate>Sun, 24 Nov 2019 20:19:54 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2019-11-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="62117223" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-30.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-11-30.m4v" length="62117223" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-11-30</guid>
       <pubDate>Mon, 02 Dec 2019 20:41:22 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2019-12-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-12-14.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-12-14.m4v" length="82321577"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-12-14.m4v" length="82321577" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-12-14</guid>
       <pubDate>Mon, 16 Dec 2019 20:56:24 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2019-12-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-12-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-12-21.m4v" type="video/x-m4v" length="94217491"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2019-12-21.m4v" length="94217491" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2019-12-21</guid>
       <pubDate>Mon, 23 Dec 2019 21:03:07 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2020-01-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="54867117" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-04.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-04.m4v" length="54867117" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-01-04</guid>
       <pubDate>Tue, 07 Jan 2020 20:49:25 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2020-01-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="80963793" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-11.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-11.m4v" length="80963793" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-01-11</guid>
       <pubDate>Sun, 12 Jan 2020 08:36:46 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2020-01-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="92175141" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-18.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-18.m4v" length="92175141" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-01-18</guid>
       <pubDate>Fri, 31 Jan 2020 07:39:14 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2020-01-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="79561005" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-25.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-01-25.m4v" length="79561005" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-01-25</guid>
       <pubDate>Mon, 27 Jan 2020 20:45:44 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2020-02-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-08.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="68912911" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-08.m4v" type="video/x-m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-08.m4v" length="68912911" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-02-08</guid>
       <pubDate>Sun, 16 Feb 2020 20:36:48 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2020-02-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-15.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-15.m4v" type="video/x-m4v" length="87717976"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-15.m4v" length="87717976" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-02-15</guid>
       <pubDate>Mon, 17 Feb 2020 21:47:57 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2020-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-22.m4v" length="55103262"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-22.m4v" length="55103262" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-02-22</guid>
       <pubDate>Sun, 23 Feb 2020 08:43:09 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2020-02-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-29.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="84813518" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-29.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Parsha_Passaic_5780/2020-02-29.m4v" length="84813518" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Parsha Passaic 5780/2020-02-29</guid>
       <pubDate>Sun, 01 Mar 2020 08:45:01 -0500</pubDate>
     </item>

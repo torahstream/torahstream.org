@@ -6,4 +6,8 @@ topic_id: "Parsha_Passaic_5781"
 count: 12
 has_video: true
 ongoing: false
+category: "chumash-parsha"
+family: "Parsha_Passaic"
+year: "5781"
+listing_title: ""
 ---

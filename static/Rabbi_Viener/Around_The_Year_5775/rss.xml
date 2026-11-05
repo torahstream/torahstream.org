@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5775/rss.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Around_The_Year_5775/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Around The Year 5775</title>
     <link>https://www.torahstream.org/#/topic/Around_The_Year_5775</link>
     <description>Around The Year 5775</description>
@@ -19,7 +19,7 @@
       <title>2014-09-21 Pre-Selichos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-09-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="7327872" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-09-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-09-21.mp3" length="7327872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2014-09-21</guid>
       <pubDate>Mon, 22 Sep 2014 20:46:17 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2014-10-05 Hilchos Sukkos</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-10-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-10-05.mp3" type="audio/mpeg" length="18415744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-10-05.mp3" length="18415744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2014-10-05</guid>
       <pubDate>Wed, 08 Oct 2014 07:40:04 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2014-10-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-10-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="22220800" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-10-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-10-14.mp3" length="22220800" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2014-10-14</guid>
       <pubDate>Tue, 14 Oct 2014 21:15:00 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2014-11-02 The Har Nof Tragedy, The Holocaust, and Golus Conditions.&lt;/br&gt;(Preparing Ourselves and Our Children For Life)</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-11-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-11-02.mp3" type="audio/mpeg" length="12767360"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-11-02.mp3" length="12767360" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2014-11-02</guid>
       <pubDate>Mon, 08 Dec 2014 21:16:11 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2014-11-26 Yidden In Distress</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-11-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="29466752" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-11-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2014-11-26.mp3" length="29466752" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2014-11-26</guid>
       <pubDate>Sun, 07 Dec 2014 09:40:03 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2015-01-18 Shovavim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-01-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="15348224" type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-01-18.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-01-18.mp3" length="15348224" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2015-01-18</guid>
       <pubDate>Sun, 18 Jan 2015 16:39:21 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2015-03-29.1 Pre-Pesach</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-03-29.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-03-29.1.mp3" type="audio/mpeg" length="11452544"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-03-29.1.mp3" length="11452544" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2015-03-29.1</guid>
       <pubDate>Mon, 04 May 2015 22:23:41 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2015-03-29 Hanhogas HaBoker and Pre-Pesach</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-03-29.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-03-29.2.mp3" type="audio/mpeg" length="11692160"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-03-29.2.mp3" length="11692160" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2015-03-29.2</guid>
       <pubDate>Mon, 04 May 2015 22:24:26 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2015-05-17 What are we really capable of doing Reaching new heights in our Avodas Hashem, Part 1</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-05-17.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-05-17.1.mp3" type="audio/mpeg" length="14575744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-05-17.1.mp3" length="14575744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2015-05-17.1</guid>
       <pubDate>Mon, 01 Jun 2015 22:28:28 -0400</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2015-05-17 What are we really capable of doing Reaching new heights in our Avodas Hashem, Part 2</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-05-17.2.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11956352" url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-05-17.2.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-05-17.2.mp3" length="11956352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2015-05-17.2</guid>
       <pubDate>Mon, 01 Jun 2015 22:29:33 -0400</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2015-07-26 Tisha B'Av Kinnos Overview</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-07-26.1.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-07-26.1.mp3" type="audio/mpeg" length="16529536"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Around_The_Year_5775/2015-07-26.1.mp3" length="16529536" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Around The Year 5775/2015-07-26.1</guid>
       <pubDate>Mon, 27 Jul 2015 22:49:25 -0400</pubDate>
     </item>

@@ -6,4 +6,8 @@ topic_id: "Special_Contemporary_Topics_5778"
 count: 4
 has_video: true
 ongoing: false
+category: "contemporary"
+family: "Special_Contemporary_Topics"
+year: "5778"
+listing_title: ""
 ---

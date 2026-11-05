@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link type="application/rss+xml" rel="self" href="https://www.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/vodcast.xml"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/vodcast.xml" rel="self" type="application/rss+xml"/>
     <title>Contemporary Halacha and Hashkofa, 5786</title>
     <link>https://www.torahstream.org/#/topic/Contemporary_Halacha_And_Hashkafa_5786</link>
     <description>Contemporary Halacha and Hashkofa, 5786</description>
@@ -19,7 +19,7 @@
       <title>2025-09-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-09-29.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="68280450" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-09-29.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-09-29.m4v" length="68280450" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-09-29</guid>
       <pubDate>Mon, 29 Sep 2025 22:09:09 -0400</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2025-09-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-09-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="72550505" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-09-30.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-09-30.m4v" length="72550505" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-09-30</guid>
       <pubDate>Tue, 30 Sep 2025 22:06:46 -0400</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2025-10-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-20.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="59921370" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-20.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-20.m4v" length="59921370" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-10-20</guid>
       <pubDate>Mon, 20 Oct 2025 22:07:44 -0400</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2025-10-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-21.m4v" type="video/x-m4v" length="77496534"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-21.m4v" length="77496534" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-10-21</guid>
       <pubDate>Tue, 21 Oct 2025 22:06:26 -0400</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2025-10-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-22.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="73740586" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-22.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-22.m4v" length="73740586" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-10-22</guid>
       <pubDate>Wed, 22 Oct 2025 22:02:44 -0400</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2025-10-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-27.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-27.m4v" type="video/x-m4v" length="80239191"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-27.m4v" length="80239191" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-10-27</guid>
       <pubDate>Mon, 27 Oct 2025 22:03:57 -0400</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2025-10-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-28.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="74075157" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-28.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-28.m4v" length="74075157" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-10-28</guid>
       <pubDate>Tue, 28 Oct 2025 22:03:44 -0400</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2025-10-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-29.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="75790390" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-29.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-10-29.m4v" length="75790390" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-10-29</guid>
       <pubDate>Wed, 29 Oct 2025 22:03:23 -0400</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2025-11-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="77353427" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-03.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-03.m4v" length="77353427" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-03</guid>
       <pubDate>Mon, 03 Nov 2025 22:04:21 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2025-11-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="71759389" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-04.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-04.m4v" length="71759389" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-04</guid>
       <pubDate>Tue, 04 Nov 2025 22:06:16 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2025-11-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-10.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="62884775" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-10.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-10.m4v" length="62884775" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-10</guid>
       <pubDate>Mon, 10 Nov 2025 22:03:15 -0500</pubDate>
     </item>
@@ -123,7 +123,7 @@
       <title>2025-11-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-12.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-12.m4v" type="video/x-m4v" length="64211469"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-12.m4v" length="64211469" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-12</guid>
       <pubDate>Wed, 12 Nov 2025 21:55:36 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2025-11-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="68452666" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-18.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-18.m4v" length="68452666" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-18</guid>
       <pubDate>Tue, 18 Nov 2025 22:05:40 -0500</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2025-11-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-24.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-24.m4v" type="video/x-m4v" length="74641286"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-24.m4v" length="74641286" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-24</guid>
       <pubDate>Mon, 24 Nov 2025 22:06:05 -0500</pubDate>
     </item>
@@ -163,7 +163,7 @@
       <title>2025-11-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="68968312" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-25.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-25.m4v" length="68968312" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-25</guid>
       <pubDate>Tue, 25 Nov 2025 22:15:55 -0500</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>2025-11-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-26.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="70317717" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-26.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-11-26.m4v" length="70317717" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-11-26</guid>
       <pubDate>Wed, 26 Nov 2025 22:09:10 -0500</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>2025-12-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-02.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-02.m4v" type="video/x-m4v" length="71708744"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-02.m4v" length="71708744" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-12-02</guid>
       <pubDate>Tue, 02 Dec 2025 22:03:48 -0500</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>2025-12-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="71129024" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-03.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-03.m4v" length="71129024" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-12-03</guid>
       <pubDate>Wed, 03 Dec 2025 22:04:36 -0500</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>2025-12-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-08.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-08.m4v" type="video/x-m4v" length="66193559"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-08.m4v" length="66193559" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-12-08</guid>
       <pubDate>Mon, 08 Dec 2025 22:04:02 -0500</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2025-12-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-09.m4v" type="video/x-m4v" length="70047426"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-09.m4v" length="70047426" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-12-09</guid>
       <pubDate>Tue, 09 Dec 2025 22:12:39 -0500</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2025-12-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-10.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-10.m4v" type="video/x-m4v" length="71264812"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-10.m4v" length="71264812" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-12-10</guid>
       <pubDate>Wed, 10 Dec 2025 22:15:06 -0500</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>2025-12-31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-31.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-31.m4v" type="video/x-m4v" length="68924272"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2025-12-31.m4v" length="68924272" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2025-12-31</guid>
       <pubDate>Wed, 31 Dec 2025 22:05:58 -0500</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2026-01-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="63445705" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-05.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-05.m4v" length="63445705" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-05</guid>
       <pubDate>Mon, 05 Jan 2026 22:02:28 -0500</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2026-01-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-06.m4v" type="video/x-m4v" length="68219531"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-06.m4v" length="68219531" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-06</guid>
       <pubDate>Tue, 06 Jan 2026 21:48:15 -0500</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2026-01-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-07.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="78737564" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-07.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-07.m4v" length="78737564" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-07</guid>
       <pubDate>Wed, 07 Jan 2026 22:09:39 -0500</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2026-01-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-12.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-12.m4v" type="video/x-m4v" length="67319355"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-12.m4v" length="67319355" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-12</guid>
       <pubDate>Mon, 12 Jan 2026 22:05:51 -0500</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2026-01-13</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-13.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-13.m4v" type="video/x-m4v" length="74050668"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-13.m4v" length="74050668" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-13</guid>
       <pubDate>Tue, 13 Jan 2026 22:04:49 -0500</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2026-01-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-14.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-14.m4v" type="video/x-m4v" length="74589938"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-14.m4v" length="74589938" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-14</guid>
       <pubDate>Wed, 14 Jan 2026 22:03:38 -0500</pubDate>
     </item>
@@ -307,7 +307,7 @@
       <title>2026-01-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-20.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="76831064" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-20.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-20.m4v" length="76831064" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-20</guid>
       <pubDate>Tue, 20 Jan 2026 22:08:17 -0500</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2026-01-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-28.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-28.m4v" type="video/x-m4v" length="70194193"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-01-28.m4v" length="70194193" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-01-28</guid>
       <pubDate>Wed, 28 Jan 2026 22:24:09 -0500</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2026-02-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-03.m4v" type="video/x-m4v" length="74009021"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-03.m4v" length="74009021" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-03</guid>
       <pubDate>Tue, 03 Feb 2026 22:08:33 -0500</pubDate>
     </item>
@@ -355,7 +355,7 @@
       <title>2026-02-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-04.m4v" type="video/x-m4v" length="80064583"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-04.m4v" length="80064583" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-04</guid>
       <pubDate>Thu, 05 Feb 2026 21:41:40 -0500</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2026-02-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-16.m4v" type="video/x-m4v" length="72590136"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-16.m4v" length="72590136" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-16</guid>
       <pubDate>Mon, 16 Feb 2026 22:11:50 -0500</pubDate>
     </item>
@@ -387,7 +387,7 @@
       <title>2026-02-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-18.m4v" type="video/x-m4v" length="112657201"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-18.m4v" length="112657201" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-18</guid>
       <pubDate>Wed, 18 Feb 2026 22:06:03 -0500</pubDate>
     </item>
@@ -395,7 +395,7 @@
       <title>2026-02-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-23.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-23.m4v" type="video/x-m4v" length="75823201"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-23.m4v" length="75823201" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-23</guid>
       <pubDate>Mon, 23 Feb 2026 22:06:42 -0500</pubDate>
     </item>
@@ -403,7 +403,7 @@
       <title>2026-02-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-24.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="62015949" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-24.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-24.m4v" length="62015949" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-24</guid>
       <pubDate>Tue, 24 Feb 2026 22:18:19 -0500</pubDate>
     </item>
@@ -411,7 +411,7 @@
       <title>2026-02-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-25.m4v" type="video/x-m4v" length="69849272"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-02-25.m4v" length="69849272" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-02-25</guid>
       <pubDate>Wed, 25 Feb 2026 21:46:44 -0500</pubDate>
     </item>
@@ -419,7 +419,7 @@
       <title>2026-03-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="71433371" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-04.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-04.m4v" length="71433371" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-04</guid>
       <pubDate>Wed, 04 Mar 2026 22:06:08 -0500</pubDate>
     </item>
@@ -427,7 +427,7 @@
       <title>2026-03-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="71767919" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-09.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-09.m4v" length="71767919" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-09</guid>
       <pubDate>Mon, 09 Mar 2026 22:04:59 -0400</pubDate>
     </item>
@@ -435,7 +435,7 @@
       <title>2026-03-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-10.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-10.m4v" type="video/x-m4v" length="77165426"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-10.m4v" length="77165426" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-10</guid>
       <pubDate>Tue, 10 Mar 2026 22:07:05 -0400</pubDate>
     </item>
@@ -451,7 +451,7 @@
       <title>2026-03-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="65009133" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-16.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-16.m4v" length="65009133" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-16</guid>
       <pubDate>Mon, 16 Mar 2026 21:51:01 -0400</pubDate>
     </item>
@@ -459,7 +459,7 @@
       <title>2026-03-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-17.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-17.m4v" type="video/x-m4v" length="67923971"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-17.m4v" length="67923971" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-17</guid>
       <pubDate>Tue, 17 Mar 2026 22:08:44 -0400</pubDate>
     </item>
@@ -467,7 +467,7 @@
       <title>2026-03-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-18.m4v" type="video/x-m4v" length="73680284"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-18.m4v" length="73680284" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-18</guid>
       <pubDate>Wed, 18 Mar 2026 21:59:15 -0400</pubDate>
     </item>
@@ -475,7 +475,7 @@
       <title>2026-03-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-23.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-23.m4v" type="video/x-m4v" length="73601032"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-23.m4v" length="73601032" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-23</guid>
       <pubDate>Mon, 23 Mar 2026 21:56:07 -0400</pubDate>
     </item>
@@ -483,7 +483,7 @@
       <title>2026-03-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-24.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="70162318" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-24.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-03-24.m4v" length="70162318" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-03-24</guid>
       <pubDate>Tue, 24 Mar 2026 21:48:45 -0400</pubDate>
     </item>
@@ -491,7 +491,7 @@
       <title>2026-04-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-20.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="74375120" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-20.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-20.m4v" length="74375120" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-04-20</guid>
       <pubDate>Mon, 20 Apr 2026 22:04:25 -0400</pubDate>
     </item>
@@ -499,7 +499,7 @@
       <title>2026-04-21</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-21.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="69795220" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-21.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-21.m4v" length="69795220" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-04-21</guid>
       <pubDate>Tue, 21 Apr 2026 22:16:17 -0400</pubDate>
     </item>
@@ -523,7 +523,7 @@
       <title>2026-04-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-28.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-28.m4v" type="video/x-m4v" length="74066756"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-28.m4v" length="74066756" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-04-28</guid>
       <pubDate>Tue, 28 Apr 2026 22:06:13 -0400</pubDate>
     </item>
@@ -531,7 +531,7 @@
       <title>2026-04-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-29.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="75043604" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-29.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-04-29.m4v" length="75043604" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-04-29</guid>
       <pubDate>Wed, 29 Apr 2026 22:05:35 -0400</pubDate>
     </item>
@@ -539,7 +539,7 @@
       <title>2026-05-04</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-04.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="70679128" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-04.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-04.m4v" length="70679128" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-04</guid>
       <pubDate>Mon, 04 May 2026 22:07:24 -0400</pubDate>
     </item>
@@ -547,7 +547,7 @@
       <title>2026-05-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-05.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="74156604" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-05.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-05.m4v" length="74156604" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-05</guid>
       <pubDate>Tue, 05 May 2026 22:07:34 -0400</pubDate>
     </item>
@@ -555,7 +555,7 @@
       <title>2026-05-06</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-06.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="73626226" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-06.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-06.m4v" length="73626226" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-06</guid>
       <pubDate>Wed, 06 May 2026 22:06:48 -0400</pubDate>
     </item>
@@ -563,7 +563,7 @@
       <title>2026-05-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-11.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="64269604" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-11.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-11.m4v" length="64269604" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-11</guid>
       <pubDate>Mon, 11 May 2026 22:06:44 -0400</pubDate>
     </item>
@@ -571,7 +571,7 @@
       <title>2026-05-12</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-12.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="70325098" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-12.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-12.m4v" length="70325098" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-12</guid>
       <pubDate>Tue, 12 May 2026 22:08:16 -0400</pubDate>
     </item>
@@ -587,7 +587,7 @@
       <title>2026-05-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="72888601" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-18.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-18.m4v" length="72888601" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-18</guid>
       <pubDate>Mon, 18 May 2026 22:16:50 -0400</pubDate>
     </item>
@@ -595,7 +595,7 @@
       <title>2026-05-19</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-19.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-19.m4v" type="video/x-m4v" length="70617004"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-19.m4v" length="70617004" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-19</guid>
       <pubDate>Tue, 19 May 2026 22:31:12 -0400</pubDate>
     </item>
@@ -603,7 +603,7 @@
       <title>2026-05-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-20.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-20.m4v" type="video/x-m4v" length="78728681"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-20.m4v" length="78728681" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-20</guid>
       <pubDate>Wed, 20 May 2026 22:06:33 -0400</pubDate>
     </item>
@@ -619,7 +619,7 @@
       <title>2026-05-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-26.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-26.m4v" type="video/x-m4v" length="77441209"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-05-26.m4v" length="77441209" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-05-26</guid>
       <pubDate>Tue, 26 May 2026 22:12:24 -0400</pubDate>
     </item>
@@ -635,7 +635,7 @@
       <title>2026-06-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="78506266" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-01.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-01.m4v" length="78506266" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-01</guid>
       <pubDate>Mon, 01 Jun 2026 22:14:32 -0400</pubDate>
     </item>
@@ -651,7 +651,7 @@
       <title>2026-06-03</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-03.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="85412845" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-03.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-03.m4v" length="85412845" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-03</guid>
       <pubDate>Wed, 03 Jun 2026 22:43:12 -0400</pubDate>
     </item>
@@ -659,7 +659,7 @@
       <title>2026-06-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-08.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="89122333" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-08.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-08.m4v" length="89122333" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-08</guid>
       <pubDate>Mon, 08 Jun 2026 22:15:05 -0400</pubDate>
     </item>
@@ -667,7 +667,7 @@
       <title>2026-06-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="89485144" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-09.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-09.m4v" length="89485144" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-09</guid>
       <pubDate>Wed, 10 Jun 2026 22:07:59 -0400</pubDate>
     </item>
@@ -675,7 +675,7 @@
       <title>2026-06-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-10.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="83277308" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-10.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-10.m4v" length="83277308" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-10</guid>
       <pubDate>Wed, 10 Jun 2026 22:13:19 -0400</pubDate>
     </item>
@@ -691,7 +691,7 @@
       <title>2026-06-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-16.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="89682871" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-16.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-16.m4v" length="89682871" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-16</guid>
       <pubDate>Tue, 16 Jun 2026 22:12:57 -0400</pubDate>
     </item>
@@ -731,7 +731,7 @@
       <title>2026-06-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-29.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-29.m4v" type="video/x-m4v" length="88759435"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-29.m4v" length="88759435" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-29</guid>
       <pubDate>Tue, 30 Jun 2026 22:04:33 -0400</pubDate>
     </item>
@@ -739,7 +739,7 @@
       <title>2026-06-30</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-30.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="85267727" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-30.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-06-30.m4v" length="85267727" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-06-30</guid>
       <pubDate>Tue, 30 Jun 2026 22:08:51 -0400</pubDate>
     </item>
@@ -763,7 +763,7 @@
       <title>2026-08-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-18.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-18.m4v" type="video/x-m4v" length="70011409"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-18.m4v" length="70011409" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-08-18</guid>
       <pubDate>Tue, 18 Aug 2026 22:09:08 -0400</pubDate>
     </item>
@@ -787,7 +787,7 @@
       <title>2026-08-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-25.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="85003062" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-25.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-25.m4v" length="85003062" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 22:12:25 -0400</pubDate>
     </item>
@@ -803,7 +803,7 @@
       <title>2026-08-31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-31.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="92612667" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-31.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-08-31.m4v" length="92612667" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-08-31</guid>
       <pubDate>Mon, 31 Aug 2026 22:08:44 -0400</pubDate>
     </item>
@@ -811,7 +811,7 @@
       <title>2026-09-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-01.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="video/x-m4v" length="82245042" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-01.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-01.m4v" length="82245042" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-09-01</guid>
       <pubDate>Tue, 01 Sep 2026 22:08:01 -0400</pubDate>
     </item>
@@ -827,7 +827,7 @@
       <title>2026-09-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-07.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-07.m4v" type="video/x-m4v" length="95807781"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-07.m4v" length="95807781" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 22:06:35 -0400</pubDate>
     </item>
@@ -835,7 +835,7 @@
       <title>2026-09-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-08.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="89977785" type="video/x-m4v" url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-08.m4v"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-08.m4v" length="89977785" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-09-08</guid>
       <pubDate>Tue, 08 Sep 2026 22:04:10 -0400</pubDate>
     </item>
@@ -843,7 +843,7 @@
       <title>2026-09-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-09.m4v</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-09.m4v" type="video/x-m4v" length="84136798"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Contemporary_Halacha_And_Hashkafa_5786/2026-09-09.m4v" length="84136798" type="video/x-m4v"/>
       <guid isPermaLink="false">Rabbi Viener/Contemporary Halacha And Hashkafa 5786/2026-09-09</guid>
       <pubDate>Wed, 09 Sep 2026 22:07:44 -0400</pubDate>
     </item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/rss.xml" type="application/rss+xml" rel="self"/>
+    <atom:link href="https://www.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Hilchos Tzedaka 5776</title>
     <link>https://www.torahstream.org/#/topic/Hilchos_Tzedaka_5776</link>
     <description>Hilchos Tzedaka 5776</description>
@@ -19,7 +19,7 @@
       <title>2016-01-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-20.mp3" length="11681280"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-20.mp3" length="11681280" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-01-20</guid>
       <pubDate>Wed, 20 Jan 2016 21:48:58 -0500</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <title>2016-01-25</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-25.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="10601984" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-25.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-25.mp3" length="10601984" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-01-25</guid>
       <pubDate>Mon, 25 Jan 2016 21:49:40 -0500</pubDate>
     </item>
@@ -35,7 +35,7 @@
       <title>2016-01-26</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-26.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12211712" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-26.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-26.mp3" length="12211712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-01-26</guid>
       <pubDate>Tue, 26 Jan 2016 21:48:57 -0500</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2016-01-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12806656" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-01-27.mp3" length="12806656" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-01-27</guid>
       <pubDate>Wed, 27 Jan 2016 21:48:22 -0500</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>2016-02-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12722176" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-08.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-08.mp3" length="12722176" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-08</guid>
       <pubDate>Mon, 08 Feb 2016 21:50:15 -0500</pubDate>
     </item>
@@ -59,7 +59,7 @@
       <title>2016-02-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11679744" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-09.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-09.mp3" length="11679744" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-09</guid>
       <pubDate>Tue, 09 Feb 2016 21:47:13 -0500</pubDate>
     </item>
@@ -67,7 +67,7 @@
       <title>2016-02-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12262400" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-10.mp3" length="12262400" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-10</guid>
       <pubDate>Wed, 10 Feb 2016 21:47:46 -0500</pubDate>
     </item>
@@ -75,7 +75,7 @@
       <title>2016-02-22</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11678720" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-22.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-22.mp3" length="11678720" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-22</guid>
       <pubDate>Mon, 22 Feb 2016 21:48:56 -0500</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <title>2016-02-23</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-23.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12703232" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-23.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-23.mp3" length="12703232" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-23</guid>
       <pubDate>Tue, 23 Feb 2016 21:48:40 -0500</pubDate>
     </item>
@@ -91,7 +91,7 @@
       <title>2016-02-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-24.mp3" length="11486208"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-24.mp3" length="11486208" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-24</guid>
       <pubDate>Wed, 24 Feb 2016 21:49:00 -0500</pubDate>
     </item>
@@ -99,7 +99,7 @@
       <title>2016-02-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-29.mp3" length="12130816"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-02-29.mp3" length="12130816" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-02-29</guid>
       <pubDate>Mon, 29 Feb 2016 21:48:33 -0500</pubDate>
     </item>
@@ -107,7 +107,7 @@
       <title>2016-03-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12493312" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-01.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-01.mp3" length="12493312" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-03-01</guid>
       <pubDate>Tue, 01 Mar 2016 21:53:15 -0500</pubDate>
     </item>
@@ -115,7 +115,7 @@
       <title>2016-03-02</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-02.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-02.mp3" length="11991040"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-02.mp3" length="11991040" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-03-02</guid>
       <pubDate>Wed, 02 Mar 2016 21:48:42 -0500</pubDate>
     </item>
@@ -131,7 +131,7 @@
       <title>2016-03-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-08.mp3" length="12265472"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-08.mp3" length="12265472" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-03-08</guid>
       <pubDate>Tue, 08 Mar 2016 21:48:50 -0500</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <title>2016-03-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11955712" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-09.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-09.mp3" length="11955712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-03-09</guid>
       <pubDate>Wed, 09 Mar 2016 21:48:03 -0500</pubDate>
     </item>
@@ -147,7 +147,7 @@
       <title>2016-03-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="10895360" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-14.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-14.mp3" length="10895360" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-03-14</guid>
       <pubDate>Mon, 14 Mar 2016 22:00:51 -0400</pubDate>
     </item>
@@ -155,7 +155,7 @@
       <title>2016-03-15</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-15.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-15.mp3" length="11983872"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-03-15.mp3" length="11983872" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-03-15</guid>
       <pubDate>Tue, 15 Mar 2016 21:46:45 -0400</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>2016-04-04 Maaser for tuition? Application to seminary education.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-04.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="11731968" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-04.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-04.mp3" length="11731968" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-04-04</guid>
       <pubDate>Mon, 04 Apr 2016 22:00:20 -0400</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>2016-04-05 How much do you need to teach your son?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13049856" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-05.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-05.mp3" length="13049856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-04-05</guid>
       <pubDate>Tue, 05 Apr 2016 22:02:42 -0400</pubDate>
     </item>
@@ -235,7 +235,7 @@
       <title>2016-04-11 Borrowing against Hashem's account: a focus on expenditures for Shabbos, Yom Tov and Talmud Torah for your sons</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-11.mp3" length="12253696"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-11.mp3" length="12253696" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-04-11</guid>
       <pubDate>Mon, 11 Apr 2016 22:03:16 -0400</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>2016-04-12 How much to spend on Shabbos and Yom Tov?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-12.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11369472" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-12.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-12.mp3" length="11369472" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-04-12</guid>
       <pubDate>Tue, 12 Apr 2016 21:54:49 -0400</pubDate>
     </item>
@@ -251,7 +251,7 @@
       <title>2016-04-13 How much to spend on Shabbos and Yom Tov?</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-13.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-13.mp3" length="11534848"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-04-13.mp3" length="11534848" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-04-13</guid>
       <pubDate>Wed, 13 Apr 2016 21:53:03 -0400</pubDate>
     </item>
@@ -259,7 +259,7 @@
       <title>2016-05-09</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-09.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12292608" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-09.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-09.mp3" length="12292608" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-09</guid>
       <pubDate>Mon, 09 May 2016 21:51:00 -0400</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <title>2016-05-10</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-10.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12082688" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-10.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-10.mp3" length="12082688" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-10</guid>
       <pubDate>Tue, 10 May 2016 21:48:01 -0400</pubDate>
     </item>
@@ -275,7 +275,7 @@
       <title>2016-05-11</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-11.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-11.mp3" length="12014080"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-11.mp3" length="12014080" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-11</guid>
       <pubDate>Wed, 11 May 2016 21:46:40 -0400</pubDate>
     </item>
@@ -283,7 +283,7 @@
       <title>2016-05-16</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-16.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-16.mp3" length="12298240"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-16.mp3" length="12298240" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-16</guid>
       <pubDate>Mon, 16 May 2016 21:49:21 -0400</pubDate>
     </item>
@@ -291,7 +291,7 @@
       <title>2016-05-17</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-17.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="11419648" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-17.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-17.mp3" length="11419648" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-17</guid>
       <pubDate>Tue, 17 May 2016 21:47:43 -0400</pubDate>
     </item>
@@ -299,7 +299,7 @@
       <title>2016-05-18</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-18.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="10574336" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-18.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-18.mp3" length="10574336" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-18</guid>
       <pubDate>Wed, 18 May 2016 21:47:11 -0400</pubDate>
     </item>
@@ -315,7 +315,7 @@
       <title>2016-05-24</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-24.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-24.mp3" length="12019712"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-24.mp3" length="12019712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-24</guid>
       <pubDate>Tue, 24 May 2016 21:47:18 -0400</pubDate>
     </item>
@@ -339,7 +339,7 @@
       <title>2016-05-31</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-31.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12241920" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-31.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-05-31.mp3" length="12241920" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-05-31</guid>
       <pubDate>Tue, 31 May 2016 21:49:24 -0400</pubDate>
     </item>
@@ -347,7 +347,7 @@
       <title>2016-06-01</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-01.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12249088" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-01.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-01.mp3" length="12249088" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-01</guid>
       <pubDate>Wed, 01 Jun 2016 21:49:59 -0400</pubDate>
     </item>
@@ -355,7 +355,7 @@
       <title>2016-06-06 How wide a tent? Dealing with the soon-to-be frum.</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-06.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-06.mp3" length="11275776"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-06.mp3" length="11275776" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-06</guid>
       <pubDate>Mon, 06 Jun 2016 22:33:35 -0400</pubDate>
     </item>
@@ -363,7 +363,7 @@
       <title>2016-06-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="12068352" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-07.mp3" length="12068352" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-07</guid>
       <pubDate>Tue, 07 Jun 2016 21:47:53 -0400</pubDate>
     </item>
@@ -371,7 +371,7 @@
       <title>2016-06-08</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-08.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-08.mp3" length="12258816"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-08.mp3" length="12258816" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-08</guid>
       <pubDate>Wed, 08 Jun 2016 21:50:11 -0400</pubDate>
     </item>
@@ -379,7 +379,7 @@
       <title>2016-06-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-14.mp3" length="11812864"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-14.mp3" length="11812864" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-14</guid>
       <pubDate>Tue, 14 Jun 2016 21:50:24 -0400</pubDate>
     </item>
@@ -395,7 +395,7 @@
       <title>2016-06-20</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="13584896" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-20.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-20.mp3" length="13584896" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-20</guid>
       <pubDate>Mon, 20 Jun 2016 21:52:56 -0400</pubDate>
     </item>
@@ -403,7 +403,7 @@
       <title>2016-06-21 Our hand and merrit in the building of Toras Eretz Yisroel</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-21.mp3" length="12913664"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-21.mp3" length="12913664" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-21</guid>
       <pubDate>Sun, 26 Jun 2016 11:42:59 -0400</pubDate>
     </item>
@@ -411,7 +411,7 @@
       <title>2016-06-22 Sending tzedaka opportunities to your friends and neighbors</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-22.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-22.mp3" length="10809856"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-22.mp3" length="10809856" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-22</guid>
       <pubDate>Sun, 26 Jun 2016 11:41:06 -0400</pubDate>
     </item>
@@ -419,7 +419,7 @@
       <title>2016-06-27</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-27.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12098560" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-27.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-27.mp3" length="12098560" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-27</guid>
       <pubDate>Mon, 27 Jun 2016 21:51:18 -0400</pubDate>
     </item>
@@ -427,7 +427,7 @@
       <title>2016-06-28</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-28.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-28.mp3" length="12081152"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-28.mp3" length="12081152" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-28</guid>
       <pubDate>Tue, 28 Jun 2016 21:51:08 -0400</pubDate>
     </item>
@@ -435,7 +435,7 @@
       <title>2016-06-29</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-29.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="12019712" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-29.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-06-29.mp3" length="12019712" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-06-29</guid>
       <pubDate>Wed, 29 Jun 2016 21:50:55 -0400</pubDate>
     </item>
@@ -443,7 +443,7 @@
       <title>2016-09-05</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-05.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-05.mp3" length="13505024"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-05.mp3" length="13505024" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-09-05</guid>
       <pubDate>Fri, 09 Sep 2016 17:59:29 -0400</pubDate>
     </item>
@@ -459,7 +459,7 @@
       <title>2016-09-07</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-07.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13459456" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-07.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-07.mp3" length="13459456" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-09-07</guid>
       <pubDate>Wed, 07 Sep 2016 21:52:10 -0400</pubDate>
     </item>
@@ -483,7 +483,7 @@
       <title>2016-09-14</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-14.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-14.mp3" length="12694016"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-14.mp3" length="12694016" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-09-14</guid>
       <pubDate>Wed, 14 Sep 2016 21:50:02 -0400</pubDate>
     </item>
@@ -499,7 +499,7 @@
       <title>2016-09-20 Paying off debts of your parents</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-20.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure length="13245952" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-20.mp3" type="audio/mpeg"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-20.mp3" length="13245952" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-09-20</guid>
       <pubDate>Tue, 20 Sep 2016 22:01:56 -0400</pubDate>
     </item>
@@ -507,7 +507,7 @@
       <title>2016-09-21 Joining hands with reshoyim</title>
       <link>https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-21.mp3</link>
       <itunes:author>Rabbi Yosef Viener</itunes:author>
-      <enclosure type="audio/mpeg" length="8973312" url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-21.mp3"/>
+      <enclosure url="https://media-cf.torahstream.org/Rabbi_Viener/Hilchos_Tzedaka_5776/2016-09-21.mp3" length="8973312" type="audio/mpeg"/>
       <guid isPermaLink="false">Rabbi Viener/Hilchos Tzedaka 5776/2016-09-21</guid>
       <pubDate>Wed, 21 Sep 2016 21:57:00 -0400</pubDate>
     </item>
