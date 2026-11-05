@@ -1,1 +1,107 @@
-{"_comment":"Curated navigation overlay for the /Rabbi_Viener/ series index (taxonomy settled with Anatoly 2026-11-05, mapping v6). ingest.py joins this onto each topic: 'assign' is keyed by FAMILY id (topic id minus a trailing _57xx year) or by the topic id itself for year-less series; new years of an assigned family inherit automatically. A topic with no entry defaults to 'other' and ingest prints a warning naming it. 'family_names' labels the expandable folders (canonical titles carry per-year subtitles, so derivation is unreliable). 'display' overrides a series' label in the index listing only; its page title is untouched.","assign":{"Ambassadors_of_Torah":"bitachon","Announcements":"other","Around_The_Year":"around-the-year","Bechukoseichem":"contemporary","Bitachon_Passaic":"bitachon","Chinuch_Issues":"family","Chinuch_Passaic":"family","Chukoseihem":"contemporary","Contemporary_Halacha_And_Hashkafa":"contemporary","Contemporary_Kashrus_Topics":"contemporary","Defence_and_Security":"bitachon","From_Galus_to_Geulah":"bitachon","Halachic_OBGYN_Issues":"shovavim","Hilchos_Pesach":"around-the-year","Hilchos_Shabbos":"contemporary","Hilchos_Tzedaka":"contemporary","How_to_Separate_While_Bridging_the_Gap":"shovavim","Kesubos":"talmud-sugyos","Kibbud":"contemporary","Making_Sense_of_the_Final_Exile":"bitachon","Melachim_Aleph":"navi","Monetary_Issues_in_Marriage":"family","Navi_Monsey":"navi","Navi_Passaic":"navi","Nisyonos":"bitachon","On_Chumash":"chumash-parsha","On_Internet_Use":"bitachon","On_Navi":"navi","On_Tefillah":"contemporary","Parents_-_Responsibilites_and_Obligations":"family","Parsha_Passaic":"chumash-parsha","Purim":"around-the-year","Q_and_A_For_Bochurim":"family","Sanhedrin":"talmud-sugyos","Selected_Parshiyos":"chumash-parsha","Selected_Topics":"other","Shidduchim":"family","Shovavim_Monsey":"shovavim","Shovavim_Passaic":"shovavim","Special_Contemporary_Topics":"contemporary","Spousal_Responsibilities":"shovavim","Spousal_Responsibilities_I":"shovavim","Spousal_Responsibilities_II":"shovavim","Teenagers":"family","Themes_of_National_and_Personal_Redemption":"bitachon","Torah_Leadership_and_Decision_Making":"bitachon"},"categories":[{"id":"shovavim","name":"Shovavim","note":"for married couples only"},{"id":"family","name":"Family/Marriage/Shidduchim/Teens"},{"id":"contemporary","name":"Contemporary H & H"},{"id":"navi","name":"Navi"},{"id":"around-the-year","name":"Around the Year"},{"id":"chumash-parsha","name":"Chumash/Parsha"},{"id":"talmud-sugyos","name":"Talmud Sugyos"},{"id":"bitachon","name":"Bitachon/Hashkofa"},{"id":"other","name":"Other / Misc"}],"display":{"On_Internet_Use":"Internet use"},"family_names":{"Around_The_Year":"Around The Year","Contemporary_Halacha_And_Hashkafa":"Contemporary Halacha and Hashkofa","Contemporary_Kashrus_Topics":"Contemporary Kashrus Topics","Hilchos_Shabbos":"Hilchos Shabbos","Kesubos":"Kesubos","Kibbud":"Kibbud Av V'Eim","Navi_Monsey":"Navi Monsey","Navi_Passaic":"Navi Passaic","Parsha_Passaic":"Parsha Passaic","Sanhedrin":"Sanhedrin","Shovavim_Monsey":"Shovavim Monsey","Special_Contemporary_Topics":"Special Contemporary Topics"}}
+{
+ "_comment": "Curated navigation overlay for the /Rabbi_Viener/ series index (taxonomy settled with Anatoly 2026-11-05, mapping v6). ingest.py joins this onto each topic: 'assign' is keyed by FAMILY id (topic id minus a trailing _57xx year) or by the topic id itself for year-less series; new years of an assigned family inherit automatically. A topic with no entry defaults to 'other' and ingest prints a warning naming it. 'family_names' labels the expandable folders (canonical titles carry per-year subtitles, so derivation is unreliable). 'display' overrides a series' label in the index listing only; its page title is untouched.",
+ "assign": {
+  "Ambassadors_of_Torah": "bitachon",
+  "Announcements": "other",
+  "Around_The_Year": "around-the-year",
+  "Bechukoseichem": "contemporary",
+  "Bitachon_Passaic": "bitachon",
+  "Chinuch_Issues": "family",
+  "Chinuch_Passaic": "family",
+  "Chukoseihem": "contemporary",
+  "Contemporary_Halacha_And_Hashkafa": "contemporary",
+  "Contemporary_Kashrus_Topics": "contemporary",
+  "Defence_and_Security": "bitachon",
+  "From_Galus_to_Geulah": "bitachon",
+  "Halachic_OBGYN_Issues": "shovavim",
+  "Hilchos_Pesach": "around-the-year",
+  "Hilchos_Shabbos": "contemporary",
+  "Hilchos_Tzedaka": "contemporary",
+  "How_to_Separate_While_Bridging_the_Gap": "shovavim",
+  "Kesubos": "talmud-sugyos",
+  "Kibbud": "contemporary",
+  "Making_Sense_of_the_Final_Exile": "bitachon",
+  "Melachim_Aleph": "navi",
+  "Monetary_Issues_in_Marriage": "family",
+  "Navi_Monsey": "navi",
+  "Navi_Passaic": "navi",
+  "Nisyonos": "bitachon",
+  "On_Chumash": "chumash-parsha",
+  "On_Internet_Use": "bitachon",
+  "On_Navi": "navi",
+  "On_Tefillah": "contemporary",
+  "Parents_-_Responsibilites_and_Obligations": "family",
+  "Parsha_Passaic": "chumash-parsha",
+  "Purim": "around-the-year",
+  "Q_and_A_For_Bochurim": "family",
+  "Sanhedrin": "talmud-sugyos",
+  "Selected_Parshiyos": "chumash-parsha",
+  "Selected_Topics": "other",
+  "Shidduchim": "family",
+  "Shovavim_Monsey": "shovavim",
+  "Shovavim_Passaic": "shovavim",
+  "Special_Contemporary_Topics": "contemporary",
+  "Spousal_Responsibilities": "shovavim",
+  "Spousal_Responsibilities_I": "shovavim",
+  "Spousal_Responsibilities_II": "shovavim",
+  "Teenagers": "family",
+  "Themes_of_National_and_Personal_Redemption": "bitachon",
+  "Torah_Leadership_and_Decision_Making": "bitachon"
+ },
+ "categories": [
+  {
+   "id": "around-the-year",
+   "name": "Around the Year"
+  },
+  {
+   "id": "bitachon",
+   "name": "Bitachon / Hashkofa"
+  },
+  {
+   "id": "chumash-parsha",
+   "name": "Chumash / Parsha"
+  },
+  {
+   "id": "contemporary",
+   "name": "Contemporary Halacha & Hashkofa"
+  },
+  {
+   "id": "family",
+   "name": "Family / Marriage / Shidduchim / Teens"
+  },
+  {
+   "id": "navi",
+   "name": "Navi"
+  },
+  {
+   "id": "other",
+   "name": "Other / Misc"
+  },
+  {
+   "id": "shovavim",
+   "name": "Shovavim",
+   "note": "for married couples only"
+  },
+  {
+   "id": "talmud-sugyos",
+   "name": "Talmud Sugyos"
+  }
+ ],
+ "display": {
+  "On_Internet_Use": "Internet use"
+ },
+ "family_names": {
+  "Around_The_Year": "Around The Year",
+  "Contemporary_Halacha_And_Hashkafa": "Contemporary Halacha and Hashkofa",
+  "Contemporary_Kashrus_Topics": "Contemporary Kashrus Topics",
+  "Hilchos_Shabbos": "Hilchos Shabbos",
+  "Kesubos": "Kesubos",
+  "Kibbud": "Kibbud Av V'Eim",
+  "Navi_Monsey": "Navi Monsey",
+  "Navi_Passaic": "Navi Passaic",
+  "Parsha_Passaic": "Parsha Passaic",
+  "Sanhedrin": "Sanhedrin",
+  "Shovavim_Monsey": "Shovavim Monsey",
+  "Special_Contemporary_Topics": "Special Contemporary Topics"
+ }
+}

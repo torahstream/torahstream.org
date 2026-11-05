@@ -1,41 +1,41 @@
 {
  "categories": [
   {
-   "id": "shovavim",
-   "name": "Shovavim",
-   "note": "for married couples only"
+   "id": "around-the-year",
+   "name": "Around the Year"
   },
   {
-   "id": "family",
-   "name": "Family/Marriage/Shidduchim/Teens"
+   "id": "bitachon",
+   "name": "Bitachon / Hashkofa"
+  },
+  {
+   "id": "chumash-parsha",
+   "name": "Chumash / Parsha"
   },
   {
    "id": "contemporary",
-   "name": "Contemporary H & H"
+   "name": "Contemporary Halacha & Hashkofa"
+  },
+  {
+   "id": "family",
+   "name": "Family / Marriage / Shidduchim / Teens"
   },
   {
    "id": "navi",
    "name": "Navi"
   },
   {
-   "id": "around-the-year",
-   "name": "Around the Year"
+   "id": "other",
+   "name": "Other / Misc"
   },
   {
-   "id": "chumash-parsha",
-   "name": "Chumash/Parsha"
+   "id": "shovavim",
+   "name": "Shovavim",
+   "note": "for married couples only"
   },
   {
    "id": "talmud-sugyos",
    "name": "Talmud Sugyos"
-  },
-  {
-   "id": "bitachon",
-   "name": "Bitachon/Hashkofa"
-  },
-  {
-   "id": "other",
-   "name": "Other / Misc"
   }
  ],
  "family_names": {
