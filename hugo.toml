@@ -1,4 +1,4 @@
-baseURL = "https://www2.torahstream.org/"
+baseURL = "https://www.torahstream.org/"
 title = "TorahStream"
 languageCode = "en-us"
 disablePathToLower = true
