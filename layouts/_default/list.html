@@ -1,6 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<p class="meta">Series are grouped by topic — tap a category, then a series, to expand it.</p>
+{{ partial "ongoing.html" . }}
+<p class="meta">All series, grouped by topic — tap a category, then a series, to expand it.</p>
 {{ $cats := .Site.Data.categories }}
 {{ range $cat := $cats.categories }}
   {{ $pages := where $.Pages "Params.category" $cat.id }}
