@@ -48,6 +48,24 @@
   }
   document.getElementById('rev').addEventListener('change', revRows);
   </script>
+  <script>
+  // Listening events -> GA4, mirroring the React site's UA scheme
+  // (category "Play Shiur", action "Shiur played: <title>", fired on
+  // every play incl. resumes). 'play' does not bubble, so listen in
+  // the capture phase. The row's first cell is the episode title.
+  document.addEventListener('play', function (ev) {
+    if (!window.gtag) return;
+    var el = ev.target, row = el.closest ? el.closest('tr') : null;
+    var title = row ? row.cells[0].textContent.trim() : '';
+    gtag('event', 'play_shiur', {
+      event_category: 'Play Shiur',
+      event_label: 'Shiur played: ' + title,
+      media_type: el.tagName === 'VIDEO' ? 'video' : 'audio',
+      series: {{ .Title | jsonify }},
+      episode: title
+    });
+  }, true);
+  </script>
   {{ if .Params.ongoing }}<script>revRows();</script>{{ end }}
 {{ end }}
 {{ end }}
