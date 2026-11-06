@@ -2,7 +2,8 @@
  "categories": [
   {
    "id": "around-the-year",
-   "name": "Around the Year"
+   "name": "Around the Year",
+   "eponymous_family": "Around_The_Year"
   },
   {
    "id": "bitachon",
@@ -14,7 +15,8 @@
   },
   {
    "id": "contemporary",
-   "name": "Contemporary Halacha & Hashkofa"
+   "name": "Contemporary Halacha & Hashkofa",
+   "eponymous_family": "Contemporary_Halacha_And_Hashkafa"
   },
   {
    "id": "family",

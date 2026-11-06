@@ -8,7 +8,17 @@
   {{ $total := 0 }}{{ range $pages }}{{ $total = add $total .Params.count }}{{ end }}
   <details class="cat" id="cat-{{ $cat.id }}">
     <summary><span class="cat-name">{{ $cat.name }}{{ with $cat.note }} <span class="cat-note">({{ . }})</span>{{ end }}</span><span class="meta">{{ len $pages }} series · {{ $total }} shiurim</span></summary>
+    {{ with $cat.eponymous_family }}
+      {{ range sort (where $pages "Params.family" .) "Params.year" "desc" }}
+      <div class="yr">
+        <a class="yr-link" href="{{ .RelPermalink }}">{{ .Params.year }}{{ if .Params.ongoing }} <span class="ongoing">ongoing</span>{{ end }}</a>
+        <span class="meta">{{ .Params.count }} shiurim</span>
+        <span class="dl"><a href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
+      </div>
+      {{ end }}
+    {{ end }}
     {{ range $pages.GroupByParam "family" }}
+      {{ if ne .Key $cat.eponymous_family }}
       {{ if gt (len .Pages) 1 }}
         {{ $ftotal := 0 }}{{ range .Pages }}{{ $ftotal = add $ftotal .Params.count }}{{ end }}
         {{ $yrs := sort .Pages "Params.year" "desc" }}
@@ -30,6 +40,7 @@
           <span class="dl"><a href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
         </div>
         {{ end }}
+      {{ end }}
       {{ end }}
     {{ end }}
   </details>
