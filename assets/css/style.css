@@ -165,6 +165,9 @@ table.topics td.sub { white-space:nowrap; }
   header.site.search-open .search-panel { left:0; right:0; width:auto; }
 }
 .search-panel a.active { background:#e9e1cb; }
+.search-panel a.pin .t { font-weight:600; }
+.search-panel a.pin .s { color:var(--acc); font-weight:600; }
+.pinrow { margin:.35rem 0; font-size:1.02rem; }
 
 /* Series index: expand-in-place category tree (2026-11-05).
    Native <details>/<summary> — no JS needed; rows are >=44px tap targets. */

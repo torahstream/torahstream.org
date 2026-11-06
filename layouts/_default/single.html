@@ -2,15 +2,22 @@
 {{ if eq .Type "search" }}
   <h1>Search results</h1>
   <p class="meta" id="status">Searching…</p>
+  <div id="pins"></div>
   <table class="eps"><tbody id="results"></tbody></table>
   <script>
-  const res = document.getElementById('results'), st = document.getElementById('status');
+  const res = document.getElementById('results'), st = document.getElementById('status'), pins = document.getElementById('pins');
   const query = new URLSearchParams(location.search).get('q') || '';
   fetch('/search.json').then(r => r.json()).then(idx => {
-    if (!query.trim()) { st.textContent = 'Use the search box in the menu bar to search ' + idx.length + ' shiurim.'; return; }
+    const nep = idx.filter(e => !e.kind || e.kind === 'episode').length;
+    if (!query.trim()) { st.textContent = 'Use the search box in the menu bar to search ' + nep + ' shiurim.'; return; }
     const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
-    const hits = idx.filter(e => { const h = (e.topic + ' ' + e.title).toLowerCase(); return terms.every(t => h.includes(t)); }).slice(0, 100);
-    st.textContent = hits.length + ' result' + (hits.length === 1 ? '' : 's') + ' for \u201C' + query + '\u201D';
+    const match = e => { const h = (e.q || (e.topic + ' ' + e.title)).toLowerCase(); return terms.every(t => h.includes(t)); };
+    const pinHits = idx.filter(e => e.kind && e.kind !== 'episode' && match(e)).slice(0, 10);
+    const hits = idx.filter(e => (!e.kind || e.kind === 'episode') && match(e)).slice(0, 100);
+    st.textContent = (pinHits.length ? pinHits.length + ' series/category match' + (pinHits.length === 1 ? '' : 'es') + ', ' : '') +
+      hits.length + ' shiur' + (hits.length === 1 ? '' : 'im') + ' for \u201C' + query + '\u201D';
+    pins.innerHTML = pinHits.map(e => '<p class="pinrow"><a href="' + e.page + '">' + e.title + '</a> <span class="meta">' +
+      (e.kind === 'category' ? 'Category' : 'Series \u00B7 ' + e.count + ' shiurim') + '</span></p>').join('');
     res.innerHTML = hits.map(e => '<tr><td><a href="' + e.page + '">' + e.topic + '</a></td><td>' + e.title + '</td><td class="dl"><a href="' + e.audio + '">Play / download</a></td></tr>').join('');
   });
   </script>

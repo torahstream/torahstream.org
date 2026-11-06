@@ -1,1 +1,8 @@
-[{{ $first := true }}{{ range .Site.Data.topics }}{{ $t := . }}{{ $eps := index $.Site.Data.episodes .id }}{{ range $eps }}{{ if not $first }},{{ end }}{{ $first = false }}{"topic":{{ $t.title | jsonify }},"title":{{ .Title | jsonify }},"audio":{{ .audio | jsonify }},"page":{{ printf "/%s/%s/" $t.dir $t.id | jsonify }}}{{ end }}{{ end }}]
+[{{ $first := true }}
+{{- range .Site.Data.categories.categories }}
+{{- if not $first }},{{ end }}{{ $first = false }}{"kind":"category","title":{{ .name | jsonify }},"q":{{ .name | jsonify }},"page":{{ printf "/Rabbi_Viener/#cat-%s" .id | jsonify }}}
+{{- end }}
+{{- range .Site.Data.topics }}{{ $t := . }}{{ $lt := $t.title }}{{ if $t.listing_title }}{{ $lt = $t.listing_title }}{{ end }}
+,{"kind":"series","title":{{ $lt | jsonify }},"q":{{ printf "%s %s" $t.title $t.listing_title | jsonify }},"count":{{ $t.count }},"page":{{ printf "/%s/%s/" $t.dir $t.id | jsonify }}}
+{{- range index $.Site.Data.episodes $t.id }},{"kind":"episode","topic":{{ $t.title | jsonify }},"title":{{ .Title | jsonify }},"q":{{ printf "%s %s" $t.title .Title | jsonify }},"audio":{{ .audio | jsonify }},"page":{{ printf "/%s/%s/" $t.dir $t.id | jsonify }}}{{ end }}
+{{- end }}]
