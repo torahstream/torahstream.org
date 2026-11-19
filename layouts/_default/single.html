@@ -24,12 +24,13 @@
 {{ else }}
   <h1>{{ .Title }}</h1>
   <p>
-    <a class="btn subscribe" data-copy-label="Copy audio feed URL" data-feed="{{ .Permalink }}rss.xml" href="rss.xml">Audio podcast feed</a>
-    <button type="button" class="copy-feed" data-feed="{{ .Permalink }}rss.xml">Copy feed URL</button>
+    <a class="btn subscribe" data-copy-label="Copy audio feed URL" data-feed="{{ .Permalink }}rss.xml"{{ with index .Site.Data.apple_podcasts .Params.topic_id }} data-apple="https://podcasts.apple.com/us/podcast/id{{ . }}"{{ end }} href="rss.xml">Audio podcast feed</a>
+    <button type="button" class="copy-feed" title="Copy this feed address to subscribe in your favorite podcast app — paste it where the app says ‘Add by URL’ or ‘Follow a Show by URL’" data-feed="{{ .Permalink }}rss.xml">Copy feed URL</button>
     {{ if .Params.has_video }}<a class="btn alt subscribe" data-copy-label="Copy video feed URL" data-feed="{{ .Permalink }}vodcast.xml" href="vodcast.xml">Video podcast feed</a>
-    <button type="button" class="copy-feed" data-feed="{{ .Permalink }}vodcast.xml">Copy feed URL</button>{{ end }}
+    <button type="button" class="copy-feed" title="Copy this feed address to subscribe in your favorite podcast app — paste it where the app says ‘Add by URL’ or ‘Follow a Show by URL’" data-feed="{{ .Permalink }}vodcast.xml">Copy feed URL</button>{{ end }}
     <span class="meta">{{ .Params.count }} shiurim</span>
   </p>
+  <p class="meta">New to podcasts? <a href="/subscribe/">How to subscribe on Mac, Windows, iPhone, or Android</a></p>
   {{ $eps := index .Site.Data.episodes .Params.topic_id }}
   <p><label><input type="checkbox" id="rev"{{ if .Params.ongoing }} checked{{ end }}> Show Newest First</label></p>
   <table class="eps"><tbody id="eps-body">

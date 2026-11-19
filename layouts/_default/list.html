@@ -14,7 +14,7 @@
       <div class="yr">
         <a class="yr-link" href="{{ .RelPermalink }}">{{ .Params.year }}{{ if .Params.ongoing }} <span class="ongoing">ongoing</span>{{ end }}</a>
         <span class="meta">{{ .Params.count }} shiurim</span>
-        <span class="dl"><a class="subscribe" data-copy-label="Copy audio feed" data-feed="{{ .Permalink }}rss.xml" href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a class="subscribe" data-copy-label="Copy video feed" data-feed="{{ .Permalink }}vodcast.xml" href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
+        <span class="dl"><a class="subscribe" data-copy-label="Copy audio feed" data-feed="{{ .Permalink }}rss.xml"{{ with index .Site.Data.apple_podcasts .Params.topic_id }} data-apple="https://podcasts.apple.com/us/podcast/id{{ . }}"{{ end }} href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a class="subscribe" data-copy-label="Copy video feed" data-feed="{{ .Permalink }}vodcast.xml" href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
       </div>
       {{ end }}
     {{ end }}
@@ -29,7 +29,7 @@
           <div class="yr">
             <a class="yr-link" href="{{ .RelPermalink }}">{{ .Params.year }}{{ if .Params.ongoing }} <span class="ongoing">ongoing</span>{{ end }}</a>
             <span class="meta">{{ .Params.count }} shiurim</span>
-            <span class="dl"><a class="subscribe" data-copy-label="Copy audio feed" data-feed="{{ .Permalink }}rss.xml" href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a class="subscribe" data-copy-label="Copy video feed" data-feed="{{ .Permalink }}vodcast.xml" href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
+            <span class="dl"><a class="subscribe" data-copy-label="Copy audio feed" data-feed="{{ .Permalink }}rss.xml"{{ with index .Site.Data.apple_podcasts .Params.topic_id }} data-apple="https://podcasts.apple.com/us/podcast/id{{ . }}"{{ end }} href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a class="subscribe" data-copy-label="Copy video feed" data-feed="{{ .Permalink }}vodcast.xml" href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
           </div>
           {{ end }}
         </details>
@@ -38,7 +38,7 @@
         <div class="yr single">
           <a class="yr-link" href="{{ .RelPermalink }}">{{ .Params.listing_title | default .Title }}</a>
           <span class="meta">{{ .Params.count }} shiurim</span>
-          <span class="dl"><a class="subscribe" data-copy-label="Copy audio feed" data-feed="{{ .Permalink }}rss.xml" href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a class="subscribe" data-copy-label="Copy video feed" data-feed="{{ .Permalink }}vodcast.xml" href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
+          <span class="dl"><a class="subscribe" data-copy-label="Copy audio feed" data-feed="{{ .Permalink }}rss.xml"{{ with index .Site.Data.apple_podcasts .Params.topic_id }} data-apple="https://podcasts.apple.com/us/podcast/id{{ . }}"{{ end }} href="{{ .RelPermalink }}rss.xml">Audio podcast</a>{{ if .Params.has_video }} · <a class="subscribe" data-copy-label="Copy video feed" data-feed="{{ .Permalink }}vodcast.xml" href="{{ .RelPermalink }}vodcast.xml">Video podcast</a>{{ end }}</span>
         </div>
         {{ end }}
       {{ end }}

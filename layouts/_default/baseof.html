@@ -32,7 +32,7 @@
   </form>
 </nav></header>
 <main>{{ block "main" . }}{{ end }}</main>
-<footer class="site">Questions or comments? Please, contact the <a href="mailto:webmaster.torahstream at gmail dot com" title="Click to email the webmaster, make sure to edit the e-mail address prior to sending.">webmaster</a> or <a href="mailto:yv at torahstream dot org" title="Click to email Rabbi Viener, make sure to edit the e-mail address prior to sending.">Rabbi Viener</a>.</footer>
+<footer class="site">Questions or comments? Please, contact the <a href="mailto:webmaster.torahstream at gmail dot com" title="Click to email the webmaster, make sure to edit the e-mail address prior to sending.">webmaster</a> or <a href="mailto:yv at torahstream dot org" title="Click to email Rabbi Viener, make sure to edit the e-mail address prior to sending.">Rabbi Viener</a>. · <a href="/subscribe/">How to subscribe</a></footer>
 
 <script>
 (function () {
@@ -91,10 +91,12 @@
 })();
 </script>
 <script>
-// Subscribe buttons act per platform: Apple Podcasts (itpc) on Apple
-// devices, the Subscribe-on-Android picker on Android, and copy-the-
-// feed-URL everywhere else (Windows has no reliable scheme). Without
-// JS the buttons stay plain feed links, as before.
+// Subscribe buttons act per platform: on Apple devices, the series'
+// Apple Podcasts catalog page when the series is listed there
+// (data-apple), otherwise copy-the-feed-URL; on Android, the
+// Subscribe-on-Android picker; everywhere else (Windows has no
+// reliable scheme) copy-the-feed-URL. Without JS the buttons stay
+// plain feed links, as before.
 (function () {
   var ua = navigator.userAgent || '';
   var apple = !/Windows/.test(ua) && (/iPhone|iPad|iPod|Macintosh|Mac OS X/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1));
@@ -120,11 +122,14 @@
   document.querySelectorAll('a.subscribe').forEach(function (a) {
     var feed = a.getAttribute('data-feed');
     if (!feed) return;
-    if (apple) { a.href = 'itpc://' + bare(feed); return; }
+    if (apple) {
+      var appleUrl = a.getAttribute('data-apple');
+      if (appleUrl) { a.href = appleUrl; return; }
+    }
     if (android) { a.href = 'https://subscribeonandroid.com/' + bare(feed); return; }
     var copyLabel = a.getAttribute('data-copy-label');
     if (copyLabel) a.textContent = copyLabel;
-    else a.title = 'Copy the podcast feed URL';
+    a.title = 'Copy this feed address to subscribe in your favorite podcast app — paste it where the app says ‘Add by URL’ or ‘Follow a Show by URL’';
     a.addEventListener('click', function (ev) {
       ev.preventDefault();
       copyText(feed, function () { flash(a); });
