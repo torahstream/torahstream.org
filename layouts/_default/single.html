@@ -24,8 +24,10 @@
 {{ else }}
   <h1>{{ .Title }}</h1>
   <p>
-    <a class="btn" href="rss.xml">Audio podcast feed</a>
-    {{ if .Params.has_video }}<a class="btn alt" href="vodcast.xml">Video podcast feed</a>{{ end }}
+    <a class="btn subscribe" data-copy-label="Copy audio feed URL" data-feed="{{ .Permalink }}rss.xml" href="rss.xml">Audio podcast feed</a>
+    <button type="button" class="copy-feed" data-feed="{{ .Permalink }}rss.xml">Copy feed URL</button>
+    {{ if .Params.has_video }}<a class="btn alt subscribe" data-copy-label="Copy video feed URL" data-feed="{{ .Permalink }}vodcast.xml" href="vodcast.xml">Video podcast feed</a>
+    <button type="button" class="copy-feed" data-feed="{{ .Permalink }}vodcast.xml">Copy feed URL</button>{{ end }}
     <span class="meta">{{ .Params.count }} shiurim</span>
   </p>
   {{ $eps := index .Site.Data.episodes .Params.topic_id }}

@@ -5,6 +5,6 @@
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
       <td class="count meta">{{ .count }}</td>
       <td class="meta latest">{{ .last }}</td>
-      <td class="dl sub"><a class="btn small" href="/{{ .dir }}/{{ .id }}/rss.xml">Subscribe</a></td></tr>
+      <td class="dl sub"><a class="btn small subscribe" data-feed="{{ $.Site.BaseURL }}{{ .dir }}/{{ .id }}/rss.xml" href="/{{ .dir }}/{{ .id }}/rss.xml">Subscribe</a></td></tr>
 {{ end }}
 </table>

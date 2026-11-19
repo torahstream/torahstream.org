@@ -90,5 +90,57 @@
   document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') { panel.hidden = true; header.classList.remove('search-open'); } });
 })();
 </script>
+<script>
+// Subscribe buttons act per platform: Apple Podcasts (itpc) on Apple
+// devices, the Subscribe-on-Android picker on Android, and copy-the-
+// feed-URL everywhere else (Windows has no reliable scheme). Without
+// JS the buttons stay plain feed links, as before.
+(function () {
+  var ua = navigator.userAgent || '';
+  var apple = !/Windows/.test(ua) && (/iPhone|iPad|iPod|Macintosh|Mac OS X/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1));
+  var android = /Android/.test(ua);
+  function bare(feed) { return feed.replace(/^https?:\/\//, ''); }
+  function copyText(t, done) {
+    function legacy() {
+      var ta = document.createElement('textarea');
+      ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy'); } catch (e) {}
+      document.body.removeChild(ta); done();
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(t).then(done, legacy);
+    } else legacy();
+  }
+  function flash(el) {
+    var orig = el.textContent;
+    el.textContent = 'Copied!';
+    setTimeout(function () { el.textContent = orig; }, 1600);
+  }
+  document.querySelectorAll('a.subscribe').forEach(function (a) {
+    var feed = a.getAttribute('data-feed');
+    if (!feed) return;
+    if (apple) { a.href = 'itpc://' + bare(feed); return; }
+    if (android) { a.href = 'https://subscribeonandroid.com/' + bare(feed); return; }
+    var copyLabel = a.getAttribute('data-copy-label');
+    if (copyLabel) a.textContent = copyLabel;
+    else a.title = 'Copy the podcast feed URL';
+    a.addEventListener('click', function (ev) {
+      ev.preventDefault();
+      copyText(feed, function () { flash(a); });
+    });
+  });
+  var copies = document.querySelectorAll('button.copy-feed');
+  if (!apple && !android) {
+    copies.forEach(function (b) { b.hidden = true; });
+  } else {
+    copies.forEach(function (b) {
+      b.addEventListener('click', function () {
+        copyText(b.getAttribute('data-feed'), function () { flash(b); });
+      });
+    });
+  }
+})();
+</script>
 </body>
 </html>
