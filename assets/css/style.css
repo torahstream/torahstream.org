@@ -192,3 +192,4 @@ details.fam > summary { padding:.6rem .8rem .6rem 0; }
   .yr { flex-wrap:wrap; row-gap:.1rem; }
   .yr .dl { margin-left:0; width:100%; }
 }
+main img { max-width: 100%; height: auto; }

@@ -26,6 +26,10 @@ Some series are also listed in Apple Podcasts directly — for those, the Subscr
 2. Open the **Podcasts** app.
 3. In the **File** menu, choose **Follow a Show by URL…**, paste the address, and confirm.
 
+![The File menu of the Apple Podcasts app on a Mac, showing "Follow a Show by URL…"](follow-by-url-mac.png)
+
+*The File menu in Apple Podcasts on a Mac — "Follow a Show by URL…" is right there.*
+
 ## Android
 
 Tap **Subscribe** on the series page and pick your podcast app — or copy the feed address and use the app's **Add by URL** option (usually under Search or the **+** button).
