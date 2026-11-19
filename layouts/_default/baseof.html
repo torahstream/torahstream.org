@@ -92,15 +92,18 @@
 })();
 </script>
 <script>
-// Subscribe buttons act per platform: on Apple devices, the series'
+// Subscribe buttons act per platform: on iPhone/iPad, itpc:// hands
+// the feed to the listener's own podcast app (Apple Podcasts,
+// Downcast, ... — verified on Anatoly's iPhone); on Mac, the series'
 // Apple Podcasts catalog page when the series is listed there
-// (data-apple), otherwise copy-the-feed-URL; on Android, the
-// Subscribe-on-Android picker; everywhere else (Windows has no
-// reliable scheme) copy-the-feed-URL. Without JS the buttons stay
-// plain feed links, as before.
+// (data-apple), otherwise copy-the-feed-URL (itpc has no handler in
+// macOS Safari); on Android, the Subscribe-on-Android picker;
+// everywhere else (Windows has no reliable scheme) copy-the-feed-URL.
+// Without JS the buttons stay plain feed links, as before.
 (function () {
   var ua = navigator.userAgent || '';
-  var apple = !/Windows/.test(ua) && (/iPhone|iPad|iPod|Macintosh|Mac OS X/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1));
+  var ios = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+  var mac = !ios && /Macintosh|Mac OS X/.test(ua);
   var android = /Android/.test(ua);
   function bare(feed) { return feed.replace(/^https?:\/\//, ''); }
   function copyText(t, done) {
@@ -123,7 +126,8 @@
   document.querySelectorAll('a.subscribe').forEach(function (a) {
     var feed = a.getAttribute('data-feed');
     if (!feed) return;
-    if (apple) {
+    if (ios) { a.href = 'itpc://' + bare(feed); return; }
+    if (mac) {
       var appleUrl = a.getAttribute('data-apple');
       if (appleUrl) { a.href = appleUrl; return; }
     }

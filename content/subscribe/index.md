@@ -12,13 +12,15 @@ Subscribe to a series and new shiurim arrive in your podcast app automatically, 
 
 Then tell your app to follow that address — this is a one-time step per series:
 
-## iPhone and iPad — Apple Podcasts
+## iPhone and iPad
+
+Tap **Subscribe** on the series page — your podcast app (Apple Podcasts, Downcast, or whichever you use) will ask to open the series; confirm, and you are subscribed.
+
+If that does not happen, subscribe by address instead:
 
 1. Copy the feed address (above).
 2. Open the **Podcasts** app, go to **Library**, and tap **⋯** at the top.
 3. Choose **Follow a Show by URL…**, paste the address, and tap **Follow**.
-
-Some series are also listed in Apple Podcasts directly — for those, the Subscribe button opens the series there, and one tap on **Follow** is all it takes.
 
 ## Mac — Apple Podcasts
 
