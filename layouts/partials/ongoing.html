@@ -1,6 +1,6 @@
 <h2>Currently ongoing</h2>
 <table class="topics">
-<tr><th>Series</th><th class="count">Shiurim</th><th>Latest</th><th class="sub">Podcast</th></tr>
+<tr><th>Series</th><th class="count">Shiurim</th><th>Latest</th><th class="sub">Podcasts <span class="meta">(<a href="/subscribe/">how to subscribe</a>)</span></th></tr>
 {{ range sort (where .Site.Data.topics "ongoing" true) "last" "desc" }}
   <tr><td><a href="/{{ .dir }}/{{ .id }}/">{{ .title }}</a></td>
       <td class="count meta">{{ .count }}</td>

@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ partial "ongoing.html" . }}
-<p class="meta">All series, grouped by topic — tap a category, then a series, to expand it.</p>
+<p class="meta">All series, grouped by topic — tap a category, then a series, to expand it. New to podcasts? <a href="/subscribe/">How to subscribe</a>.</p>
 {{ $cats := .Site.Data.categories }}
 {{ range $cat := $cats.categories }}
   {{ $pages := where $.Pages "Params.category" $cat.id }}
